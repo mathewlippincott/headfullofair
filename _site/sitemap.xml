@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/ed/jekyll/update/2017/09/27/welcome-to-jekyll.html</loc>
+<lastmod>2017-09-27T13:32:02-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/jekyll/update/2017/09/28/welcome-to-jekyll.html</loc>
+<lastmod>2017-09-28T15:51:06-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/ed/404.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/ed/about.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/ed/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/ed/</loc>
+</url>
+</urlset>
