@@ -51,12 +51,23 @@
 
 
 
+  <meta property="og:image" content="http://localhost:4000/assets/images/500x300.png">
 
 
 
 
 
 
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://localhost:4000",
+      "logo": "http://localhost:4000/assets/images/500x300.png"
+    }
+  </script>
 
 
 
@@ -150,12 +161,18 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   
+    <div class="author__avatar">
+      
+        <img src="http://localhost:4000/assets/images/profile.png" class="author__avatar" alt="Mathew Lippincott" itemprop="image">
+      
+    </div>
+  
 
   <div class="author__content">
     <h3 class="author__name" itemprop="name">Mathew Lippincott</h3>
     
       <p class="author__bio" itemprop="description">
-        I am an amazing person.
+        Flight-obsessed designer and public health enthusiast. I love making nstructions.
       </p>
     
   </div>
@@ -171,6 +188,13 @@
 
       
 
+      
+        <li>
+          <a href="mailto:headfullofair@gmail.com">
+            <meta itemprop="email" content="headfullofair@gmail.com" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email
+          </a>
+        </li>
       
 
       
@@ -191,6 +215,12 @@
 
       
 
+      
+        <li>
+          <a href="https://instagram.com/headfullofair" itemprop="sameAs">
+            <i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram
+          </a>
+        </li>
       
 
       
@@ -266,14 +296,6 @@
 </a>
       
     </h2>
-    
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-
-
-
-
-  less than 1 minute read
-</p>
     
     <p class="archive__item-excerpt" itemprop="description">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different wa...</p>
   </article>
