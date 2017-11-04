@@ -7,8 +7,6 @@ categories:
  - page
 ---
 
-## press about Mathew Lippincott
-
 The Crowd & The Cloud, PBS April 2017. [URL](http://crowdandcloud.org/watch-the-episodes/episode-one)
 
 Halperin, Jennie Rose. Collaboratively generating more knowledge: Public Lab's approach to citizen science. Creative Commons Blog, 7 September 2016. [URL](https://creativecommons.org/2016/09/07/collaboratively-generating-knowledge/)

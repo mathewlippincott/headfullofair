@@ -321,7 +321,14 @@
 <lastmod>2012-08-10T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/post/reboot/</loc>
+<lastmod>2017-11-03T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/404/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/contact/</loc>
@@ -331,6 +338,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/press/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/program/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page2/</loc>
@@ -376,5 +386,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/page16/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page17/</loc>
 </url>
 </urlset>
