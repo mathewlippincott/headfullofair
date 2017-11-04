@@ -21,3 +21,7 @@ http://www.recodenow.org/portfolio/developing-national-model-code-site-built-and
 
 As a founding member of the [Public Laboratory for Open Technology and Science](https://publiclab.org/profile/mathew), he worked to translate [environmental monitoring prototypes into manufactured kits](https://publiclab.myshopify.com/
 ) and [wrote and illustrated guides](https://publiclab.org/wiki/pm) to environmental pollution. Mathew maintained and versioned community research into Public Lab's Balloon Mapping Kit, and the campaign made [Kickstarter's best of 2012](https://www.kickstarter.com/year/2012).
+
+
+## [Press](/press)
+## [CV](/cv)
