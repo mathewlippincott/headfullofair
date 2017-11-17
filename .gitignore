@@ -5,3 +5,5 @@ assets/images/
 catalog
 wp-content
 .DS_store
+*/.DS_store
+transfer.sh
