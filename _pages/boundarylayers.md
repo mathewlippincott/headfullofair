@@ -7,7 +7,7 @@ toc: true
 categories: 
  - page
 ---
-v2.5 *Draft*
+v2.6 *Draft*
 
 ## Introduction 
 
@@ -23,7 +23,7 @@ For the official learning exercise, visit *[official link pending](link)*.  This
 ## Materials
 
 * Ribbon wands
-* [Handouts on Beaufort Scale](../assets/images/boundarylayers/beaufort_conifer_print_sm.pdf)
+* [Handouts on Beaufort Scale](beaufort_conifer_print_sm.pdf)
 * Mossy logs/rocks (one per 5 attendees)
  * Magnifying glasses or hand lenses for each log or rock
  * *Please put mosses back after your workshop*
@@ -49,7 +49,7 @@ Moss is a tiny forest.  Each tendril is its own plant, and all the tendrils work
 Moss's rough surface creates a turbulent Boundary Layer. As air swirls and mixes over rough surface of the moss, it separates from the flow and slows down more quickly. Boundary layers to make pleasant, safe zones to grow. From mosses to grasses and trees, plant communities make their own protective boundary layers.
 
 
-![Robin Kimmerer, Gathering Moss page 16](../assets/images/boundarylayers/robin-kimmerer16.png)
+![Moss and boundary layers](../assets/images/boundarylayers/mossandair.png)
 
 
 
@@ -79,30 +79,31 @@ What are the effects of buildings and other large obstacles?
 
 *Split into groups of 4-8 to explore wind moving around trees and other large obstacles such as buildings.*
 
-![buildiings and ribbon wands](../assets/images/boundarylayers/ribbons.png)
+![buildiings and ribbon wands](../assets/images/boundarylayers/building.png)
 
-*Return to the group* 
+*Bring the group together to discuss findings.* 
 
 ## The Boundary Layer in Grasses
 
-*time:*
 
-*Standing in medium to high grasses or near brush, take a quiet moment to feel the transition of grasses boundary layer.*
+*This excercise takes place in medium grasses or near bushes. Transitioning from laying down to standing, participants will move through the grass's boundary layer.*
 
 * *Form a circle*
 
-The wind is exponentially stronger at the top of a plant community than at the base.  The best way to experience this is to move through the boundary layer the plants make.
+The wind is exponentially stronger at the top of a plant community than at the base.  The best way to experience the transition in wind force from a full speed stream to the still air at the ground is to move through a plant's boundary layer.
 
-*Take an appropriate pause at each of these levels with eyes closed.*
+*Encourage participants to engage to their comfort level. It is ok to leave your eyes open or not want to lay down*
+
+*Take an appropriate pause at each of these levels with eyes closed.* 
 
 * *lay down*
 * *sit up*
 * *stand*
 
-*Encourage participants to engage to their comfort level. It is ok to leave your eyes open or not want to lay down*
 
 
-![lay, sit, stand](../assets/images/boundarylayers/laysitstand.png)
+
+![lay, sit, stand](../assets/images/boundarylayers/laysitstand-wide.png)
 
 
 Pay attention to the sounds of the wind, changes in temperature, the feeling of wind on your skin and especially on your face.
@@ -114,7 +115,7 @@ Pay attention to the sounds of the wind, changes in temperature, the feeling of 
 Now that we have a sense for what a boundary layer feels like, lets explore how plants make one.
 
 
-Now I’m a lone pine tree in a field.
+I’m going to be a lone pine tree in a field.
 
 ![me as a tree](../assets/images/boundarylayers/meandtree.png)
 
@@ -145,11 +146,15 @@ The branches on a tree work together to dampen movement for the tree. The branch
 
 As the air moves around me, it sticks to my rough surface and starts to spin. 
 
-As the air spins it expands to fill the space behind me and detaches from the my leaves, creating a tree-sized spinning air bubble, or air mass. pullng at the air around it, this air mass becomes a vortex.
+As the air spins it expands to fill the space behind me and detaches from the my leaves, creating a tree-sized spinning air bubble, or air mass. pullng at the air around it, this air mass becomes a vortex.  These continue about 8-10 tree heights behind a tree, and extend about 2.5 tree heights above a tree. 
 
 
 
-Flags flap becuase a vortex street forms behind a flagpole as a vortex peels off of one side of the pole and then the other. These continue 8-10 tree heights behind a tree, and extend 2.5 tree heights above a tree.
+![vortex behind a tree, an overhead view](../assets/images/boundarylayers/treeoverhead.png)
+
+
+
+Flags flap because vortex streets form behind a flagpoles.  Vorticies peels off alternating sides of the pole, inducing the wave seen in a flag.
 
 ### Practicing the Beafort wind force scale for Conifers
 

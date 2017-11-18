@@ -141,7 +141,8 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - transfer.sh
+  - /_drafts #ignore drafts
+  - transfer.sh #ignore upload script
 keep_files:
   - .git
   - .svn
