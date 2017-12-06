@@ -1,32 +1,25 @@
----
-layout: single
-title: "Boundary Layers Walk- Draft"
-author: Mathew
-permalink: /boundarylayers/
-toc: true
-categories: 
- - page
----
-v3.0 *Draft*
+v3.1 *Draft*
+
+![vortex behind a tree, an overhead view](../assets/images/boundarylayers/ribbongrid.png)
+
 
 ## Introduction 
 
 *Time: about one hour*
 
-The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence stratification. The goal is to build awareness of wind's movements through the local environment and plants' observable responses to wind force.
+The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence and stratification. The goal is to build awareness of wind's movement through the local environment and plants' observable responses to wind force. The activities involve using ribbon wands to visualize wind, and movement exercises to understand how plants cope with wind force.
 
 *[Mathew Lippincott](http://mathewlippincott.com) developed the original exercise through a [Guerilla Science](http://guerillascience.org) residency at [Pratt](Pratt.edu). This version of the exercise was revised and illustrated with assistance of the [AREN Project.](https://www.globe.gov/web/aren-project/overview/aerokats)*
 
-For the official learning exercise, visit *[official link pending](link)*.  This is a archive personal archive.
+For the official learning exercise, visit *[official link pending](link)*.  This is a personal archive.
 
 
 ## Materials
 
 * Ribbon wands
-* Handouts on the Beaufort Wind Force Scale
 * Mossy logs/rocks (one per 5 attendees)
- * Magnifying glasses or hand lenses for each log or rock
- * *Please put mosses back after your workshop*
+* Magnifying glasses or hand lenses for each log or rock
+* *Please put mosses back after your workshop*
 
 ## Overview
 These lessons are written as a script. Instructor text is in plain text. *Instructor actions are in italics*
@@ -35,18 +28,18 @@ These lessons are written as a script. Instructor text is in plain text. *Instru
 
 Today we're going to explore how trees reshape the atmosphere and observe the signs of the wind moving around us.
 
-A boundary layer is the space between an object and the free flow of air where air speed increases from zero at the surface of the object up to the speed of the unencumbered stream of air.
+A boundary layer is the space between an object and the free flow of air. In a boundary layer, air speed increases from nothing at the surface of the object to the speed of the stream.
 
-  There’s a boundary layer between this tent and the outside, and between you and the moss you’re looking at.
+There’s a boundary layer between between you and the moss you’re looking at.
 
 *Distribute hand lenses and moss*
 
 
 ![640px-Water_drops_moss.jpg](../assets/images/boundarylayers/moss.jpg)
 
-Moss is a tiny forest.  Each tendril is its own plant, and all the tendrils work together to hold in moisture. If you look hard carefully, a whole world of microscopic creatures lives in that forest. Life can thrive in the moss because moss has slowed the air down and captured water in a protected boundary layer of air.
+Moss is a tiny forest.  Each tendril is its own plant, and all the tendrils work together to hold in moisture. If you look carefully, a whole world of microscopic creatures lives in that forest. Life can thrive in the moss because moss has slowed the air down and captured water in a protected boundary layer of air.
 
-Moss's rough surface creates a turbulent Boundary Layer. As air swirls and mixes over rough surface of the moss, it separates from the flow and slows down more quickly. Boundary layers to make pleasant, safe zones to grow. From mosses to grasses and trees, plant communities make their own protective boundary layers.
+Moss's rough surface creates a turbulent boundary layer. As air swirls and mixes over rough surface of the moss, it separates from the flow and slows down more quickly than it would have in a smooth, or laminar, boundary layer. Boundary layers make pleasant, safe zones to grow. From mosses to grasses and trees, plant communities make their own protective boundary layers.
 
 
 ![Moss and boundary layers](../assets/images/boundarylayers/mossandair2.png)
@@ -79,18 +72,18 @@ What are the effects of buildings and other large obstacles?
 
 *Split into groups of 4-8 to explore wind moving around trees and other large obstacles such as buildings.*
 
-![buildiings and ribbon wands](../assets/images/boundarylayers/building.png)
+![buildings and ribbon wands](../assets/images/boundarylayers/building.png)
 
 *Bring the group together to discuss findings.* 
 
 ## The Boundary Layer in Grasses
 
 
-*This excercise takes place in medium grasses or near bushes. Transitioning from laying down to standing, participants will move through the grass's boundary layer.*
+*This exercise takes place in medium grasses or near bushes. Transitioning from laying down to standing, participants will move through the grass's boundary layer.*
 
 * *Form a circle*
 
-The wind is exponentially stronger at the top of a plant community than at the base.  The best way to experience the transition in wind force from a full speed stream to the still air at the ground is to move through a plant's boundary layer.
+The wind is exponentially stronger at the top of a plant community than at the base.  The best way to experience the transition in wind force still air at the ground to a full speed stream is to move through a plant's boundary layer.
 
 *Encourage participants to engage to their comfort level. It is ok to leave your eyes open or not want to lay down*
 
@@ -109,7 +102,7 @@ The wind is exponentially stronger at the top of a plant community than at the b
 Pay attention to the sounds of the wind, changes in temperature, the feeling of wind on your skin and especially on your face.
 
 
- 
+
 ## Trees Effects on the Boundary Layer
 
 Now that we have a sense for what a boundary layer feels like, lets explore how plants make one.
@@ -125,13 +118,13 @@ I’m going to be a lone conifer tree in a field, an evergreen that has needles.
 ### Resonating like a tree
 
 
-Musical instruments are made from wood because it resonates. Wood holds a note. Vortices tumbling branches resonate at a sustained frequency. We love wood for resonating, but resonating is a problem for a tree. Trees want to shed the wind's force quickly so they can be ready to absorb the next gust. 
+Musical instruments are made from wood because it resonates. Wood holds a note. We love wood for resonating, but resonating is a problem for a tree. Trees want to shed the wind's force quickly so they can readily absorb the next gust. 
 
-The movement of a trees' many branches help them absorb the wind because each branch resonates at a different frequency, and their clashing rhythms dampen motion. by all resonating at different, interfering frequencies.
+The movement of a trees' many branches help them absorb the wind because each branch resonates at a different frequency, and their clashing rhythms dampen motion.
 
 *Encourage everyone to put their hands out and be trees*
 
-The branches on a tree work together to dampen movement for the tree. The branches are swaying each at a slightly different pace, and those clashing rhythms cancel each other out.
+Branches each sway at a slightly different pace, and those clashing rhythms cancel each other out.
 
 
 1. *Wave one arm up and down at about once per second. Move vigorously, then pause.*
@@ -145,7 +138,7 @@ The branches on a tree work together to dampen movement for the tree. The branch
 
 As the air moves around me, it sticks to my rough surface and starts to spin. 
 
-As the air spins it expands to fill the space behind me and detaches from the my leaves, creating a tree-sized spinning air bubble, or air mass. pullng at the air around it, this air mass becomes a vortex.  These continue about 8-10 tree heights behind a tree, and extend about 2.5 tree heights above a tree. 
+As the air spins it expands to fill the space behind me and detaches from my leaves, creating a tree-sized spinning air bubble, or air mass. Pulling at the air around it, this air mass becomes a vortex. The trail left in the wind is called a vortex street. The vortex street continues about 8-10 times the height of the tree, and extends about 2.5 tree heights above a tree. 
 
 
 
@@ -153,12 +146,10 @@ As the air spins it expands to fill the space behind me and detaches from the my
 
 
 
-Flags flap because vortex streets form behind a flagpoles.  Vorticies peels off alternating sides of the pole, inducing the wave seen in a flag.
+Flags flap because vortex streets form behind a flagpoles.  Each vortex peels off alternating sides of the pole, inducing the waving seen in a flag.
 
 ### Practicing the Beafort wind force scale for conifers
 
-
-*Practice three levels first*
 
 ![handout conifer beaufort](../assets/images/boundarylayers/coniferarm.png)
 
@@ -171,54 +162,52 @@ In a Force 6 **strong breeze** (25-31mph) my trunk is swaying and my large branc
 
 As a Force 8 **gale** (32-45mph) picks up, my whole trunk is in constant motion and the clashing of my branches breaks needles and twigs. 
 
-In gale and storm force winds and I’m fighting for survival. If the wind hits 60mph I am hit by 200 tons of force. I’m dissipating that energy by moving and straining everything I’ve got, from my roots up to my needles. Movement can dissipate about a 1/3 of the wind's force.
+In gale and storm force winds trees fight for survival. If the wind hits 60mph I am hit by 200 tons of force. I’m dissipating that energy by moving and straining everything I’ve got, from my roots up to my needles. Movement can dissipate about a 1/3 of the wind's force.
 
 
 *Break into teams and try out being trees at different wind force levels.*
 
 
-Just as branches swaying at different frequencies dissipate energy, tree trunks swaying at different frequencies in a forest dampen each others' swaying as they bump into each other. These collisions diffuse about a 1/3 of the wind’s energy. We can expect solitary trees to move about 1/3 more than trees in a stand. 
+Just as branches swaying at different frequencies can dissipate energy, tree trunks swaying at different frequencies in a forest can dampen each others' swaying as they bump into each other. These collisions can diffuse up to a 1/3 of the wind’s energy. We can expect a stand of trees to move less than a single tree, and a forest to move less than a stand of trees.
 
 *Spread out to be trees again.*
 
- 
+
 ## Being a Deciduous Tree
 
-Now we're going to be deciduous trees. Trees with broad leaves that drop in winter.
+Now we're going to be deciduous trees. Trees with broad leaves that fall in preparation for winter.
 
-*Hold your arms up like a field goal*
+*Hold your arms up like a field goal.*
 
-Deciduous trees have branching trunks that go up and run into each other like a forest of conifers. Deciduous trees are somewhat better at dissipating the winds energy than conifers.
-
-*Hand out deciduous tree cards*
+Deciduous trees have branching trunks that go up and run into each other, much like a forest of conifers. By spreading their canopy out, deciduous trees are somewhat better at dissipating the winds energy than conifers.
 
 ![handout conifer beaufort](../assets/images/boundarylayers/deciduousme.png)
 
 
-*Practice three levels of the Beaufort scale together*
+*Practice three levels of the Beaufort scale together.*
 
 In a Force 2 **light breeze** (4-7mph)
 
- * Leaves rustle
+* leaves rustle
 
 In a Force 4 **moderate breeze** (13-18mph)
 
- * small branches move
- * small leaves turn over
+* small branches move
+* small leaves turn over
 
  In a Force 6 **strong breeze** (25-31mph)
- 
- * large branches in motion
- * large leaves turned over
+
+* large branches in motion
+* large leaves turned over
 
 ## Systematic ribbon wand deployment
 
-*Return to the ribbon wands and spread out across a field at even intervals behind a tree* 
+*Return to the ribbon wands and spread out across a field at even intervals behind a tree.* 
 
-![vortex behind a tree, an overhead view](../assets/images/boundarylayers/ribbongrid.png)
+![vortex behind a tree, an overhead view](../assets/images/boundarylayers/ribbongrid2.png)
 
 
 
-*Observe differences in wind effects and share observations*
+*Observe differences in wind effects and share observations.*
 
 *Throw ribbon wands in the air and celebrate!*
