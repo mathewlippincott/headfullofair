@@ -1,45 +1,70 @@
+---
+layout: single
+title: "Boundary Layers Walk"
+author: Mathew
+permalink: /boundarylayers/
+toc: true
+categories: 
+ - page
+---
+
 v3.1 *Draft*
 
-![vortex behind a tree, an overhead view](../assets/images/boundarylayers/ribbongrid.png)
+![vortex behind a tree visualized with ribbons](../assets/images/boundarylayers/ribbongrid.png)
 
 
 ## Introduction 
 
 *Time: about one hour*
 
-The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence and stratification. The goal is to build awareness of wind's movement through the local environment and plants' observable responses to wind force. The activities involve using ribbon wands to visualize wind, and movement exercises to understand how plants cope with wind force.
+The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence and stratification. The goal is to build an awareness of wind's movement through the local environment of buildings and trees. The activities involve using ribbon wands to visualize wind, movement exercises to understand how plants cope with wind force. A limited set of the the Beaufort Scale is used to estimate wind force.
 
 *[Mathew Lippincott](http://mathewlippincott.com) developed the original exercise through a [Guerilla Science](http://guerillascience.org) residency at [Pratt](Pratt.edu). This version of the exercise was revised and illustrated with assistance of the [AREN Project.](https://www.globe.gov/web/aren-project/overview/aerokats)*
 
-For the official learning exercise, visit *[official link pending](link)*.  This is a personal archive.
+This is a personal archive.
 
 
-## Materials
+## materials
 
-* Ribbon wands
-* Mossy logs/rocks (one per 5 attendees)
-* Magnifying glasses or hand lenses for each log or rock
-* *Please put mosses back after your workshop*
+* ribbon wands
+* optional but recommended:
+ * mossy logs/rocks (one per 5 attendees)
+ * magnifying glasses or hand lenses for each log or rock
+ * *please put mosses back after your workshop*
 
-## Overview
-These lessons are written as a script. Instructor text is in plain text. *Instructor actions are in italics*
+## locations
+
+* buildings, especially in fields
+* an open field
+* tall grasses or bushes near a field
+* a lone tree or stand of trees
+
+
+## reading this exercise
+This exercise is written as a script. Instructor text is in plain text. *Instructor actions are in italics*
 
 ## Boundary Layers Walk
 
 Today we're going to explore how trees reshape the atmosphere and observe the signs of the wind moving around us.
 
-A boundary layer is the space between an object and the free flow of air. In a boundary layer, air speed increases from nothing at the surface of the object to the speed of the stream.
+A boundary layer is the space between an object and a free flowing stream of air. In a boundary layer, air speed increases from nothing at the surface of the object to the speed of the stream.
 
-There’s a boundary layer between between you and the moss you’re looking at.
+There is a boundary layer between between you and the moss you’re looking at. There is also a boundary layer between the earth and the atmosphere, called the Atmospheric Boundary Layer.
 
 *Distribute hand lenses and moss*
 
 
-![640px-Water_drops_moss.jpg](../assets/images/boundarylayers/moss.jpg)
+![moss growing on a partially collapsed wall](../assets/images/boundarylayers/moss.jpg)
 
-Moss is a tiny forest.  Each tendril is its own plant, and all the tendrils work together to hold in moisture. If you look carefully, a whole world of microscopic creatures lives in that forest. Life can thrive in the moss because moss has slowed the air down and captured water in a protected boundary layer of air.
+A smooth object will have a smooth boundary layer, with still air only at its surface. The air stream is slowed around the object, slipping in layers of decreasing speed to still air at the surface. A smooth boundary layer is named a laminar boundary layer after these slipping layers.
 
-Moss's rough surface creates a turbulent boundary layer. As air swirls and mixes over rough surface of the moss, it separates from the flow and slows down more quickly than it would have in a smooth, or laminar, boundary layer. Boundary layers make pleasant, safe zones to grow. From mosses to grasses and trees, plant communities make their own protective boundary layers.
+Moss is not smooth, it is a tiny forest.  Each tendril is its own plant, and all the tendrils work together to hold in moisture. If you look carefully, a whole world of microscopic creatures lives in that forest. Life can thrive in the moss because moss has slowed the air down and captured water in a protected boundary layer.
+
+![moss up close](../assets/images/boundarylayers/mossclose.jpg)
+
+Moss's rough surface creates a turbulent boundary layer. As air moves over its surface, the flow of air over the moss separates from the main stream of air and begins to reverse and tumble. Turbulence dissipates the wind's energy more quickly than the slipping layers of air in a laminar boundary layer, and turbulent boundary layers are thicker and slower than laminar boundary layers.
+
+From mosses to grasses and trees, plant communities make their own protective boundary layers because boundary layers make pleasant, safe places to grow.
 
 
 ![Moss and boundary layers](../assets/images/boundarylayers/mossandair2.png)
@@ -48,7 +73,7 @@ Moss's rough surface creates a turbulent boundary layer. As air swirls and mixes
 
 Trees create the thickest boundary layer, lifting the wind above the surface of earth to create a big pocket of still air that retains moisture. Trees can make their own weather by working in together in forests.
 
-## Visualizing wind in boundary layer with ribbons
+## visualizing wind in the boundary layer with ribbons
 
 A lightweight ribbon will become caught in an air current, allowing us to see the wind moving around obstacles. 
 
@@ -76,7 +101,7 @@ What are the effects of buildings and other large obstacles?
 
 *Bring the group together to discuss findings.* 
 
-## The Boundary Layer in Grasses
+## the boundary layer in grasses
 
 
 *This exercise takes place in medium grasses or near bushes. Transitioning from laying down to standing, participants will move through the grass's boundary layer.*
@@ -103,7 +128,7 @@ Pay attention to the sounds of the wind, changes in temperature, the feeling of 
 
 
 
-## Trees Effects on the Boundary Layer
+## trees' effects on the boundary Layer
 
 Now that we have a sense for what a boundary layer feels like, lets explore how plants make one.
 
@@ -113,9 +138,9 @@ I’m going to be a lone conifer tree in a field, an evergreen that has needles.
 ![me as a tree](../assets/images/boundarylayers/treeinthewind.png)
 
 
-## Being a conifer tree
+## being a conifer tree
 
-### Resonating like a tree
+### resonating like a tree
 
 
 Musical instruments are made from wood because it resonates. Wood holds a note. We love wood for resonating, but resonating is a problem for a tree. Trees want to shed the wind's force quickly so they can readily absorb the next gust. 
@@ -134,7 +159,7 @@ Branches each sway at a slightly different pace, and those clashing rhythms canc
 3. *Attempt to wave both arms at the two different speeds.*
 
 
-### How trees shape the wind
+### how trees shape the wind
 
 As the air moves around me, it sticks to my rough surface and starts to spin. 
 
@@ -148,7 +173,7 @@ As the air spins it expands to fill the space behind me and detaches from my lea
 
 Flags flap because vortex streets form behind a flagpoles.  Each vortex peels off alternating sides of the pole, inducing the waving seen in a flag.
 
-### Practicing the Beafort wind force scale for conifers
+### practicing the Beafort wind force scale for conifers
 
 
 ![handout conifer beaufort](../assets/images/boundarylayers/coniferarm.png)
@@ -173,7 +198,7 @@ Just as branches swaying at different frequencies can dissipate energy, tree tru
 *Spread out to be trees again.*
 
 
-## Being a Deciduous Tree
+## being a Deciduous Tree
 
 Now we're going to be deciduous trees. Trees with broad leaves that fall in preparation for winter.
 
@@ -181,7 +206,7 @@ Now we're going to be deciduous trees. Trees with broad leaves that fall in prep
 
 Deciduous trees have branching trunks that go up and run into each other, much like a forest of conifers. By spreading their canopy out, deciduous trees are somewhat better at dissipating the winds energy than conifers.
 
-![handout conifer beaufort](../assets/images/boundarylayers/deciduousme.png)
+![handout deciduous beaufort](../assets/images/boundarylayers/deciduousme.png)
 
 
 *Practice three levels of the Beaufort scale together.*
@@ -200,11 +225,11 @@ In a Force 4 **moderate breeze** (13-18mph)
 * large branches in motion
 * large leaves turned over
 
-## Systematic ribbon wand deployment
+## systematic ribbon wand deployment
 
 *Return to the ribbon wands and spread out across a field at even intervals behind a tree.* 
 
-![vortex behind a tree, an overhead view](../assets/images/boundarylayers/ribbongrid2.png)
+![vortex behind a tree visualized with ribbons](../assets/images/boundarylayers/ribbongrid2.png)
 
 
 
