@@ -13,7 +13,7 @@ v3.1 *Draft*
 ![vortex behind a tree visualized with ribbons](../assets/images/boundarylayers/ribbongrid.png)
 
 
-## Introduction 
+## introduction 
 
 *Time: about one hour*
 
@@ -128,7 +128,7 @@ Pay attention to the sounds of the wind, changes in temperature, the feeling of 
 
 
 
-## trees' effects on the boundary Layer
+## trees' effects on the boundary layer
 
 Now that we have a sense for what a boundary layer feels like, lets explore how plants make one.
 
@@ -198,7 +198,7 @@ Just as branches swaying at different frequencies can dissipate energy, tree tru
 *Spread out to be trees again.*
 
 
-## being a Deciduous Tree
+## being a deciduous tree
 
 Now we're going to be deciduous trees. Trees with broad leaves that fall in preparation for winter.
 
