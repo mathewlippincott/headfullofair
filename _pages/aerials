@@ -1,0 +1,45 @@
+---
+title: "aerial photos"
+layout: splash
+permalink: /aerials/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: ../assets/images/aerials/header.jpg
+
+intro: 
+ - excerpt: "Most of these photos are were incidental to a [mapping expedition](/orthoimagery) or a flight test of a new balloon or kite. Flying is my real interest and cameras are just a [payload to lift](/rigs). Sometimes I still capture nice images."
+
+
+gallery:
+ - url: ../assets/images/rigs/P2340148.JPG
+   image_path: ../assets/images/rigs/P2340148-c.jpg
+ - url: ../assets/images/rigs/P_20160408_160200.jpg
+   image_path: ../assets/images/rigs/P_20160408_160200-c.jpg
+ - url: ../assets/images/rigs/off-windoverlay.jpg
+   image_path: ../assets/images/rigs/off-windoverlay-c.jpg
+ - url: ../assets/images/rigs/IMG_4049-c.jpg
+   image_path: ../assets/images/rigs/IMG_4049.JPG
+ - url: ../assets/images/rigs/Ann-Chen-2016.png
+   image_path: ../assets/images/rigs/Ann-Chen-2016.png
+ - url: ../assets/images/rigs/9414831007_08327924f0_o.jpg
+   image_path: ../assets/images/rigs/9414831007_08327924f0_o-c.jpg
+ - url: ../assets/images/rigs/8730217058_d50088516a_o.jpg
+   image_path: ../assets/images/rigs/8730217058_d50088516a_o-c.jpg
+ - url: ../assets/images/rigs/8621437280_8655c52aca_o.jpg
+   image_path: ../assets/images/rigs/8621437280_8655c52aca_o-c.jpg
+ - url: ../assets/images/rigs/8184262717_d021ec7117_b.jpg
+   image_path: ../assets/images/rigs/8184262717_d021ec7117_b.jpg
+ - url: ../assets/images/rigs/7199086896_660a6a0119_b.jpg
+   image_path: ../assets/images/rigs/7199086896_660a6a0119_b.jpg
+ - url: ../assets/images/rigs/20170708_193038.jpg
+   image_path: ../assets/images/rigs/20170708_193038-c.jpg
+ - url: ../assets/images/rigs/20170708_174857.jpg
+   image_path: ../assets/images/rigs/20170708_174857-c.jpg
+ - url: ../assets/images/rigs/17.jpg
+   image_path: ../assets/images/rigs/17-c.jpg
+---
+{% include feature_row id="intro" type="left" %}
+
+{% include gallery %}
+

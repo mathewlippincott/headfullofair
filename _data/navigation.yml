@@ -2,10 +2,10 @@
 main:
   # title: "Quick-Start Guide"
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "contact"
-     url: /contact
    - title: "space program"
      url: /program
+   - title: "contact"
+     url: /contact
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
