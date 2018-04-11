@@ -8,8 +8,9 @@ categories:
 tags:
  - solar balloon
  - balloons
+ 
 header: 
- overlay_image: /assets/images/dannybowmansolarballoon.jpg
+ image: /assets/images/dannybowmansolarballoon.jpg
  
 
 ---
