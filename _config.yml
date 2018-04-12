@@ -16,7 +16,7 @@ description              : "headfullofair.com collects Mathew Lippincott's DIY a
 url                      : "http://headfullofair.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mathewlippincott/headfullofair" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   :  /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,7 +107,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          :  "https://www.youtube.com/channel/UCDOJWm-vDlY-dbeWhijVntQ"
 
 
 # Reading Files
@@ -248,7 +248,7 @@ defaults:
       author_profile: false
       read_time: false
       comments: false # true
-      share: true
+      share: false
       related: true
 
 # Pages

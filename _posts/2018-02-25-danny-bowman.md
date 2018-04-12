@@ -12,6 +12,7 @@ tags:
 header: 
  image: /assets/images/dannybowmansolarballoon.jpg
  
+teaser: /assets/images/dannybowmansolarballoon.jpg 
 
 ---
 
