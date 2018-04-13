@@ -7,12 +7,12 @@ categories:
  - post
 tags:
  - wind
- - Beaufort Scale
+ - beaufort scale
+ - boundary layers
 
 header:
  image: /assets/images/boundarylayers/ribbongrid2.png
-
-teaser: /assets/images/boundarylayers/ribbongrid2.png
+ teaser: /assets/images/boundarylayers/ribbongrid2.png
 ---
 
 The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence and stratification. The goal is to build an awareness of wind's movement through the local environment of buildings and trees. The activities involve using ribbon wands to visualize wind and movement exercises to understand how plants cope with wind force. A limited set of the the Beaufort Scale is used to estimate wind force.

@@ -12,7 +12,7 @@ tags:
  
 header: 
  image: /assets/images/publiclab/IMG_7783.jpg
- 
+ teaser: /assets/images/publiclab/IMG_7783.jpg
 
 ---
 

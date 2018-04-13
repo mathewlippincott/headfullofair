@@ -3,17 +3,21 @@ layout: single
 title: "Boundary Layers Walk at the Oregon Eclipse Festival"
 author: Mathew
 toc: true
+tags:
+ - wind
+ - boundary layers
+ - beaufort scale
 categories: 
- - air
- - boundarylayers
- - beaufort
  - post
 
+header:
+ image: /assets/images/boundarylayers/7.jpg
+ teaser: /assets/images/boundarylayers/7.jpg
 ---
 
 This past summer I created a walk featuring workshop exercises about plants and wind in the landscape for my [Guerilla Science Residency](http://guerillascience.org/nsf-artsci-residents/). My goal was to introduce the lowest layer of the atmosphere, the Atmospheric Boundary Layer, and how plants shape it. We used ribbon wands to observe wind direction and turbulence, and observed tree movements to estimate wind force. 
 
-In this post I describe Boundary Layers Walk as it was prepared for the [Oregon Eclipse Festival](http://oregoneclipse2017.com/guerilla-science/). I've since revised the [Boundary Layers Walk](/boundarylayers). More background in [a previous post](/post/air/boundarylayers/beaufort/boundary-layers/).
+In this post I describe Boundary Layers Walk as it was prepared for the [Oregon Eclipse Festival](http://oregoneclipse2017.com/guerilla-science/). I've since revised the [Boundary Layers Walk](/boundarylayers). More background in [a previous post](/post/boundary-layers/).
 
 Colleen Donaldson and Sarah Vitak assisted me in rehersing and running the workshops, and [Skyler Greene](http://skygreenephotography.com/) took photos. The [AREN Project](https://www.globe.gov/web/aren-project/overview/aerokats) supported my [revision and illustration](/boundarylayers). 
 

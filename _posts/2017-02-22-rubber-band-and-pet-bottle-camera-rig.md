@@ -11,7 +11,7 @@ tags:
  
 header: 
  image: /assets/images/rigs/Ann-Chen-2016.png
- 
+ teaser: /assets/images/rigs/Ann-Chen-2016.png
 
 ---
 

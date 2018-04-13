@@ -12,7 +12,7 @@ tags:
  
 header: 
  image: /assets/images/publiclab/P_20160729_135108_crop.jpg
- 
+ teaser: /assets/images/publiclab/P_20160729_135108_crop.jpg
 
 ---
 

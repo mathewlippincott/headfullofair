@@ -12,8 +12,7 @@ tags:
 header: 
  image: /assets/images/publiclab/Spencer_Grant_GettyImgs_MysticRiver1974-CC-NC-SA.jpg
  image_title: _Compressed autos at Mystic River scrap yard, Everett, Massachusetts, 1974. Spencer Grant/Getty Images. [CC-NC-SA](https://creativecommons.org/licenses/by-nc-sa/2.0/legalcode)_
-
-teaser: /assets/images/publiclab/Spencer_Grant_GettyImgs_MysticRiver1974-CC-NC-SA.jpg 
+ teaser: /assets/images/publiclab/Spencer_Grant_GettyImgs_MysticRiver1974-CC-NC-SA.jpg 
 ---
 
 _In 2015 the [New America Foundation](http://www.newamerica.org/) asked me and Shannon Dosemagen to write a chapter for their [Drone Primer](http://drones.newamerica.org/primer/) on the politics of mapping and surveillance. I worked in an example of positive citizen surveillance by the [Conservation Law Foundation](http://www.clf.org/) (CLF) that I’d heard about in a session at the[ 2015 Public Interest Environmental Law Conference](http://pielc.org/cle-2015/).  I’ve excerpted and adapted my writeup of the CLF case as a part of our ongoing [Evidence Project](/tag/evidence-project) series. If you know of similar cases please get in touch!_

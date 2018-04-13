@@ -12,8 +12,7 @@ tags:
  
 header: 
  image: /assets/images/publiclab/P_20160604_113722_HDR.jpg
- 
-teaser: /assets/images/publiclab/P_20160604_113722_HDR.jpg
+ teaser: /assets/images/publiclab/P_20160604_113722_HDR.jpg
 
 ---
 
