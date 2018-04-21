@@ -50,7 +50,7 @@ gallery:
 
  - url: ../assets/images/rigs/7199086896_660a6a0119_b.jpg
    image_path: ../assets/images/rigs/7199086896_660a6a0119_b.jpg
-   title: "2012 Portland. Public Lab Balloon Mapping Kit 1.0."
+   title: "2012 Portland. I tested and compiled community contributions to Grassroots Mapping into Public Lab Balloon Mapping Kit, release 1.0."
 
  - url: ../assets/images/rigs/20170708_193038.jpg
    image_path: ../assets/images/rigs/20170708_193038-c.jpg

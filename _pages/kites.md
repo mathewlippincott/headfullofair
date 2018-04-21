@@ -52,9 +52,13 @@ gallery:
    image_path: ../assets/images/kites/5966179964_fd54439fe8_o.jpg
    title: "2011, Wohlhosen, Switzerland. Dan Kurahashi Invader, split bamboo and a shopping bag."
 
+feature_row2:
+ - url: /tags/kites
+   image_path: ../assets/images/kites/2012-11-30.png
+
 ---
 {% include feature_row id="intro" type="left" %}
 
 {% include gallery %}
 
-
+{% include feature_row id="feature_row2" type="center" %}
