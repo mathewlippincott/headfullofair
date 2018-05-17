@@ -13,12 +13,6 @@ header:
  image: /assets/images/dannybowmansolarballoon.jpg
  teaser: /assets/images/dannybowmansolarballoon.jpg 
 
-image:
- cover: true
- path: &image /assets/images/dannybowmansolarballoon.jpg
- feature: *image
-  thumbnail: /assets/images/dannybowmansolarballoon.jpg
-
 ---
 
 [Danny Bowman](https://bovineaerospace.wordpress.com) has just published on the array of 20' solar hot air balloons [he and Sarah Albert flew with a network of infrasound sensors](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggy069/4898033). On his blog you can find [instructions for the 20' balloons](https://bovineaerospace.wordpress.com/2016/06/08/how-to-build-a-high-altitude-solar-balloon/), which are made from HDPE painters' drop cloth and packing tape, and darkened with charcoal.
