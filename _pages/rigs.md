@@ -42,7 +42,7 @@ gallery:
 
  - url: ../assets/images/rigs/8621437280_8655c52aca_o.jpg
    image_path: ../assets/images/rigs/8621437280_8655c52aca_o-c.jpg
-   title: "2012 Portland, Foster Village,  Matt, Village Building Convergence, mapping with a homemade bamboo pole."
+   title: "2012 Portland, Foster Village,  Matt Phillips, Village Building Convergence, mapping with a homemade bamboo pole."
 
  - url: ../assets/images/rigs/8184262717_d021ec7117_b.jpg
    image_path: ../assets/images/rigs/8184262717_d021ec7117_b.jpg
