@@ -12,7 +12,7 @@ intro:
 
  
 
- My interest is kite construction for workshop production. I like making kites that tape together quickly out of bamboo, paper, tyvek, plastic bags, emergency blankets and other common, inexpensive materials. Kites’ long history indulges my passion for research. I collect books on historical and contemporary kites, seek out kite makers, and adapt kite designs for workshop construction."
+ My interest is kite construction for workshop production. I like making kites that tape together quickly out of bamboo, paper, tyvek, plastic bags, emergency blankets and other common, inexpensive materials. I indulge my passion for research digging through kites’ long history. I collect books on historical and contemporary kites, seek out kite makers, and adapt kite designs for workshop construction."
 
 gallery:
  - url: ../assets/images/kites/E-Louise-Larson-2011.jpg

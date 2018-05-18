@@ -51,3 +51,4 @@ Russell, Karl and Charles Duhigg, [Clean Water Act Violations are Neglected at a
 {: .notice} 
 Archived 4th of March 2018 [from Publiclab.org](https://publiclab.org/notes/mathew/09-30-2016/enforcing-stormwater-permits-with-google-street-view-along-the-mystic-river).
 
+*[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*

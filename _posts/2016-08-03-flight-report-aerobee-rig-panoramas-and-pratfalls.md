@@ -90,3 +90,5 @@ I'd like a little more safety.   At minimum, I'd want the rig to run down the li
 
 {: .notice} 
 Archived 4th of March 2018 [from Publiclab.org](https://publiclab.org/notes/mathew/08-03-2016/flight-report-aerobee-rig-panoramas-and-pratfalls).
+
+*[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*

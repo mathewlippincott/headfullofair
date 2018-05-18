@@ -139,5 +139,4 @@ Case study of wind turbine generator siting in complex terrain. Vachon, W.A. ; D
 EAGAN, RC, L. E. ANNEN-Dames, and Park Ridge Moore. "DATA ACQUISITION AND ANALYSIS FOR WIND TURBINE SITING IN THE UPPER MID WEST." Second ASME Wind Energy Symposium: presented at 6th Annual Energy-Sources Technology Conference and Exhibition, Houston, Texas, January 30-February 3, 1983. American Society of Mechanical Engineers, 1983.
 
 
-
-
+*[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*

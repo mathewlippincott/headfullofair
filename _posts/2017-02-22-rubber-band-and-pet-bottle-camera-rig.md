@@ -42,3 +42,5 @@ _This activity replaces the [PET Bottle Rig wiki page](https://publiclab.org/wik
 
 {: .notice} 
 Archived 4th of March 2018 [from Publiclab.org](https://publiclab.org/notes/mathew/02-22-2017/rubber-band-and-pet-bottle-camera-rig).
+
+*[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*

@@ -74,3 +74,5 @@ Chris
 
 {: .notice} 
 Archived 4th of March 2018 [from Publiclab.org](https://publiclab.org/notes/mathew/07-08-2016/notes-on-assembling-an-aerobee-rig).
+
+*[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*

@@ -57,3 +57,5 @@ We used a [Brunton TruArc 7](https://www.brunton.com/products/truarc-7) compass,
 
 {: .notice} 
 Archived 4th of March 2018 [from Publiclab.org](https://publiclab.org/notes/mathew/04-28-2017/determining-wind-direction-with-a-kite-and-compass). [Kite anemometers](/tag/kite-anemometer) on this site, and on [Github](https://github.com/mathewlippincott/TALA/).
+
+*[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
