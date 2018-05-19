@@ -6,21 +6,22 @@ layout: single
 guid: http://www.headfullofair.com/?p=400
 permalink: /2011/02/27/kite-balloon-development-plots/
 categories:
-  - balloons
-  - future
-  - grassrootsmapping
-  - the real world
   - post
 tags:
   - history
-  - kiteballoon
-  - publiclaboratory
+  - kite balloons
+  - grassrootsmapping
+
+
+header:
+  image: http://farm6.static.flickr.com/5217/5483133295_d28d752187.jpg
+  teaser: http://farm6.static.flickr.com/5217/5483133295_d28d752187.jpg
+  
 ---
 Follow the [kite balloon working page][1] over at the [Public Laboratory for Open Technology and Science][2].  There&#8217;s a lot of research in there that I&#8217;ve only now gotten on the web.
 
 &nbsp;
 
-[<img src="http://farm6.static.flickr.com/5217/5483133295_d28d752187.jpg" width="333" height="500" alt="test kite balloon with molly, 2008" />][3]
 
  [1]: http://publiclaboratory.org/tool/kite-balloon-hybrid
  [2]: http://publiclaboratory.org

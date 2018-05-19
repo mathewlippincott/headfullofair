@@ -6,10 +6,17 @@ layout: single
 guid: http://www.headfullofair.com/?p=249
 permalink: /2010/06/17/grassroots-mapping-in-the-gulf-long-beach-mississippi-and-portland-or/
 categories:
-  - balloons
-  - the real world
-  - Uncategorized
   - post
+
+tags: 
+  - balloons
+  - grassrootsmapping
+
+
+header:
+  image: /wp-content/uploads/2010/06/longbeachmississippi_zoom1.jpg
+  teaser: /wp-content/uploads/2010/06/longbeachmississippi_zoom1.jpg
+
 ---
 I threw up a quick link to [Grassroots Mapping][1] a[ few weeks ago][2], and in the mean time they&#8217;re on it!  Check out their latest stitch of Long Beach,
 

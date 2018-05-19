@@ -5,7 +5,7 @@ author: Mathew
 toc: true
 tags:
  - kites
- - kite-anemometers
+ - kite anemometers
 categories: 
  - post
 

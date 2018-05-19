@@ -5,12 +5,17 @@ author: Mathew
 layout: single
 guid: http://www.headfullofair.com/?p=115
 permalink: /2009/08/02/a-pattern-language-picnic-table/
-categories:
+tags:
   - books
-  - christopher alexander
   - furniture
-  - the real world
+
+categories:
   - post
+
+header:
+  image: /wp-content/uploads/2009/08/20090802_picnictable2.jpg
+  teaser: /wp-content/uploads/2009/08/20090802_picnictable2.jpg
+
 ---
 Our first project in Chimacum was a social one- the farm lacked an outdoor public space.  Beth really wanted a nice central area, so we cleared out storage underneath a cedar grove (the Seven Cedars) and replaced it with a picnic table made from site-harvested cedar.  I&#8217;m really happy with this space and with the picnic table we made.
 

@@ -7,6 +7,10 @@ guid: http://www.headfullofair.com/?p=90
 permalink: /2009/07/22/the-puritan-panopticon/
 categories:
   - post
+
+header:
+  image: /wp-content/uploads/2009/07/14493361.jpg
+  teaser: /wp-content/uploads/2009/07/14493361.jpg
 ---
 [<img class="size-full wp-image-91 alignleft" title="14493361" src="http://www.headfullofair.com/wp-content/uploads/2009/07/14493361.jpg" alt="14493361" width="125" height="193" />][1]I&#8217;ve been reading **[Albion&#8217;s Seed][1]**, recommended to me by **[Paul Singer][2]**, and recently found on a bookshelf here in Port Townsend.  The Puritan history is horrifying.
 

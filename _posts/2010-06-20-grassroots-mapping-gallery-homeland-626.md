@@ -6,17 +6,18 @@ layout: single
 guid: http://www.headfullofair.com/?p=260
 permalink: /2010/06/20/grassroots-mapping-gallery-homeland-626/
 categories:
-  - art
-  - balloons
-  - the real world
   - post
 tags:
   - balloons
-  - Deepwater Horizon
-  - gallery homeland
-  - grassroots mapping
+  - grassrootsmapping
+
+
+header:
+  image: /wp-content/uploads/2010/06/6_26poster.jpg
+  teaser: /wp-content/uploads/2010/06/6_26poster.jpg
+
 ---
-[<img class="alignnone size-full wp-image-261" title="grassroots mapping portland" src="http://www.headfullofair.com/wp-content/uploads/2010/06/6_26poster.jpg" alt="" width="500" height="386" />][1]
+
 
 **[Click here for a print-quality image.][2]**
 

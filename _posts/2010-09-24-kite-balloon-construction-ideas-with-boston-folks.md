@@ -6,22 +6,17 @@ layout: single
 guid: http://www.headfullofair.com/?p=351
 permalink: /2010/09/24/kite-balloon-construction-ideas-with-boston-folks/
 categories:
-  - airships
-  - balloons
-  - grassrootsmapping
   - post
 tags:
-  - balloon construction
-  - grassroots mapping
-  - helikite
-  - jeffrey warren
-  - john borden
-  - kite balloon
-  - peace river studios
-  - roller sealer
-  - southern balloon works
+  - balloons
+  - grassrootsmapping
+  - kite balloons
+
+header:
+  image: /wp-content/uploads/2010/09/P1030281_cfix-e1285382833952.jpg
+  teaser: /wp-content/uploads/2010/09/P1030281_cfix-e1285382833952.jpg
+  
 ---
-[<img class="alignnone size-full wp-image-352" title="elliptical kite balloon sketch and tools" src="http://www.headfullofair.com/wp-content/uploads/2010/09/P1030281_cfix-e1285382833952.jpg" alt="" width="600" height="464" />][1]
 
 Sketch of an elliptical kite balloon like the [**Allsopp Helikite**][2] constructed with a rolling heat sealer (on left).
 

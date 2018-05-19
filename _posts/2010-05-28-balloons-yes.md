@@ -8,10 +8,12 @@ permalink: /2010/05/28/balloons-yes/
 dsq_thread_id:
   - 3530698169
 categories:
+  - post
+tags:
   - airships
   - balloons
-  - future
-  - post
+  - grassrootsmapping
+
 ---
 More wonderful balloon links:
 

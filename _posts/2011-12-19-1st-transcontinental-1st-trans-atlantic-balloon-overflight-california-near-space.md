@@ -7,18 +7,14 @@ layout: single
 guid: http://www.headfullofair.com/?p=465
 permalink: /2011/12/19/1st-transcontinental-1st-trans-atlantic-balloon-overflight-california-near-space/
 categories:
-  - balloons
-  - future
-  - the real world
   - post
 tags:
-  - balloon construction
   - balloons
-  - california near space
-  - robert rochte
-  - superpressure
-  - troposphere
-  - white star
+
+header:
+  image: /wp-content/uploads/2011/12/transatlantic_balloon.jpg
+  teaser: /wp-content/uploads/2011/12/transatlantic_balloon.jpg
+
 ---
 I&#8217;m not up on my balloon news! posted here for the purpose of completeness. **[ California Near Space][1]**  was **[already slashdotted][2]** four days ago.
 

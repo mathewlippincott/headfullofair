@@ -6,19 +6,21 @@ layout: single
 guid: http://www.headfullofair.com/?p=277
 permalink: /2010/06/25/helium-dispersion-through-hdpe/
 categories:
-  - balloons
-  - grassrootsmapping
-  - the real world
   - post
 tags:
-  - grassroots mapping
-  - HDPE
-  - helium
-  - polyethylene
+  - grassrootsmapping
+  - balloons
+
+
+header:
+  image: /wp-content/uploads/2010/06/balloons2.png
+  teaser: /wp-content/uploads/2010/06/balloons2.png
+
 ---
+
 In conversations on the Grassroots Mapping google group we&#8217;ve been wondering how long a homemade Polyethylene helium balloon could stay aloft.  At what rate would a balloon lose it&#8217;s helium?  This is a crucial question, since** [tomorrow we&#8217;ll be building a bunch of balloons][1]**. So last night I ran helium dispersion tests through HDPE with four different types of sheeting sitting around my house and a borrowed electronic balance.
 
-[<img class="alignnone size-full wp-image-278" title="balloons2" src="http://www.headfullofair.com/wp-content/uploads/2010/06/balloons2.png" alt="" width="577" height="322" />][2]
+
 
 **Conclusions**
 

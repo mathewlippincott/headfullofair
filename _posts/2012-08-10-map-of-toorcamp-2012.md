@@ -6,15 +6,12 @@ layout: single
 guid: http://www.headfullofair.com/?p=468
 permalink: /2012/08/10/map-of-toorcamp-2012/
 categories:
-  - grassrootsmapping
-  - kites
-  - publiclaboratory
-  - toorcamp
   - post
 tags:
   - dorkbot
   - kites
-  - toorcamp
-  - toorcamp 2012
-  - toorcamp2012
+  - grassrootsmapping
 ---
+
+
+<iframe src="http://mapknitter.org/embed/toorcamp-2012" style="border:none;width:100%;height:400px;"></iframe>

@@ -6,26 +6,22 @@ layout: single
 guid: http://www.headfullofair.com/?p=368
 permalink: /2010/10/20/kite-balloon-futures-and-histories/
 categories:
-  - airships
-  - balloons
-  - future
-  - grassrootsmapping
-  - the real world
   -  post
 tags:
-  - August von parseval
-  - blimp
-  - drachenballoon
-  - grassroots mapping
-  - grassroots mapping pdx
-  - helikite
-  - horse borne air war
-  - horses
-  - kite balloon
-  - no tech magazine
-  - sometimes a cigar is just a cigar
-  - southern balloon works
+  - balloons
+  - airships
+  - kite balloons
+  - grassrootsmapping
+
+
+header:
+  image: /wp-content/uploads/2010/10/airshipspastpres00hildrich-107.jpg
+  teaser: /wp-content/uploads/2010/10/airshipspastpres00hildrich-107.jpg
+
 ---
+
+*Major Parseval's dirigible balloon 1906-1908* 
+
 To follow on my [**love of kite balloons,**][1] and the [**kite balloon action at the grassroots mapping list**][2].  here are a few awesome kite balloon histories.
 
 [**No-tech magazine, Airships Past and Present, 1908**][3].  Look especially for details on [**Parseval**][4] and Sigsfeld, [**drachenballoon**][5] developers. There is an inflatable airship designed for logging.  then in Belgium, [**horse-borne air war**][6].  In america, an[ **early aircraft carrier** ][7]with a** **[**balloon dome**][8]. [**Glamor shots reveal a counterweight in the rigging**][9]. The [**priapism of war**][10].

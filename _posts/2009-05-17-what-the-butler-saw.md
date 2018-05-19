@@ -6,16 +6,9 @@ layout: single
 guid: http://www.headfullofair.com/?p=26
 permalink: /2009/05/17/what-the-butler-saw/
 categories:
-  - books
-  - mutoscope
-  - the real wold
-tags:
-  - fernando renes
-  - home movies
-  - kinora
-  - mutoscope
-  - what the butler saw
   - post
+tags:
+  - mutoscope
 ---
 [<img class="alignleft" title="1899 advertisment" src="http://upload.wikimedia.org/wikipedia/en/a/a8/Mutoscope%2C_1899.jpg" alt="" width="243" height="366" />][1]In 1894 Herman Casler, a former engineer for Edison, brought to market **[a motion picture machine ][2]**that avoided expensive and dangerously flammable nitrate film. Nothing more than a circular flipbook with a gear attached, the **[Mutoscope][3]** was immediately put to use filling bars and arcades with one to two minute doses of penny-per-play peep shows. In England the machine was known by the name of it&#8217;s earliest soft-core feature,[**&#8220;What the Butler Saw.&#8221; **][4] Middle Class Moralizers went bonkers, even though **[the names][5] **were racier than** [the content.][6]**
 

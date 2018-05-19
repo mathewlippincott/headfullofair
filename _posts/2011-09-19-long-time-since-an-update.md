@@ -7,8 +7,19 @@ guid: http://www.headfullofair.com/?p=459
 permalink: /2011/09/19/long-time-since-an-update/
 categories:
   - post
+
+tags:
+  - public lab
+  - kites
+  - grassrootsmapping
+
+header:
+  image: http://farm7.static.flickr.com/6126/5983112297_39e2d0f09e.jpg
+  teaser: http://farm7.static.flickr.com/6126/5983112297_39e2d0f09e.jpg
+  
 ---
 Its been so long since an update.  I Spent my summer between **[Switzerland][1]**, studying sanitation with **[Cewas][2] **and **[Butte, Montana][3]** working on community mapping in Centerville through **[Public Laboratory][4]** and the **[Scoria Residency Program][5].**  Now **[Molly and I][6]** are mentoring a studio at**[ PNCA&#8217;s MFA program in Collaborative Design][7]**, and I&#8217;m teaching a class on an intermedia undergraduate course in Art and Science.  First critique is tomorrow&#8230;  
+
 [<img src="http://farm7.static.flickr.com/6208/6084853308_6fd47dffcd.jpg" alt="Northwestern Centerville, Butte, MT.  rectified" width="500" height="356" />][8]
 
 In the mean time, I&#8217;m making a** [cheap kite kit from bamboo and tyvek][9]**.

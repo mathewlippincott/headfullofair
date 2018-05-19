@@ -6,9 +6,19 @@ layout: single
 guid: http://www.headfullofair.com/?p=340
 permalink: /2010/08/05/grassroots-mapping-pdx-workshop-flights/
 categories:
+  - post
+
+tags:
+  - solar balloon
   - balloons
   - grassrootsmapping
-  - the real world
+
+
+
+header:
+  image: /wp-content/uploads/2010/07/solar-flight-se.png
+  teaser: /wp-content/uploads/2010/07/solar-flight-se.png
+  
 ---
 I realized I forgot to link these up on my blog:
 

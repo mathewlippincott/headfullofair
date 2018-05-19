@@ -6,15 +6,11 @@ layout: single
 guid: http://www.headfullofair.com/?p=229
 permalink: /2010/02/11/quick-links/
 categories:
-  - balloons
-  - the real world
   - post
+
 tags:
-  - airplanes
-  - arduino
-  - Atlantic Halo
-  - robert fortner
-  - text messaging
+  - balloons
+  
 ---
 I&#8217;ve been very busy with a trans-continental move and more&#8230; So I&#8217;m going to try to just post links regularly, rather than longer things.
 

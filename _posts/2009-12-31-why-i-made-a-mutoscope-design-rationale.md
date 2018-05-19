@@ -6,16 +6,16 @@ layout: single
 guid: http://www.headfullofair.com/?p=220
 permalink: /2009/12/31/why-i-made-a-mutoscope-design-rationale/
 categories:
-  - mutoscope
-  - the real world
   - post
 tags:
-  - fernando renes
   - mutoscope
----
-[<img class="alignnone size-medium wp-image-225" title="The finished mutoscope" src="http://www.headfullofair.com/wp-content/uploads/2009/12/mutoscope-complete_sm-220x300.jpg" alt="The finished mutoscope" width="220" height="300" />][1]
 
-[<img class="alignnone size-medium wp-image-227" title="I signed it in stamped aluminum" src="http://www.headfullofair.com/wp-content/uploads/2009/12/P1010389_crop-300x70.jpg" alt="I signed it in stamped aluminum" width="300" height="70" />][2]
+
+header:
+  image: /wp-content/uploads/2009/12/mutoscope-complete_sm.jpg
+  teaser: /wp-content/uploads/2009/12/mutoscope-complete_sm.jpg
+
+---
 
 There are many reasons to love **[mutoscopes][3]**, from nostalgia to mechanical beauty, but any expensive niche medium competing with less expensive and widely available systems must have a design rationale and purpose in it&#8217;s own right beyond the purely aesthetic.  Within the context of the art world mutoscopes have a place as more than a curiosity- they are a solution to a real problem facing animators like Fernando.
 
@@ -28,6 +28,8 @@ Animators are therefore marginalized within the fine art world.  Their work is 
 Large-scale mutoscopes can address this problem for Fernando and other animators that draw animations frame by frame.  A mutoscope is a circular flip book with it&#8217;s pages radiating out from a central binding, played in a mechanical player.  Traditionally they were used for photo reproduction of short peep show movies.  The Mutoscope for Fernando is for original drawings, and so must be  substantially larger (4&#8243; x  3&#8243; drawing area) than a traditional mutoscope[ (1 7/8&#8243; square)][4].   The Mutoscope for Fernando can accept reels of original drawings from 500 to 2500 frames in length, or 30 seconds to 3 minutes, playing back at 8-16 frames per second.
 
 By drawing directly into mutoscope reels, Fernando can make his original drawings move, creating an original object bearing his mark as an artist that is also an animation.  Since it is an original,  &#8220;prints&#8221; may be made from it- movies of the machine in action- that have the same relationship that paintings bear to prints.  My hope is that mutoscopes can bring the same level of study and distribution to Fernando&#8217;s animation that paintings currently enjoy, strengthening the art world and widening his audience.
+
+[<img class="alignnone size-medium wp-image-227" title="I signed it in stamped aluminum" src="http://www.headfullofair.com/wp-content/uploads/2009/12/P1010389_crop-300x70.jpg" alt="I signed it in stamped aluminum" width="300" height="70" />][2]
 
  [1]: http://www.headfullofair.com/wp-content/uploads/2009/12/mutoscope-complete_sm.jpg
  [2]: http://www.headfullofair.com/wp-content/uploads/2009/12/P1010389_crop.jpg

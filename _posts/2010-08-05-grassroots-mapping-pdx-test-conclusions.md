@@ -6,13 +6,13 @@ layout: single
 guid: http://www.headfullofair.com/?p=323
 permalink: /2010/08/05/grassroots-mapping-pdx-test-conclusions/
 categories:
-  - balloons
-  - grassrootsmapping
-  - the real world
   - post
 tags:
-  - grassroots mapping
-  - solar balloons
+  - grassrootsmapping
+  - solar balloon
+  - balloons
+
+  
 ---
 With help from my[ **Dad**][1], **[RJ Steinert][2]**, **[Samantha Mitchell][3]**, **[Robby Kraft][4]**, and **[Molly Danielsson][5]**, I&#8217;ve been flying balloons most weekends since the workshop in June, gathering lift and flight data on helium and solar hot air balloons.****
 

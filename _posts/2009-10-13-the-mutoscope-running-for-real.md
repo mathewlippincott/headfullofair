@@ -5,11 +5,19 @@ author: Mathew
 layout: single
 guid: http://www.headfullofair.com/?p=175
 permalink: /2009/10/13/the-mutoscope-running-for-real/
+
 categories:
-  - mutoscope
-  - the real world
   - post
+
+tags:
+  - mutoscope
+
+header:
+  image: /wp-content/uploads/2009/10/P1000967sm.jpg
+  teaser: /wp-content/uploads/2009/10/P1000967sm.jpg
+
 ---
+
 Some photos of the **[mutoscope][1] **from the last week.  It runs, it projects!  Everything needs to be tightened up (and quite a bit re-built) so it can be shipped, installed, cranked by museum goers, broken down, repeat x4.  But after 3 months of work I have an amazing lightness of being- something like, &#8220;oh, I&#8217;m not full of shit.&#8221;
 
 [<img class="alignnone size-medium wp-image-173" title="the mutoscope, open" src="http://www.headfullofair.com/wp-content/uploads/2009/10/P1000933sm-247x300.jpg" alt="the mutoscope, open" width="247" height="300" />][2]

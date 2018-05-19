@@ -6,20 +6,10 @@ layout: single
 guid: http://www.headfullofair.com/?p=427
 permalink: /2011/05/09/topographic-maps-from-fled-kites/
 categories:
-  - future
-  - grassrootsmapping
-  - publiclaboratory
-  - the real world
   - post
 tags:
-  - agisoft
-  - agisoft photscan
-  - fled
   - grassrootsmapping
-  - kite
-  - nathan craig
-  - photscan
-  - publiclaboratory
+  - kites
 ---
 **[I just started building fled kite][1]s**, but my fellow Grassroots Mapper Nathan Craig is **[already doing 3D topographic scans with them.][2] ** He&#8217;s using **[AgiSoft&#8217;s PhotoScan][3]**, which is unfortunately not open source, and costs $179.  But as he points out, you** [just feed it images and it makes a damned good 3D model.][4]**
 

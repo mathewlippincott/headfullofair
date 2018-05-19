@@ -6,13 +6,18 @@ layout: single
 guid: http://www.headfullofair.com/?p=193
 permalink: /2009/11/20/nolow-tech-magazine/
 categories:
+  - post
+
+tags:
   - agriculture
   - airships
   - balloons
-  - books
-  - mutoscope
-  - the real world
-  - post
+
+
+header:
+  image: /wp-content/uploads/2009/11/airshipspast_present-40.png
+  teaser: /wp-content/uploads/2009/11/airshipspast_present-40.png
+
 ---
 Kris de Decker produces some of the **[most insightful][1]** and **[well-researched articles][2]** on technology anywhere on the internet.  He has a simple premise- novel &#8220;high-tech&#8221; solutions aren&#8217;t always that great.  Don&#8217;t give up on established, simple, and efficient solutions to human problems.  He just **[linked back to me][3]** when I pointed him to KMODDL, and I wanted to share some stuff he&#8217;s posted, since it&#8217;s been sitting in my &#8220;to post&#8221; folder since August:
 

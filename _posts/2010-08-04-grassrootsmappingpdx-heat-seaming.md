@@ -6,14 +6,17 @@ layout: single
 guid: http://www.headfullofair.com/?p=320
 permalink: /2010/08/04/grassrootsmappingpdx-heat-seaming/
 categories:
-  - balloons
-  - grassrootsmapping
-  - the real world
   - post
 tags:
-  - balloon building
-  - grassrootsmappingPDX
-  - heat seaming
+  - balloons
+  - grassrootsmapping
+  - solar balloon
+
+header:
+  image: /wp-content/uploads/2010/07/heat-seaming-se.png
+  teaser: /wp-content/uploads/2010/07/heat-seaming-se.png
+
+  
 ---
 Here&#8217;s the instructional video from the workshop on heat seaming balloons.  If you have the space and equipment, this will produce a lighter, more air-tight balloon.
 

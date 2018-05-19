@@ -6,9 +6,10 @@ layout: single
 guid: http://www.headfullofair.com/?p=195
 permalink: /2009/11/20/other-mutoscopes-micro-movie-projectors/
 categories:
-  - mutoscope
-  - the real world
   - post
+tags:
+  - mutoscope
+
 ---
 Two other people making mutoscopes:
 
@@ -21,7 +22,7 @@ Look for miniature projectors starting at 1:57 in this video
 **  
 **
 
- [1]: http://www.youtube.com/watch?v=HCJeOca-GQU&feature=player_embedded
+ [1]: https://youtu.be/-0rzZRooX5w
  [2]: http://www.thechasefactory.com/mutoscope.html
  [3]: http://www.headfullofair.com/2009/05/17/what-the-butler-saw/
  [4]: http://cortese.publishpath.com/

@@ -6,14 +6,11 @@ layout: single
 guid: http://www.headfullofair.com/?p=348
 permalink: /2010/09/24/open-hardware-summit-notes/
 categories:
-  - agriculture
-  - airships
-  - balloons
-  - grassrootsmapping
   - post
 tags:
-  - grassroots mapping
-  - open hardware summit
+  - grassrootsmapping
+  - open hardware
+  - balloons
 ---
 Met and ran into fellow grassroots mapping folks Bonny Gregory and [**Cesar Harada**][1], and my old roommate [**Isaac Ravishankara**][2].
 

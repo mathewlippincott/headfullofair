@@ -6,15 +6,16 @@ layout: single
 guid: http://www.headfullofair.com/?p=147
 permalink: /2009/08/25/re-burbia-non-finalists-me-and-molly/
 categories:
-  - agriculture
-  - future
   - post
+
 tags:
-  - dwell
-  - inhabitat
-  - molly
-  - re-burbia
----
+  - agriculture
+
+header:
+  image: /wp-content/uploads/2009/08/P1050324.jpg
+  teaser: /wp-content/uploads/2009/08/P1050324.jpg
+
+ ---
 [**Molly**][1] and I only gave the [**Re-Burbia Competition**][2] 4 hours, and Inhabitat/Dwell didn&#8217;t like us.  That&#8217;s ok, we entered because we don&#8217;t like them either.  Our friends tell us we complain about Dwell too much and architecture competitions ad nauseam.  As expected almost all the finalists use stale computer rendered crap images.  [**This project**][2] I thought had the right idea (albeit no citations) and good presentation, but like the rest it still depends on infrastructure investments that just ain&#8217;t gonna happen. Here&#8217;s our entry (I wrote/found citations while Molly illustrated), with extended text intro critiquing suburb resuscitation:
 
 **SCRAP THE BURBS**

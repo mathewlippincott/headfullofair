@@ -7,6 +7,11 @@ guid: http://www.headfullofair.com/?p=271
 permalink: /2010/06/25/thank-you-lippman-co/
 categories:
   - post
+
+tags:
+  - balloons
+  - grassrootsmapping
+ 
 ---
 **[Lippman Co. party supplies][1] **gave me a business discount and two free days of tank rental on helium, thanks!
 

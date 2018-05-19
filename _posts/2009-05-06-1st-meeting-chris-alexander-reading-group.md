@@ -6,15 +6,10 @@ layout: single
 guid: http://www.headfullofair.com/?p=19
 permalink: /2009/05/06/1st-meeting-chris-alexander-reading-group/
 categories:
-  - book club
+  - post
 tags:
-  - andrew w.k.
   - books
   - christopher alexander
-  - design thinking
-  - partying
-  - reading
-  - post
 ---
 So Molly and I started a Christopher Alexander book club, and after our first meeting on Monday we&#8217;re up to four people- me, **[Molly][1]**, **[Harry][2]**, and **[Helki][3]**.
 

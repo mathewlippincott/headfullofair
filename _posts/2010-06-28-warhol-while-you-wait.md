@@ -6,13 +6,16 @@ layout: single
 guid: http://www.headfullofair.com/?p=302
 permalink: /2010/06/28/warhol-while-you-wait/
 categories:
-  - balloons
-  - grassrootsmapping
-  - the real world
   - post
 tags:
-  - grassroots mapping
-  - warhol
+  - grassrootsmapping
+  - balloons
+
+
+header:
+  image: /wp-content/uploads/2010/06/Firefox.png
+  teaser: /wp-content/uploads/2010/06/Firefox.png
+  
 ---
 I&#8217;ll have photos and videos from Grassroots Mapping up soon, Special thanks to **[Dustin Zemel ][1]**for documenting.
 

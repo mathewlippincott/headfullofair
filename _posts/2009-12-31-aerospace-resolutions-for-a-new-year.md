@@ -6,12 +6,17 @@ layout: single
 guid: http://www.headfullofair.com/?p=222
 permalink: /2009/12/31/aerospace-resolutions-for-a-new-year/
 categories:
-  - balloons
-  - future
-  - the real world
   - post
+
+tags:
+  - balloons
+  - solar balloon
+
+header:
+  image: /wp-content/uploads/2009/12/P1010477_crop.jpg
+  teaser: /wp-content/uploads/2009/12/P1010477_crop.jpg 
+
 ---
-[<img class="alignnone size-medium wp-image-223" title="New Balloon Design for short hops" src="http://www.headfullofair.com/wp-content/uploads/2009/12/P1010477_crop-225x300.jpg" alt="New Balloon Design for short hops" width="225" height="300" />][1]
 
 I know I&#8217;ve been talking a lot about mutoscopes (that thing took all my time), but I really will get back to balloons.  Here&#8217;s a shot of a new design I&#8217;m working on for short hops, it&#8217;s had two flights with two different riggings since september.  it&#8217;s a tetrahedron flying upside down.  I&#8217;m going to try to illustrate a second chapter to my **[balloon building guide][2]** in January, focusing on the short hop balloon.  There won&#8217;t be many flights though, because I&#8217;m moving to **[Portland][3]**.  That will be my last design for low flight and line control- next year I&#8217;ll be putting my ham license to good use on some higher altitude stuff.
 

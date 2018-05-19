@@ -6,10 +6,15 @@ layout: single
 guid: http://www.headfullofair.com/?p=68
 permalink: /2009/07/17/blast-domes-and-opaque-projectors/
 categories:
-  - mutoscope
-  - the real world
-  - toorcamp
   - post
+
+tags:
+  - mutoscope
+  - nuclear war
+
+header:
+  image: /wp-content/uploads/2009/07/p1040957.jpg
+  teaser: /wp-content/uploads/2009/07/p1040957-1024x576.jpg
 ---
 A good chunk of <span><span>Toorcamp</span></span> <span>occurred</span> in a Titan 1 missile silo amongst a complex of hemispherical blast domes.  The power dome is the largest and least obstructed of these, and the open space obliterated sound into crackling and unfocused echos. [<img class="alignnone size-medium wp-image-69" title="Titan 1 Blast Dome, Toorcamp 2009" src="http://www.headfullofair.com/wp-content/uploads/2009/07/p1040957-300x168.jpg" alt="p1040957" width="300" height="168" />][1]  
 Standing in the dome I drifted back to my obsession of the last two months- the R & D of an updated **[<span><span>mutoscope</span></span>][2]** standard.  I&#8217;m using hemispherical reflectors in <span><span>mutoscope&#8217;s</span></span> opaque projector, and although my intuition lead me toward this shape, I didn&#8217;t really understand how it worked until standing in the blast dome, trying to make out a human voice.  

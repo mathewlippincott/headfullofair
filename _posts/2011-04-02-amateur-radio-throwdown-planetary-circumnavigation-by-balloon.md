@@ -6,16 +6,10 @@ layout: single
 guid: http://www.headfullofair.com/?p=417
 permalink: /2011/04/02/amateur-radio-throwdown-planetary-circumnavigation-by-balloon/
 categories:
-  - balloons
-  - future
-  - the real world
   - post
 tags:
-  - circumnavigation
-  - competition
-  - robert rochte
-  - superpressure
-  - white star balloons
+  - balloons
+  - solar balloon
 ---
 Mark the date, March 24, 2011- Robert Rochte throws in his hat for circumnavigation of the globe by an autonomous balloon on the Balloon_Sked mailing list.  I&#8217;ve covered**[ ][1][Rochte&#8217;s superpressure balloons here before.][1]** In this message, he&#8217;s referring to the **[White Star Balloon&#8217;s ][2]**ongoing attempt at crossing the atlantic, a feat which Rochte has been pursuing as well.
 

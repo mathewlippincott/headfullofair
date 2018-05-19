@@ -6,18 +6,14 @@ layout: single
 guid: http://www.headfullofair.com/?p=404
 permalink: /2011/02/28/reed-arts-week-raw-geographies/
 categories:
-  - art
-  - balloons
-  - future
-  - grassrootsmapping
-  - the real world
   - post
+
 tags:
-  - grassroots mapping
-  - 'RAW: Geographies'
-  - reed
-  - reed arts week
-  - solar balloons
+ 
+  - solar balloon
+  - balloons
+  - grassrootsmapping
+  
 ---
 I&#8217;m proud to be participating in Reed&#8217;s Art Week. I&#8217;ll be giving** a[ lecture and demonstration ][1]**of aerospace in the arts and Grassroots Mapping tools on Saturday, March 5 @ Noon. <del>Location is still TBA</del>. At the Gray Campus Center room C. There will be**[ complementary supplies and instructions for building your own solar hot air balloon.  
 ][2]**

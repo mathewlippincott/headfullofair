@@ -6,9 +6,17 @@ layout: single
 guid: http://www.headfullofair.com/?p=331
 permalink: /2010/08/05/grassroots-mapping-pdx-flight-images/
 categories:
+  - post
+tags:
   - balloons
   - grassrootsmapping
-  - post
+  - solar balloon
+
+
+header:
+  image: /wp-content/uploads/2010/08/DSC_2409.jpg
+  teaser: /wp-content/uploads/2010/08/DSC_2409.jpg
+  
 ---
 I still haven&#8217;t stitched together a map from my helium flight on 7/9, but here are some great aerial photos:
 

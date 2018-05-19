@@ -6,22 +6,9 @@ layout: single
 guid: http://www.headfullofair.com/?p=354
 permalink: /2010/09/30/speaking-at-cyborg-camp-portland-102/
 categories:
-  - agriculture
-  - future
-  - the real world
   - post
 tags:
-  - autocracy
-  - cyborg camp
-  - july monarchy
-  - max ogden
-  - napoleon III
-  - portland
-  - sewage
-  - smell
-  - speaking
-  - the corporeal state
-  - trans-species collaboration
+  - toilets
 ---
 <div>
   <p>

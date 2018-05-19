@@ -6,14 +6,17 @@ layout: single
 guid: http://www.headfullofair.com/?p=306
 permalink: /2010/07/18/grassroots-mapping-pdx-taping-up-balloons/
 categories:
-  - balloons
-  - grassrootsmapping
-  - the real world
   - post
 tags:
-  - balloon building
   - balloons
-  - grassroot mapping
+  - grassrootsmapping
+  - solar balloon
+
+
+header:
+  image: /wp-content/uploads/2010/07/solar-flight-se.png
+  teaser: /wp-content/uploads/2010/07/solar-flight-se.png
+
 ---
 I&#8217;ve finally collected and edited the workshop&#8217;s videos and instructions:
 
@@ -21,9 +24,6 @@ I&#8217;ve finally collected and edited the workshop&#8217;s videos and instruct
 **
 
 Follow the first two pages of my **[Balloon Building Guide][1]** to make a tetrahedron balloon.  Tape carefully.
-
-
-
 
 
 [<img class="alignnone size-full wp-image-307" title="Simple Solar Balloon Building, page 2" src="http://www.headfullofair.com/wp-content/uploads/2010/07/Preview.jpg" alt="" width="502" height="650" />][2]

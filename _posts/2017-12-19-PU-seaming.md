@@ -1,14 +1,16 @@
 ---
-title: plastic seaming instructional with a model 1916 kite balloon
+title: "plastic seaming instructional with a model 1916 kite balloon"
 author: Mathew
 layout: single
+tags:
+ - kite balloon
 categories:
  - post
- - kiteballoons
+ 
 
 header:
- image: /assets/images/drachenballoon.png
- teaser: /assets/images/drachenballoon.png
+ image: /assets/images/Drachenballoon.png
+ teaser: /assets/images/Drachenballoon.png
 
 ---
 

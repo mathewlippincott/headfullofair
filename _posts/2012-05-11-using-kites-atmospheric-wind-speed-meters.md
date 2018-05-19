@@ -13,7 +13,7 @@ tags:
  
 header: 
  image: /assets/images/publiclab/hobbs-kiteaerodynamicsandanemometrypdfpage243of323.jpg
- 
+ teaser: /assets/images/publiclab/hobbs-kiteaerodynamicsandanemometrypdfpage243of323.jpg
 
 ---
 

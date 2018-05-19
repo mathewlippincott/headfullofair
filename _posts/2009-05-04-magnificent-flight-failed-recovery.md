@@ -6,9 +6,10 @@ layout: single
 guid: http://www.headfullofair.com/?p=11
 permalink: /2009/05/04/magnificent-flight-failed-recovery/
 categories:
-  - balloons
-  - the real world
   - post
+tags:
+  - balloons
+  - solar balloon
 ---
 <p style="text-align: left;">
   I spent the last two weeks of March in the SF/Bay Area, and while there decided to try a new balloon. My intent- record the sounds of California by air. I was inspired by the descriptions of listening to the world from in a balloon mentioned by gas balloon riders in <strong><a href="http://openlibrary.org/b/OL4767053M/Twenty-feet-from-glory">Twenty Feet From Glory by John R. Goodwin</a></strong>, and other descriptions I&#8217;ve read from ballooning&#8217;s golden age.

@@ -5,12 +5,17 @@ author: Mathew
 layout: single
 guid: http://www.headfullofair.com/?p=202
 permalink: /2009/11/20/mutoscope-finishing-miniaturizing/
+
 categories:
-  - mutoscope
-  - the real world
   - post
+
+tags:
+  - mutoscope
+
+header:
+  image:  /wp-content/uploads/2009/11/P1010248_sm.jpg
+  teaser: /wp-content/uploads/2009/11/P1010248_sm.jpg
 ---
-[<img class="alignnone size-medium wp-image-203" title="Finishing always takes forever..." src="http://www.headfullofair.com/wp-content/uploads/2009/11/P1010248_sm-169x300.jpg" alt="Finishing always takes forever..." width="169" height="300" />][1]
 
 Between coats of paint and sealer, waiting for the last epoxy bonds to take hold, and tweaking the Mutoscope&#8217;s tripod I&#8217;ve played around with small mutoscope reels.  Last year I tried making one out of paper with a craft knife, but the accuracy of a knife and flimsiness of paper got the better of me.
 

@@ -16,7 +16,7 @@ description              : "headfullofair.com collects Mathew Lippincott's DIY a
 url                      : "http://headfullofair.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mathewlippincott/headfullofair" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   :  /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # /assets/images/500x300.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/500x300.png # Open Graph/Twitter default site image
+og_image                 :  /assets/images/500x300.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -249,7 +249,7 @@ defaults:
       read_time: false
       comments: false # true
       share: false
-      related: true
+      related: false
 
 # Pages
  # - scope:

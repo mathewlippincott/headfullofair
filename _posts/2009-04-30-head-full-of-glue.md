@@ -6,16 +6,13 @@ layout: single
 guid: http://www.headfullofair.com/?p=3
 permalink: /2009/04/30/head-full-of-glue/
 categories: post
----
-Superglue is for more than just putting the handle back on your housemate&#8217;s favorite mug and hoping she doesn&#8217;t notice.
 
-<div id="attachment_4" style="width: 563px" class="wp-caption alignnone">
-  <img class="size-full wp-image-4" title="my face, held together with superglue" src="http://www.headfullofair.com/wp-content/uploads/2009/04/p1000033_sm.jpg" alt="Molly and I did this after a bike crash" width="553" height="414" />
-  
-  <p class="wp-caption-text">
-    Molly and I glued my face back together with cyanoacrylate. The only mistake was glueing gauze to my eyebrow.
-  </p>
-</div>
+header:
+  image: /wp-content/uploads/2009/04/p1000033_sm.jpg
+  teaser: /wp-content/uploads/2009/04/p1000033_sm.jpg
+---
+Superglue is for more than just putting the handle back on your housemate&#8217;s favorite mug and hoping she doesn&#8217;t notice.  Molly and I glued my face back together. The only mistake was glueing gauze to my eyebrow.
+
 
 I was first introduced to Super Glue for wounds in high school. After I sliced deep into my finger with a jeweler&#8217;s saw, I asked my art teacher Mr. Willemann if I could go to the nurse, and in typical fashion he replied, &#8220;they don&#8217;t know shit. gimme your hand.&#8221; Mr. Willemann was a Green Beret in Vietnam and brings a certain military pragmatism to arts instruction. No body wastes his time or materials.
 

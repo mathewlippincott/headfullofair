@@ -6,17 +6,13 @@ layout: single
 guid: http://www.headfullofair.com/?p=356
 permalink: /2010/09/30/grand-detour-and-research-club-on-kickstarter/
 categories:
-  - art
-  - balloons
-  - the real world
   - post
 tags:
-  - grand detour
-  - heavy meta
-  - research club
-  - self promotion
+  - balloons
+  - grassrootsmapping
+  
 ---
-Two organizations in Portland that I love! WOah, and I&#8217;m in the video.  one thing- it says my balloons are in the gulf taking pictures.  My balloons aren&#8217;t in the gulf, just [my folding guides and plastics research][1].  The balloons are collaborative.  Most of the gulf folks are using [**Southern Balloon Works**][2] balloons,[** but we have good diy kits too**.][3]
+Two organizations in Portland that I love! WOah, and [I&#8217;m in the video](https://www.kickstarter.com/projects/127455621/heavy-meta-tour-connecting-international-artists-a).  one thing- it says my balloons are in the gulf taking pictures.  My balloons aren&#8217;t in the gulf, just [my folding guides and plastics research][1].  The balloons are collaborative.  Most of the gulf folks are using [**Southern Balloon Works**][2] balloons,[** but we have good diy kits too**.][3]
 
 **[Research Club][4]** || [**Grand Detour**][5]
 

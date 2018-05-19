@@ -6,16 +6,10 @@ layout: single
 guid: http://www.headfullofair.com/?p=423
 permalink: /2011/04/07/mapping-colonialism-talk-on-49/
 categories:
-  - grassrootsmapping
-  - publiclaboratory
   - post
 tags:
-  - COIN
-  - Colonialism
-  - Geoffrey Boyce
   - grassrootsmapping
-  - mapping
-  - publiclaboratory
+
 ---
 This saturday I&#8217;ll be dipping in briefly to the Counter-Counter Insurgency Convergence, at Reed College.  **[Given my current work with community mapping][1]**, I&#8217;m very interested to see what Geoffrey Boyce has to say in this seminar:
 

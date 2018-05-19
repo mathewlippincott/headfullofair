@@ -7,6 +7,11 @@ guid: http://www.headfullofair.com/?p=102
 permalink: /2009/07/24/things-from-last-weekend/
 categories:
   - post
+
+header:
+  image: /wp-content/uploads/2009/07/P1050194_c.jpg
+  teaser: /wp-content/uploads/2009/07/P1050194_c.jpg
+   
 ---
 [<img class="alignnone size-medium wp-image-103" title="Kalan & Noel busted busking at Bit of Seattle" src="http://www.headfullofair.com/wp-content/uploads/2009/07/P1050194_c-300x221.jpg" alt="P1050194_c" width="300" height="221" />][1]
 

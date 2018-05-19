@@ -6,14 +6,10 @@ layout: single
 guid: http://www.headfullofair.com/?p=42
 permalink: /2009/05/27/plant-something-edible-this-year/
 categories:
-  - the real wold
+  - post
 tags:
   - agriculture
   - farming
-  - networking
-  - shlok vaidya
-  - SMS
-  - post
 ---
 &#8230;or meet someone who is. Not to sound like a kook, but **[farmers aren&#8217;t getting the loans they need][1]** to plant out all those amber waves of grain that our industrial food system is used to.
 

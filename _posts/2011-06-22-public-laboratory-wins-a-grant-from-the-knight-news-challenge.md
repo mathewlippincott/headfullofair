@@ -6,16 +6,13 @@ layout: single
 guid: http://www.headfullofair.com/?p=455
 permalink: /2011/06/22/public-laboratory-wins-a-grant-from-the-knight-news-challenge/
 categories:
-  - future
-  - grassrootsmapping
-  - publiclaboratory
-  - the real world
   - post
+
 tags:
-  - knight foundation
-  - knight news challenge
-  - omg
-  - publiclaboratory
+  - grassrootsmapping
+  - public lab
+  - balloons
+  
 ---
 At the** [Public Laboratory for Open Technology and Science][1]**, of which I&#8217;m a co-founder, we&#8217;ve just been awarded $500,000 by the Knight Foundation. Congrats to all my co-founders, Jeff, Sara, Shannon, Adam, Liz,Stewart, and to our whole online community, and thanks to the Knight Foundation! This is really going jump-start a lot of work!
 
