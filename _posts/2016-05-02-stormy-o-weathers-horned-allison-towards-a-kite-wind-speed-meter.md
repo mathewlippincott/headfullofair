@@ -62,9 +62,9 @@ In any case, I ALSO added a re-enforcing spar.  @Ecta's flight reports suggest t
 ### Questions and next steps
 The kite flew great! a little too heavy.  Next time I'll build it with straws and strapping tape, and perhaps try the plastic bag construction too. 
 
-comments:
+#### comments:
 
-Ecta64:
+[@Ecta64](/assets/images/publiclab/Ecta64):
 
 Great post! Even after multiple re-reads I still can't entirely figure out Stormy's bridle attachment but I think you are very close to it (if not exact). I have flown mine with the keel spars retrofitted on and I do think it does fly a bit better in that cross winds don't "push in" the keel as much. Its a subtle difference though. BTW how deep was the trailing edge "V" on your kite? I didn't see Stormy put any exact specs on that so I'm possibly wondering if I cut mine too shallow. Maybe a deeper V provides better stability and less "hunting". Here's a article (linked below) I found from a old magazine on sled designs with scallops and trailing edge tension lines (which seem to do the same job as the canted spars on the Stormy kite). Thanks for posting the pics of the bridle....Imagining that in one's mind eye was a bit hard, I wish Stormy had illustrated it. If you use a garbage bag I do recommend the .9 mil since its not too thick but not hard to cut. The hemming is a bit of a pain but not too bad as I have found I can easily do large lengths >6 inches per piece if I'm careful (I typically lay out the bag on a glass table and the plastic just sticks to it and I get the plastic smooth before hemming with the tape).
 
@@ -72,7 +72,7 @@ Great post! Even after multiple re-reads I still can't entirely figure out Storm
  
  
 {: .notice} 
-Archived 4th of March 2018 [from Publiclab.org]( https://publiclab.org/notes/mathew/05-02-2016/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter).
+Archived 4th of March 2018 [from Publiclab.org](https://publiclab.org/notes/mathew/05-02-2016/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter).
 
 *[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
  
