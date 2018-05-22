@@ -3,7 +3,7 @@ id: 42
 title: Plant Something Edible This Year
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=42
+guid: https://www.headfullofair.com/?p=42
 permalink: /2009/05/27/plant-something-edible-this-year/
 categories:
   - post

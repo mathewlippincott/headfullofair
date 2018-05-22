@@ -3,7 +3,7 @@ id: 11
 title: Magnificent Flight, Failed Recovery
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=11
+guid: https://www.headfullofair.com/?p=11
 permalink: /2009/05/04/magnificent-flight-failed-recovery/
 categories:
   - post
@@ -17,7 +17,7 @@ tags:
 
 <p style="text-align: left;">
   <p style="text-align: left;">
-    This is the first large balloon (12ft tetrahedron) taped up using <strong><a href="http://www.headfullofair.com/wp-content/uploads/2009/05/thekissballoon2.pdf">my meticulous step-by step how to guide</a></strong> instead of cribbed building notes. My mom surprised me with a visit the day I was planning on building the balloon, and although she is not inclined to geometry or building I convinced her to help me. With instructions in hand she was my best assistant yet- we built the balloon in an hour and a half. The seams were excellent and totally air -tight.
+    This is the first large balloon (12ft tetrahedron) taped up using <strong><a href="https://www.headfullofair.com/wp-content/uploads/2009/05/thekissballoon2.pdf">my meticulous step-by step how to guide</a></strong> instead of cribbed building notes. My mom surprised me with a visit the day I was planning on building the balloon, and although she is not inclined to geometry or building I convinced her to help me. With instructions in hand she was my best assistant yet- we built the balloon in an hour and a half. The seams were excellent and totally air -tight.
   </p>
   
   <p style="text-align: left;">

@@ -3,7 +3,7 @@ id: 80
 title: Nomadic Furniture is re-published
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=80
+guid: https://www.headfullofair.com/?p=80
 permalink: /2009/07/22/nomadic-furniture-is-re-published/
 categories:
   - post

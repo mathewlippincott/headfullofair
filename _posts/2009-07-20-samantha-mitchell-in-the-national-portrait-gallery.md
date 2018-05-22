@@ -3,7 +3,7 @@ id: 78
 title: Samantha Mitchell in the National Portrait Gallery
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/2009/07/20/samantha-mitchell-in-the-national-portrait-gallery/
+guid: https://www.headfullofair.com/2009/07/20/samantha-mitchell-in-the-national-portrait-gallery/
 permalink: /2009/07/20/samantha-mitchell-in-the-national-portrait-gallery/
 categories:
   - post

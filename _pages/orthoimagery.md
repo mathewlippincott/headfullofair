@@ -8,7 +8,7 @@ header:
   overlay_image: ../assets/images/orthoimagery/kiteswin256.gif
 
 intro: 
- - excerpt: "[Lifting cameras](/rigs) and getting map-ready photos is an exciting challenge. As a volunteer with Grassroots Mapping, Stewart Long taught me how to orthorectify photos using Photoshop. At Public Lab, we ran a pipeline from DIY photography through [Mapknitter](http://mapknitter.org/) to Google Maps and Google Earth. From 2011 through 2013, if your imagery was higher resolution than the existing data, it might pop up on the Google Maps base layer.  
+ - excerpt: "[Lifting cameras](/rigs) and getting map-ready photos is an exciting challenge. As a volunteer with Grassroots Mapping, Stewart Long taught me how to orthorectify photos using Photoshop. At Public Lab, we ran a pipeline from DIY photography through [Mapknitter](https://mapknitter.org/) to Google Maps and Google Earth. From 2011 through 2013, if your imagery was higher resolution than the existing data, it might pop up on the Google Maps base layer.  
 
 
  I've selected maps made with my own kites and balloons. Maps with no background were made in Mapknitter or QGIS. Maps with a base map were made in Photoshop over USGS/USDA public domain imagery. 

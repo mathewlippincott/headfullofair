@@ -3,7 +3,7 @@ id: 142
 title: Airship Profile Simulator
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=142
+guid: https://www.headfullofair.com/?p=142
 permalink: /2009/08/22/airship-profile-simulator/
 categories:
   - post

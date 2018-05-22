@@ -3,7 +3,7 @@ id: 194
 title: 'Romanians to space with a solar balloon?'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/2009/11/18/romanians-to-space-with-a-solar-balloon-stage/
+guid: https://www.headfullofair.com/2009/11/18/romanians-to-space-with-a-solar-balloon-stage/
 permalink: /2009/11/18/romanians-to-space-with-a-solar-balloon-stage/
 categories:
   - post

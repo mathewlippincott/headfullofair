@@ -3,7 +3,7 @@ id: 195
 title: Other Mutoscopes + Micro Movie Projectors!
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=195
+guid: https://www.headfullofair.com/?p=195
 permalink: /2009/11/20/other-mutoscopes-micro-movie-projectors/
 categories:
   - post
@@ -24,8 +24,8 @@ Look for miniature projectors starting at 1:57 in this video
 
  [1]: https://youtu.be/-0rzZRooX5w
  [2]: http://www.thechasefactory.com/mutoscope.html
- [3]: http://www.headfullofair.com/2009/05/17/what-the-butler-saw/
+ [3]: /2009/05/17/what-the-butler-saw/
  [4]: http://cortese.publishpath.com/
- [5]: http://www.youtube.com/watch?v=GAfAVZ4hHMQ
+ [5]: https://www.youtube.com/watch?v=GAfAVZ4hHMQ
  [6]: http://cortese.publishpath.com/gallery
  [7]: http://www.geh.org/fm/precin/htmlsrc/mA512600001_ful.html

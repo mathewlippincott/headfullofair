@@ -3,7 +3,7 @@ id: 342
 title: I feel this way a lot
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=342
+guid: https://www.headfullofair.com/?p=342
 permalink: /2010/08/18/i-feel-this-way-a-lot/
 categories:
   - post

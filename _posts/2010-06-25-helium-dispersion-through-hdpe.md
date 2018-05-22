@@ -3,7 +3,7 @@ id: 277
 title: Helium Dispersion Through HDPE
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=277
+guid: https://www.headfullofair.com/?p=277
 permalink: /2010/06/25/helium-dispersion-through-hdpe/
 categories:
   - post
@@ -29,7 +29,7 @@ The four thicknesses I could find were .315 mil (millionths of an inch) .69 mil,
 The conclusion i could draw was that .315 mil loses 1/4 to 1/3 of it&#8217;s helium over two hours, which means it probably is a poor choice for helium balloons.  Each balloon had around 3 grams of lift.
 
 <div id="attachment_279" style="width: 589px" class="wp-caption alignnone">
-  <a href="http://www.headfullofair.com/wp-content/uploads/2010/06/balloons3.png"><img class="size-full wp-image-279" title="balloons3" src="http://www.headfullofair.com/wp-content/uploads/2010/06/balloons3.png" alt="" width="579" height="323" /></a>
+  <a href="https://www.headfullofair.com/wp-content/uploads/2010/06/balloons3.png"><img class="size-full wp-image-279" title="balloons3" src="https://www.headfullofair.com/wp-content/uploads/2010/06/balloons3.png" alt="" width="579" height="323" /></a>
   
   <p class="wp-caption-text">
     .315 mil on the left.
@@ -37,7 +37,7 @@ The conclusion i could draw was that .315 mil loses 1/4 to 1/3 of it&#8217;s hel
 </div>
 
 <div id="attachment_280" style="width: 588px" class="wp-caption alignnone">
-  <a href="http://www.headfullofair.com/wp-content/uploads/2010/06/balloons4.png"><img class="size-full wp-image-280" title="balloons4" src="http://www.headfullofair.com/wp-content/uploads/2010/06/balloons4.png" alt="" width="578" height="324" /></a>
+  <a href="https://www.headfullofair.com/wp-content/uploads/2010/06/balloons4.png"><img class="size-full wp-image-280" title="balloons4" src="https://www.headfullofair.com/wp-content/uploads/2010/06/balloons4.png" alt="" width="578" height="324" /></a>
   
   <p class="wp-caption-text">
     .315 mil balloon after 2 hours, partially deflated but still floating.
@@ -48,10 +48,10 @@ The unfilled the white .69 mil balloon weighed about 3g.  Full, it barely regis
 
 So I ran the test again, filling both balloons up.  The overnight test, although botched, was confirmed this morning.  Over two hours, you can see the 1 mil clear balloon lose lift, while the white balloon remains buoyant.
 
-[<img class="alignnone size-full wp-image-288" title=".69 mil white hdpe vs 1 mil clear" src="http://www.headfullofair.com/wp-content/uploads/2010/06/test_anim.gif" alt="" width="423" height="313" />][3]
+[<img class="alignnone size-full wp-image-288" title=".69 mil white hdpe vs 1 mil clear" src="https://www.headfullofair.com/wp-content/uploads/2010/06/test_anim.gif" alt="" width="423" height="313" />][3]
 
 Why would thicker, clear HDPE lose helium faster than white .69 HDPE?  I believe it is the inclusion of metal oxide to tint the white plastic.  White pigment is either zinc oxide or titanium dioxide (or lead oxide in really old stuff).  This would also explain why the white HDPE is heavier than the thicker clear stuff.
 
- [1]: http://www.headfullofair.com/2010/06/20/grassroots-mapping-gallery-homeland-626/
- [2]: http://www.headfullofair.com/wp-content/uploads/2010/06/balloons2.png
- [3]: http://www.headfullofair.com/wp-content/uploads/2010/06/test_anim.gif
+ [1]: /2010/06/20/grassroots-mapping-gallery-homeland-626/
+ [2]: /wp-content/uploads/2010/06/balloons2.png
+ [3]: /wp-content/uploads/2010/06/test_anim.gif

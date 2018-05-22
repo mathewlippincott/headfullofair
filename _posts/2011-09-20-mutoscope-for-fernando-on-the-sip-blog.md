@@ -3,7 +3,7 @@ id: 463
 title: Mutoscope for Fernando, on the SIP Blog
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=463
+guid: https://www.headfullofair.com/?p=463
 permalink: /2011/09/20/mutoscope-for-fernando-on-the-sip-blog/
 categories:
   - post

@@ -3,7 +3,7 @@ id: 124
 title: 'JP Aerospace&#8217;s DIY Airship Breakthrough'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=124
+guid: https://www.headfullofair.com/?p=124
 permalink: /2009/08/02/jp-aerospaces-diy-airship-breakthrough/
 tags:
   - balloons

@@ -14,8 +14,8 @@ tags:
 
 
 header:
-  image: http://farm6.static.flickr.com/5217/5483133295_d28d752187.jpg
-  teaser: http://farm6.static.flickr.com/5217/5483133295_d28d752187.jpg
+  image: https://farm6.static.flickr.com/5217/5483133295_d28d752187.jpg
+  teaser: https://farm6.static.flickr.com/5217/5483133295_d28d752187.jpg
   
 ---
 Follow the [kite balloon working page][1] over at the [Public Laboratory for Open Technology and Science][2].  There&#8217;s a lot of research in there that I&#8217;ve only now gotten on the web.

@@ -3,7 +3,7 @@ id: 447
 title: scientific, photographic, and person-lifting kites, 1900-1940
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=447
+guid: https://www.headfullofair.com/?p=447
 permalink: /2011/05/13/scientific-photographic-and-person-lifting-kites-1900-1940/
 categories:
   - post

@@ -3,7 +3,7 @@ id: 243
 title: a number of updates
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=243
+guid: https://www.headfullofair.com/?p=243
 permalink: /2010/05/28/a-number-of-updates/
 categories:
   - post

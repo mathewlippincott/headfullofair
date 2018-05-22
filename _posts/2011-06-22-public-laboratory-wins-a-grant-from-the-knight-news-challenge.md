@@ -3,7 +3,7 @@ id: 455
 title: Public Laboratory wins a grant from the Knight News Challenge!
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=455
+guid: https://www.headfullofair.com/?p=455
 permalink: /2011/06/22/public-laboratory-wins-a-grant-from-the-knight-news-challenge/
 categories:
   - post

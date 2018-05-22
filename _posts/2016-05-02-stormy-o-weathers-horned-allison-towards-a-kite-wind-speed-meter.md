@@ -17,12 +17,12 @@ header:
 
 *[see current posts about kite anemometers on headfullofair.com](/tags/kite-anemometers)* 
 
-Over the past three years [@Ecta64](http://publiclab.org/profile/ecta64) and I have posted a few notes investigating [using a kite itself as a wind speed meter.](http://publiclab.org/tag/wind-speed-meter).  Recently @Ecta64 has collected a series of parts that replicate the functionality of a commercial wind prospecting device from the '80's, [the Approach Fish TALA](http://publiclab.org/notes/Ecta64/07-19-2015/unboxing-the-tala-kite-anemometer), or Tethered Aerodynamic Lifting Anemometer (i.e. a kite wind speed meter).  You can see @Ecta64's [overview on his Youtube channel](https://www.youtube.com/watch?v=kLks9dUnrcA).
+Over the past three years [@Ecta64](https://publiclab.org/profile/ecta64) and I have posted a few notes investigating [using a kite itself as a wind speed meter.](/tags/kite-anemometers).  Recently @Ecta64 has collected a series of parts that replicate the functionality of a commercial wind prospecting device from the '80's, [the Approach Fish TALA](https://publiclab.org/notes/Ecta64/07-19-2015/unboxing-the-tala-kite-anemometer), or Tethered Aerodynamic Lifting Anemometer (i.e. a kite wind speed meter).  You can see @Ecta64's [overview on his Youtube channel](https://www.youtube.com/watch?v=kLks9dUnrcA).
 
 The TALA's kite is fairly easy to build, but it has a really long tail that is a pain to launch:
 ![TALA](/assets/images/publiclab/tala.jpg)
 
-@Ecta64 has identified very similar sled kite with more stability, no tail, and an even easier build: [the Horned Allison kite designed during the '90's by Stormy O. Weathers.](http://publiclab.org/notes/Ecta64/04-24-2016/high-wind-range-tailless-sled-kite-design).
+@Ecta64 has identified very similar sled kite with more stability, no tail, and an even easier build: [the Horned Allison kite designed during the '90's by Stormy O. Weathers.](https://publiclab.org/notes/Ecta64/04-24-2016/high-wind-range-tailless-sled-kite-design).
 
 ### My attempt and results
 I wanted to make some notes on Stormy's kite design so I could properly replicate it in the future.  I did this by making a version with materials at hand, rather than exactly replicating Stormy's procedure.  It gave me a better sense for his design and construction choices, and I hope to do a more faithful replication in the future. 

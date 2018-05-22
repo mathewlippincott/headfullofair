@@ -3,7 +3,7 @@ id: 404
 title: 'Reed Arts Week, RAW: Geographies'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=404
+guid: https://www.headfullofair.com/?p=404
 permalink: /2011/02/28/reed-arts-week-raw-geographies/
 categories:
   - post
@@ -29,7 +29,7 @@ At 4pm Saturday there will be a showing of Francis Alÿs&#8217;s *When Faith Mov
 **[Francis Alÿs, &#8220;When Faith Moves Mountains&#8221; (2002).][4] **from [Daily Serving][5] on [Vimeo][6].
 
  [1]: http://www.reed.edu/raw/2011/lectures.html
- [2]: http://www.headfullofair.com/2010/07/18/grassroots-mapping-pdx-taping-up-balloons/
+ [2]: /2010/07/18/grassroots-mapping-pdx-taping-up-balloons/
  [3]: http://www.flickr.com/photos/14397636@N07/5483664280/ "solar balloon building and flying kit by mathew.lippincott, on Flickr"
  [4]: http://vimeo.com/14129166
  [5]: http://vimeo.com/user4491818

@@ -3,7 +3,7 @@ id: 340
 title: 'Grassroots Mapping PDX: workshop flights'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=340
+guid: https://www.headfullofair.com/?p=340
 permalink: /2010/08/05/grassroots-mapping-pdx-workshop-flights/
 categories:
   - post

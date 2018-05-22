@@ -3,7 +3,7 @@ id: 133
 title: The First Self-Blogging Aerostat?
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=133
+guid: https://www.headfullofair.com/?p=133
 permalink: /2009/08/17/the-first-self-blogging-aerostat/
 categories:
   - post

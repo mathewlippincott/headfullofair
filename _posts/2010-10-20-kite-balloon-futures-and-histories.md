@@ -3,7 +3,7 @@ id: 368
 title: kite balloon futures and histories
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=368
+guid: https://www.headfullofair.com/?p=368
 permalink: /2010/10/20/kite-balloon-futures-and-histories/
 categories:
   -  post
@@ -28,7 +28,7 @@ To follow on my [**love of kite balloons,**][1] and the [**kite balloon action a
 
 [<img class="alignnone size-full wp-image-369" title="Major Parseval's dirigible balloon 1906-1908" src="http://www.headfullofair.com/wp-content/uploads/2010/10/airshipspastpres00hildrich-107.jpg" alt="airshipspastpres00hildrich-107" width="969" height="580" />][11]
 
- [1]: http://www.headfullofair.com/2010/09/24/kite-balloon-construction-ideas-with-boston-folks/
+ [1]: /2010/09/24/kite-balloon-construction-ideas-with-boston-folks/
  [2]: http://groups.google.com/group/grassrootsmapping/browse_thread/thread/16f6c4f692dba618
  [3]: http://www.notechmagazine.com/2009/06/airships-past-and-present-by-ahildebrandt-1908.html
  [4]: http://en.wikipedia.org/wiki/List_of_Parseval_airships
@@ -38,4 +38,4 @@ To follow on my [**love of kite balloons,**][1] and the [**kite balloon action a
  [8]: http://www.corbisimages.com/images/67/63AB10C0-333B-414E-BB47-8FCA1E041A50/U175501INP.jpg
  [9]: http://www.flickr.com/photos/32267822@N08/3178330346/
  [10]: http://www.flickr.com/photos/29007475@N08/3303497788/lightbox/
- [11]: http://www.headfullofair.com/wp-content/uploads/2010/10/airshipspastpres00hildrich-107.jpg
+ [11]: /wp-content/uploads/2010/10/airshipspastpres00hildrich-107.jpg

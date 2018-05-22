@@ -3,7 +3,7 @@ id: 268
 title: Thank You Kite Studio
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=268
+guid: https://www.headfullofair.com/?p=268
 permalink: /2010/06/22/thank-you-kite-studio/
 categories:
   - post

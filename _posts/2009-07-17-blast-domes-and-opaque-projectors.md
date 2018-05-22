@@ -3,7 +3,7 @@ id: 68
 title: Blast Domes and Opaque Projectors
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=68
+guid: https://www.headfullofair.com/?p=68
 permalink: /2009/07/17/blast-domes-and-opaque-projectors/
 categories:
   - post
@@ -32,11 +32,11 @@ But walking down Union st in Brooklyn one Sunday, I noticed a standard clamp lig
 <span>I erroneously thought that I was bouncing the light across the interior of the sphere, but standing in the blast dome listening to people talk I realized that a sound generated within the hemisphere reflects along the curve of the dome, dispersing off imperfections at every point it touches.  My powder-coated reflector is doing the same thing with light.   I&#8217;m not sure of the math, but there is an inverse relation between the the source to edge distance and the number of reflections. </span>  
 [<img class="alignnone size-medium wp-image-73" title="my first successful test, check out that even light!" src="http://www.headfullofair.com/wp-content/uploads/2009/07/p1040567_sm-300x168.jpg" alt="my first successful test, check out that even light!" width="300" height="168" />][8]
 
- [1]: http://www.headfullofair.com/wp-content/uploads/2009/07/p1040957.jpg
- [2]: http://www.headfullofair.com/2009/05/17/what-the-butler-saw/
+ [1]: /wp-content/uploads/2009/07/p1040957.jpg
+ [2]: h/2009/05/17/what-the-butler-saw/
  [3]: http://www.luikerwaal.com/newframe_uk.htm?/epidia_uk.htm
  [4]: http://www.time.com/time/magazine/article/0,9171,711649-1,00.html
- [5]: http://www.headfullofair.com/wp-content/uploads/2009/07/01_02070840_exp.png
- [6]: http://www.headfullofair.com/wp-content/uploads/2009/07/p1040354c.jpg
- [7]: http://www.headfullofair.com/wp-content/uploads/2009/07/p1040569_sm.jpg
- [8]: http://www.headfullofair.com/wp-content/uploads/2009/07/p1040567_sm.jpg
+ [5]: /wp-content/uploads/2009/07/01_02070840_exp.png
+ [6]: /wp-content/uploads/2009/07/p1040354c.jpg
+ [7]: /wp-content/uploads/2009/07/p1040569_sm.jpg
+ [8]: /wp-content/uploads/2009/07/p1040567_sm.jpg

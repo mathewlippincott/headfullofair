@@ -3,7 +3,7 @@ id: 245
 title: Balloons, YES!
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=245
+guid: https://www.headfullofair.com/?p=245
 permalink: /2010/05/28/balloons-yes/
 dsq_thread_id:
   - 3530698169

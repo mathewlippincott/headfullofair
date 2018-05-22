@@ -3,7 +3,7 @@ id: 115
 title: A Pattern Language Picnic Table
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=115
+guid: https://www.headfullofair.com/?p=115
 permalink: /2009/08/02/a-pattern-language-picnic-table/
 tags:
   - books
@@ -19,7 +19,7 @@ header:
 ---
 Our first project in Chimacum was a social one- the farm lacked an outdoor public space.  Beth really wanted a nice central area, so we cleared out storage underneath a cedar grove (the Seven Cedars) and replaced it with a picnic table made from site-harvested cedar.  I&#8217;m really happy with this space and with the picnic table we made.
 
-[<img class="alignnone size-medium wp-image-116" title="20090802_picnictable2" src="http://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable2-169x300.jpg" alt="20090802_picnictable2" width="169" height="300" />][1]
+[<img class="alignnone size-medium wp-image-116" title="20090802_picnictable2" src="https://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable2-169x300.jpg" alt="20090802_picnictable2" width="169" height="300" />][1]
 
 Much thanks to Dan for loaning us Alexander&#8217;s A Pattern Language.  We&#8217;ve now worked through **[Notes on the Synthesis of Form][2]**, [**The Production of Houses**][3], and **[A Pattern Language ][4]**(we&#8217;ll have to read this one a few more times).
 
@@ -54,7 +54,7 @@ Thighs and forearms are comfortably kept at roughly 90 degree angles.  26&#8243
 
 We went with 30 for the tabletop and 17&#8243; for the benches.  I&#8217;m tall and can&#8217;t help designing around myself.
 
-[<img class="alignnone size-medium wp-image-117" title="20090802_picnictable1" src="http://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable1-300x225.jpg" alt="20090802_picnictable1" width="300" height="225" />][5]
+[<img class="alignnone size-medium wp-image-117" title="20090802_picnictable1" src="https://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable1-300x225.jpg" alt="20090802_picnictable1" width="300" height="225" />][5]
 
 **SECONDARY PATTERNS:  
 7) Easily Moved and Stored**  
@@ -62,19 +62,19 @@ Most furniture will be moved or stored at some point.  Large furniture needs to
 
 Our benches, tabletops, and legs disassemble with only eight 5/16&#8243; bolts.  Coupled with my choice of half-rounded boards for the benches this significantly complicated their construction (see 8).
 
-[<img class="alignnone size-medium wp-image-118" title="20090802_picnictable3" src="http://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable3-169x300.jpg" alt="20090802_picnictable3" width="169" height="300" />][6]
+[<img class="alignnone size-medium wp-image-118" title="20090802_picnictable3" src="https://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable3-169x300.jpg" alt="20090802_picnictable3" width="169" height="300" />][6]
 
-[<img class="alignnone size-medium wp-image-119" title="20090802_picnictable4" src="http://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable4-169x300.jpg" alt="20090802_picnictable4" width="169" height="300" />][7]
+[<img class="alignnone size-medium wp-image-119" title="20090802_picnictable4" src="https://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable4-169x300.jpg" alt="20090802_picnictable4" width="169" height="300" />][7]
 
 **8) Live Edges**  
 We decided to build with irregular pieces of local wood to provide smooth and beautiful natural edges that fit the aesthetic of the location.
 
 Making a fairly square tabletop out of irregular and completely unsure boards took slightly longer, but aesthetically we decided the result was worth it.  The choice of half-rounded benches caused a significant complication and required coping saw and chisel work that could have been avoided with flat pieces.  Happy as I am with the result I wouldn&#8217;t do it again.
 
- [1]: http://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable2.jpg
+ [1]: /wp-content/uploads/2009/08/20090802_picnictable2.jpg
  [2]: http://openlibrary.org/b/OL5911698M/Notes-on-the-synthesis-of-form.
  [3]: http://openlibrary.org/b/OL3494162M/production-of-houses
  [4]: http://openlibrary.org/b/OL5059163M/pattern-language
- [5]: http://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable1.jpg
- [6]: http://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable3.jpg
- [7]: http://www.headfullofair.com/wp-content/uploads/2009/08/20090802_picnictable4.jpg
+ [5]: /wp-content/uploads/2009/08/20090802_picnictable1.jpg
+ [6]: /wp-content/uploads/2009/08/20090802_picnictable3.jpg
+ [7]: /wp-content/uploads/2009/08/20090802_picnictable4.jpg

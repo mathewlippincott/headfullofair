@@ -3,7 +3,7 @@ id: 348
 title: Open Hardware Summit Notes
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=348
+guid: https://www.headfullofair.com/?p=348
 permalink: /2010/09/24/open-hardware-summit-notes/
 categories:
   - post

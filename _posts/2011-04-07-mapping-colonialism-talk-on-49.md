@@ -3,7 +3,7 @@ id: 423
 title: Mapping Colonialism, Talk on 4/9
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=423
+guid: https://www.headfullofair.com/?p=423
 permalink: /2011/04/07/mapping-colonialism-talk-on-49/
 categories:
   - post

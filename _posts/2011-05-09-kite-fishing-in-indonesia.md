@@ -3,7 +3,7 @@ id: 432
 title: 'Kite Fishing in Indonesia &#038; Melanesia'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=432
+guid: https://www.headfullofair.com/?p=432
 permalink: /2011/05/09/kite-fishing-in-indonesia/
 categories:
   - post

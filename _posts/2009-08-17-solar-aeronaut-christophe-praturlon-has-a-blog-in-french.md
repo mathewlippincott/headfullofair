@@ -3,7 +3,7 @@ id: 135
 title: "Solar Aeronaut Christophe Praturlon has a blog! (in French)"
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=135
+guid: https://www.headfullofair.com/?p=135
 permalink: /2009/08/17/solar-aeronaut-christophe-praturlon-has-a-blog-in-french/
 tags:
   -balloons

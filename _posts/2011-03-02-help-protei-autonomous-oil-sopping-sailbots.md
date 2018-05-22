@@ -3,7 +3,7 @@ id: 411
 title: Help Protei! Autonomous, oil-sopping sailbots
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=411
+guid: https://www.headfullofair.com/?p=411
 permalink: /2011/03/02/help-protei-autonomous-oil-sopping-sailbots/
 categories:
   - post

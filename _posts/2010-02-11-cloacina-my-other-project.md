@@ -3,7 +3,7 @@ id: 231
 title: 'Cloacina: My Other Project'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=231
+guid: https://www.headfullofair.com/?p=231
 permalink: /2010/02/11/cloacina-my-other-project/
 categories:
   - post

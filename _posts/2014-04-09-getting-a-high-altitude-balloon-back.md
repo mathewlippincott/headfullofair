@@ -57,7 +57,7 @@ I got the Spot... I need to fly the balloon. It seems to report more regularly w
 
 ##### Comments
 
-[@amysoyka](http://publiclab.org/profile/amysoyka):
+[@amysoyka](https://publiclab.org/profile/amysoyka):
 
 What about repurposing an old smartphone & using Google latitude (or similar) to ping it...?
 
@@ -67,7 +67,7 @@ That is a great idea and works well some places, but it won't work in most of We
 
 ![Screen_Shot_2014-09-05_at_10.24.00_AM_1.png](/assets/images/publiclab/Screen_Shot_2014-09-05_at_10.24.00_AM_1.png)
 
-[@Wonko](http://publiclab.org/profile/Wonko):
+[@Wonko](https://publiclab.org/profile/Wonko):
 
 A couple of things:
 

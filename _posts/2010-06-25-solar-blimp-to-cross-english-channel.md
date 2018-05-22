@@ -3,7 +3,7 @@ id: 274
 title: Solar Blimp to Cross English Channel
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=274
+guid: https://www.headfullofair.com/?p=274
 permalink: /2010/06/25/solar-blimp-to-cross-english-channel/
 categories:
   - post

@@ -3,7 +3,7 @@ id: 248
 title: Work at Grand Detour tonight
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/2010/06/04/work-at-grand-detour-tonight/
+guid: https://www.headfullofair.com/2010/06/04/work-at-grand-detour-tonight/
 permalink: /2010/06/04/work-at-grand-detour-tonight/
 categories:
   - post

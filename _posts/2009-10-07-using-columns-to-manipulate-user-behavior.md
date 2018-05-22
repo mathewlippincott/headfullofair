@@ -3,7 +3,7 @@ id: 169
 title: Using columns to manipulate user behavior
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/2009/10/07/using-columns-to-manipulate-user-behavior/
+guid: https://www.headfullofair.com/2009/10/07/using-columns-to-manipulate-user-behavior/
 permalink: /2009/10/07/using-columns-to-manipulate-user-behavior/
 categories:
   - post

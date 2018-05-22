@@ -3,7 +3,7 @@ id: 222
 title: Aerospace Resolutions for a New Year
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=222
+guid: https://www.headfullofair.com/?p=222
 permalink: /2009/12/31/aerospace-resolutions-for-a-new-year/
 categories:
   - post
@@ -24,6 +24,6 @@ Don&#8217;t hold me to it, but I want to get into automated flight control of so
 
 The rest of the time I&#8217;ll be composting, looking for a job in waste management, and trying to start a small business.  More on all that later, but the short of it is I want to work towards creating new blue collar jobs that manage enclosed resource cycles- i.e. engineering is great, but you&#8217;ll still need a plumber in space.
 
- [1]: http://www.headfullofair.com/wp-content/uploads/2009/12/P1010477_crop.jpg
- [2]: http://www.headfullofair.com/wp-content/uploads/2009/05/thekissballoon2.pdf
+ [1]: /wp-content/uploads/2009/12/P1010477_crop.jpg
+ [2]: /wp-content/uploads/2009/05/thekissballoon2.pdf
  [3]: http://www.wunderground.com/US/OR/Portland.html

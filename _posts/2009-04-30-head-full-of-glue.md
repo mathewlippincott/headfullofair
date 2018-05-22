@@ -3,7 +3,7 @@ id: 3
 title: Head Full of Glue
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=3
+guid: https://www.headfullofair.com/?p=3
 permalink: /2009/04/30/head-full-of-glue/
 categories: post
 
@@ -21,7 +21,7 @@ So I didn&#8217;t go to the nurse, I washed out my wound and Mr. Willemann dripp
 I&#8217;ve used superglue on wounds ever since, especially cuts on my hands. [Apparently the stuff you get in the store can irritate your skin, so the FDA didn&#8217;t approve of it for medical use until it was re-formulated in 1998, and then only for doctors. ][1]But I have pretty sensitive skin and have never had a problem with the cheap stuff. This is the first time I&#8217;ve put it on such large facial wounds. But after crashing my bike last Sunday I faced a choice between going in an ambulance or figuring out treatment myself. One 99 cent bottle saved me a $1000 visit to the ER. We&#8217;ll see how the scars turn out.
 
 <div id="attachment_5" style="width: 528px" class="wp-caption alignnone">
-  <img class="size-full wp-image-5" title="after crashing my bike 4/26/09" src="http://www.headfullofair.com/wp-content/uploads/2009/04/p1000027_sm.jpg" alt="before treatment" width="518" height="691" />
+  <img class="size-full wp-image-5" title="after crashing my bike 4/26/09" src="https://www.headfullofair.com/wp-content/uploads/2009/04/p1000027_sm.jpg" alt="before treatment" width="518" height="691" />
   
   <p class="wp-caption-text">
     before treatment

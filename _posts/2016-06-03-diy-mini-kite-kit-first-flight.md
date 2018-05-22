@@ -15,9 +15,9 @@ header:
 ---
 
 ### Background
-Inspired by [@PatCoyle](http://publiclab.org/profile/patcoyle)'s look at [small, cheap parafoil kites for mapping,](http://publiclab.org//notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera) I've been looking for a stable, sparless kite that could lift a small camera and pack down easily into a backpack. At the same time, @TonyC has been working to make some super-simple rigs for flying the [Mobius action cam.](https://publiclab.org/tag/diy-mount-kit) 
+Inspired by [@PatCoyle](https://publiclab.org/profile/patcoyle)'s look at [small, cheap parafoil kites for mapping,](https://publiclab.org//notes/patcoyle/07-20-2015/small-parafoil-kite-for-mobius-camera) I've been looking for a stable, sparless kite that could lift a small camera and pack down easily into a backpack. At the same time, @TonyC has been working to make some super-simple rigs for flying the [Mobius action cam.](https://publiclab.org/tag/diy-mount-kit) 
 
-With the spring here, I was finally able to fly a camera on my kite and demonstrate that it could lift a Mobius.  While still an early-stage kit with limited testing, [@TonyC](http://publiclab.org/profile/tonyc) rolled these up into [a kit in the Public Lab store.](http://store.publiclab.org/collections/mapping-kits/products/diy-mini-kite-kit)
+With the spring here, I was finally able to fly a camera on my kite and demonstrate that it could lift a Mobius.  While still an early-stage kit with limited testing, [@TonyC](https://publiclab.org/profile/tonyc) rolled these up into [a kit in the Public Lab store.](https://store.publiclab.org/collections/mapping-kits/products/diy-mini-kite-kit)
 
 ### My small kite:
 Last fall I bought a [7.5 square foot parafoil kite from In the Breeze kites.](http://www.inthebreeze.com/prod-38-1-497-282/7-5-rainbow-air-foil.htm)  Its flight performance was disappointing, as it hunted a lot and would turn over in higher winds.  It didn't approach the 25mph top wind speed advertised, and became unstable at about 15mph. 

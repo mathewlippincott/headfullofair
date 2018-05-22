@@ -3,7 +3,7 @@ id: 229
 title: Quick Links
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=229
+guid: https://www.headfullofair.com/?p=229
 permalink: /2010/02/11/quick-links/
 categories:
   - post

@@ -3,7 +3,7 @@ id: 417
 title: 'Amateur Radio Throwdown: Planetary Circumnavigation by Balloon'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=417
+guid: https://www.headfullofair.com/?p=417
 permalink: /2011/04/02/amateur-radio-throwdown-planetary-circumnavigation-by-balloon/
 categories:
   - post
@@ -31,5 +31,5 @@ Mark the date, March 24, 2011- Robert Rochte throws in his hat for circumnavigat
 > 
 > KC8UCH
 
- [1]: http://www.headfullofair.com/2009/10/14/robert-rochte-is-going-to-launch-on-oct-15/
+ [1]: /2009/10/14/robert-rochte-is-going-to-launch-on-oct-15/
  [2]: http://whitestarballoon.com/

@@ -3,7 +3,7 @@ id: 147
 title: 'Re-Burbia non-finalists: Me and Molly'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=147
+guid: https://www.headfullofair.com/?p=147
 permalink: /2009/08/25/re-burbia-non-finalists-me-and-molly/
 categories:
   - post
@@ -37,17 +37,17 @@ One cubic meter of asphalt pavement can by pyrolized into 58.4kWh of energy\****
 The conversion process:  
 Build a small, solar-cited house with scrap lumber and all your favorite ornamental features.  Just enough to get going, and preferably near other homesteaders.  You can always expand later.
 
-[<img class="alignnone size-medium wp-image-148" title="Properly cited, human-scale dwelling" src="http://www.headfullofair.com/wp-content/uploads/2009/08/P1050317-300x208.jpg" alt="Properly cited, human-scale dwelling" width="300" height="208" />][3]  
+[<img class="alignnone size-medium wp-image-148" title="Properly cited, human-scale dwelling" src="https://www.headfullofair.com/wp-content/uploads/2009/08/P1050317-300x208.jpg" alt="Properly cited, human-scale dwelling" width="300" height="208" />][3]  
 Pull the windows out of all the houses on the block.  Build one amazingly insulated double-pane greenhouse, built over a swimming pool if possible.
 
-[<img class="alignnone size-medium wp-image-149" title="recycled-window double-pane greenhouse" src="http://www.headfullofair.com/wp-content/uploads/2009/08/P1050315-300x191.jpg" alt="recycled-window double-pane greenhouse" width="300" height="191" />][4]
+[<img class="alignnone size-medium wp-image-149" title="recycled-window double-pane greenhouse" src="https://www.headfullofair.com/wp-content/uploads/2009/08/P1050315-300x191.jpg" alt="recycled-window double-pane greenhouse" width="300" height="191" />][4]
 
 Use the pool as a giant fish tank (and thermal mass for the greenhouse) or set up the tubs, sinks and plumbing as a freshwater marine habitat.  Crushed concrete may be a substitute for a limestone filter.  Useless suburban basements often need pumping to stay dry, use a found pump for water flow.  Grow vegetables in aquaponic beds drilled into PVC drainage pipe.  Use nearby roofs to collect rainwater.  Your greenhouse will provide even with bad/unpredictable weather.
 
-[<img class="alignnone size-medium wp-image-151" title="P1050319" src="http://www.headfullofair.com/wp-content/uploads/2009/08/P1050319-300x120.jpg" alt="P1050319" width="300" height="120" />][5]  
+[<img class="alignnone size-medium wp-image-151" title="P1050319" src="https://www.headfullofair.com/wp-content/uploads/2009/08/P1050319-300x120.jpg" alt="P1050319" width="300" height="120" />][5]  
 Form a pyrolysis co-op with your fellow homesteaders and tear up unnecessary pavement.  Crack it into fuel and drive surplus aquaponic goods to market.  Use the money to buy animals and begin grazing  nearby land.   House them in a converted McMansion barn, and save silage on the second floor.
 
-[<img class="alignnone size-medium wp-image-150" title="tear up the roads and make fuel" src="http://www.headfullofair.com/wp-content/uploads/2009/08/P1050324-300x231.jpg" alt="tear up the roads and make fuel" width="300" height="231" />][6]  
+[<img class="alignnone size-medium wp-image-150" title="tear up the roads and make fuel" src="https://www.headfullofair.com/wp-content/uploads/2009/08/P1050324-300x231.jpg" alt="tear up the roads and make fuel" width="300" height="231" />][6]  
 Graft edible fruit trees onto ornamental trees like cherry and crab apple, if you don&#8217;t have any, plant some.  Collect and feed acorns to pigs.
 
 Use satellite dish reflectors and abandoned wifi routers to maintain a local network- you need to stay in touch. Enjoy your friends, and don&#8217;t plan on getting rich.
@@ -71,10 +71,10 @@ solenia.com
 
  [1]: http://mollydanielsson.wordpress.com/
  [2]: http://www.re-burbia.com/finalists/
- [3]: http://www.headfullofair.com/wp-content/uploads/2009/08/P1050317.JPG
- [4]: http://www.headfullofair.com/wp-content/uploads/2009/08/P1050315.JPG
- [5]: http://www.headfullofair.com/wp-content/uploads/2009/08/P1050319.JPG
- [6]: http://www.headfullofair.com/wp-content/uploads/2009/08/P1050324.JPG
+ [3]: /wp-content/uploads/2009/08/P1050317.JPG
+ [4]: /wp-content/uploads/2009/08/P1050315.JPG
+ [5]: /wp-content/uploads/2009/08/P1050319.JPG
+ [6]: /wp-content/uploads/2009/08/P1050324.JPG
  [7]: http://www.census.gov/const/www/charindex.html#singlecomplete
  [8]: http://pods.dasnr.okstate.edu/docushare/dsweb/Get/Document-1839/SRAC-281web.pdf
  [9]: http://www.solenia.it/pdf/asfalto.pdf

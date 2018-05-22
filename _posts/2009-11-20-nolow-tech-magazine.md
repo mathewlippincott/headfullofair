@@ -3,7 +3,7 @@ id: 193
 title: No/Low Tech Magazine
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=193
+guid: https://www.headfullofair.com/?p=193
 permalink: /2009/11/20/nolow-tech-magazine/
 categories:
   - post

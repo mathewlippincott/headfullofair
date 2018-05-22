@@ -3,7 +3,7 @@ id: 371
 title: 'Cesar Harada&#8217;s GRM balloon kit instructions'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=371
+guid: https://www.headfullofair.com/?p=371
 permalink: /2010/10/20/cesar-haradas-balloon-kit-instructions/
 categories:
   - post
@@ -22,4 +22,4 @@ These are the [**best basic balloon kit instructions**][1], beautiful.  Check o
 
  [1]: http://cesarharada.posterous.com/?tag=grassrootsmapping
  [2]: http://www.flickr.com/photos/labucketbrigade/4844822657/lightbox/
- [3]: http://www.headfullofair.com/wp-content/uploads/2010/10/cesarharada.com_blog-Filed-under-_Grassrootsmapping_.jpg
+ [3]: /wp-content/uploads/2010/10/cesarharada.com_blog-Filed-under-_Grassrootsmapping_.jpg

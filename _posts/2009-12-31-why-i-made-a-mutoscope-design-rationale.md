@@ -3,7 +3,7 @@ id: 220
 title: Why I Made a Mutoscope (design rationale)
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=220
+guid: https://www.headfullofair.com/?p=220
 permalink: /2009/12/31/why-i-made-a-mutoscope-design-rationale/
 categories:
   - post
@@ -29,9 +29,9 @@ Large-scale mutoscopes can address this problem for Fernando and other animators
 
 By drawing directly into mutoscope reels, Fernando can make his original drawings move, creating an original object bearing his mark as an artist that is also an animation.  Since it is an original,  &#8220;prints&#8221; may be made from it- movies of the machine in action- that have the same relationship that paintings bear to prints.  My hope is that mutoscopes can bring the same level of study and distribution to Fernando&#8217;s animation that paintings currently enjoy, strengthening the art world and widening his audience.
 
-[<img class="alignnone size-medium wp-image-227" title="I signed it in stamped aluminum" src="http://www.headfullofair.com/wp-content/uploads/2009/12/P1010389_crop-300x70.jpg" alt="I signed it in stamped aluminum" width="300" height="70" />][2]
+![I signed it in stamped aluminum](/wp-content/uploads/2009/12/P1010389_crop-300x70.jpg)
 
- [1]: http://www.headfullofair.com/wp-content/uploads/2009/12/mutoscope-complete_sm.jpg
- [2]: http://www.headfullofair.com/wp-content/uploads/2009/12/P1010389_crop.jpg
- [3]: http://www.headfullofair.com/2009/05/17/what-the-butler-saw/
+ [1]: /wp-content/uploads/2009/12/mutoscope-complete_sm.jpg
+ [2]: /wp-content/uploads/2009/12/P1010389_crop.jpg
+ [3]: /2009/05/17/what-the-butler-saw/
  [4]: http://en.wikipedia.org/wiki/Mutoscope

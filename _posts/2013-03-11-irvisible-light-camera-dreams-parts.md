@@ -25,7 +25,7 @@ I can't find any outdoor-specific cases for the Pi, and none I'd like to mount a
 
 ##### Camera Pairs
 
-Currently, Public Lab IR/Visible light cameras are [created with a pair of cameras](/assets/images/publiclab//notes/donblair/3-5-2013/late-night-ircam-hack). 
+Currently, Public Lab IR/Visible light cameras are [created with a pair of cameras](https://publiclab.org/notes/donblair/3-5-2013/late-night-ircam-hack). 
 
 <b>Advantages</b> This is awesome for photographing things that are at enough of a distance to ignore the different lens positions, but not all that great up close.  Its also as fast as the lens, and webcams are cheap.  Can do video.
 

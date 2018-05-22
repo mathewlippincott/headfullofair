@@ -3,7 +3,7 @@ id: 271
 title: Thank You Lippman Co.
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=271
+guid: https://www.headfullofair.com/?p=271
 permalink: /2010/06/25/thank-you-lippman-co/
 categories:
   - post

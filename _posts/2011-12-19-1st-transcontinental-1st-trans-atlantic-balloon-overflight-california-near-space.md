@@ -4,7 +4,7 @@ title: '1st Transcontinental &#038; 1st Trans-Atlantic Balloon Overflight- Calif
 author: Mathew
 excerpt: 'The DIY long-duration balloon race heats up with a record-setting trans-atlantic and trans-continental flight.   Competitors ready superpressure balloons.'
 layout: single
-guid: http://www.headfullofair.com/?p=465
+guid: https://www.headfullofair.com/?p=465
 permalink: /2011/12/19/1st-transcontinental-1st-trans-atlantic-balloon-overflight-california-near-space/
 categories:
   - post
@@ -47,5 +47,5 @@ White Star&#8217;s not working with off the shelf balloons though&#8211; they&#8
  [2]: http://tech.slashdot.org/story/11/12/14/1655245/atlantic-crossing-by-amateur-radio-high-altitude-balloon
  [3]: http://whitestarballoon.com/
  [4]: http://arhab.blogspot.com/
- [5]: http://www.headfullofair.com/2011/04/02/amateur-radio-throwdown-planetary-circumnavigation-by-balloon/
+ [5]: /2011/04/02/amateur-radio-throwdown-planetary-circumnavigation-by-balloon/
  [6]: http://whitestarballoon.com/?p=516

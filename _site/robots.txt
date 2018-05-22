@@ -1,1 +1,1 @@
-Sitemap: http://headfullofair.com/sitemap.xml
+Sitemap: https://headfullofair.com/sitemap.xml

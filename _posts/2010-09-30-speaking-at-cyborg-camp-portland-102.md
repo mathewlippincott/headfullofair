@@ -3,7 +3,7 @@ id: 354
 title: Speaking at Cyborg Camp Portland 10/2
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=354
+guid: https://www.headfullofair.com/?p=354
 permalink: /2010/09/30/speaking-at-cyborg-camp-portland-102/
 categories:
   - post

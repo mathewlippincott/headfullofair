@@ -3,7 +3,7 @@ id: 356
 title: Grand Detour and Research Club on Kickstarter
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=356
+guid: https://www.headfullofair.com/?p=356
 permalink: /2010/09/30/grand-detour-and-research-club-on-kickstarter/
 categories:
   - post
@@ -16,7 +16,7 @@ Two organizations in Portland that I love! WOah, and [I&#8217;m in the video](ht
 
 **[Research Club][4]** || [**Grand Detour**][5]
 
- [1]: http://www.headfullofair.com/category/grassrootsmapping/
+ [1]: /category/grassrootsmapping/
  [2]: southernballoonworks.com/
  [3]: http://wiki.grassrootsmapping.org/show/BalloonMaterialsList
  [4]: http://research-club.org/

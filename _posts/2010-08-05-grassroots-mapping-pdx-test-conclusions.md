@@ -3,7 +3,7 @@ id: 323
 title: 'Grassroots Mapping PDX: test conclusions'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=323
+guid: https://www.headfullofair.com/?p=323
 permalink: /2010/08/05/grassroots-mapping-pdx-test-conclusions/
 categories:
   - post
@@ -24,7 +24,7 @@ I still want to test lamp black, but Cabot pigments STILL hasn&#8217;t sent me s
 
 Use a mattress blower to disperse the pigment when the balloon is mostly full.  It pulverizes and disperses, and possibly, through proximity to the motor, charge them a bit.
 
-[<img class="alignnone size-full wp-image-328" title="my mattress blower and notes" src="http://www.headfullofair.com/wp-content/uploads/2010/08/20100715-1.jpg" alt="" width="471" height="504" />][7]
+[<img class="alignnone size-full wp-image-328" title="my mattress blower and notes" src="https://www.headfullofair.com/wp-content/uploads/2010/08/20100715-1.jpg" alt="" width="471" height="504" />][7]
 
 I stand by my dislike of black HDPE, because it is weak and tears easily when hot.
 
@@ -42,6 +42,6 @@ Or I might switch to hydrogen. [I&#8217;m excited about this **method of urine e
  [4]: http://robbykraft.com/
  [5]: http://mollydanielsson.wordpress.com/
  [6]: http://grassrootsmapping.org/2010/07/solar-hot-air-balloon-tests-in-tbilisi-georgia/
- [7]: http://www.headfullofair.com/wp-content/uploads/2010/08/20100715-1.jpg
+ [7]: /wp-content/uploads/2010/08/20100715-1.jpg
  [8]: http://www.mcmaster.com/#polyester-%28pet%29/=89kun8
  [9]: http://www.rsc.org/chemistryworld/News/2009/July/02070902.asp

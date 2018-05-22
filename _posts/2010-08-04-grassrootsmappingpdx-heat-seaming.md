@@ -3,7 +3,7 @@ id: 320
 title: 'GrassrootsMappingPDX: Heat Seaming'
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/?p=320
+guid: https://www.headfullofair.com/?p=320
 permalink: /2010/08/04/grassrootsmappingpdx-heat-seaming/
 categories:
   - post

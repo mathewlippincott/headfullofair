@@ -10,9 +10,10 @@ menu: yes
 #### Current Positions
 
 * 2017.6-present, designing flight hardware, Head Full of Air LLC
-* 2015-2017.11, [ANSI/IAPMO WE Stand](http://www.iapmo.org/WEStand/Pages/default.aspx) Composting Toilet Committee Chair
+
 #### Recent Positions
 
+* 2015-2017.11, [ANSI/IAPMO WE Stand](http://www.iapmo.org/WEStand/Pages/default.aspx) Composting Toilet Committee Chair
 * 2017.6-2017.8, [Guerilla Science Resident](http://guerillascience.org/nsf-artsci-residents/)
 * 2010.11-2017.6, [Public Laboratory for Open Technology and Science, Director of Production](Publiclab.org/profile/mathew) 
 * 2015-2016, Advisor, [Recode](www.recodenow.org)

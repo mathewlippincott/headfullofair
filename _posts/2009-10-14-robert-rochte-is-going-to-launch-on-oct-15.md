@@ -3,7 +3,7 @@ id: 181
 title: Robert Rochte is going to launch on Oct 15 UPDATE:POSTPONED
 author: Mathew
 layout: single
-guid: http://www.headfullofair.com/2009/10/14/robert-rochte-is-going-to-launch-on-oct-15/
+guid: https://www.headfullofair.com/2009/10/14/robert-rochte-is-going-to-launch-on-oct-15/
 permalink: /2009/10/14/robert-rochte-is-going-to-launch-on-oct-15/
 categories:
   - post

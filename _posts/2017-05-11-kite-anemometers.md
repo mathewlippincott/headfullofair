@@ -37,7 +37,7 @@ You can contribute to this project by:
 
 ### Background
 
-In the late 70's a number of patents were made regarding a system in which a series of kites were to be used to monitor conditions near airports. This system became known as the Tethered Aerodynamic Lifting Anemometer (TALA) patented under US Patents  [3,767,145](http://www.google.com/patents/US3767145), [4,058,010](http://www.google.com/patents/US4058010), [4,152,933](http://www.google.com/patents/US4152933) & [4,221,351](http://www.google.com/patents/US4221351).  Inspired by this device, further research into it and the general concept of kite anemometry was conducted throughout the 1980's and early 1990's.  No other commercial kite anemometers other than the TALA were produced. 
+In the late 70's a number of patents were made regarding a system in which a series of kites were to be used to monitor conditions near airports. This system became known as the Tethered Aerodynamic Lifting Anemometer (TALA) patented under US Patents  [3,767,145](https://www.google.com/patents/US3767145), [4,058,010](https://www.google.com/patents/US4058010), [4,152,933](https://www.google.com/patents/US4152933) & [4,221,351](https://www.google.com/patents/US4221351).  Inspired by this device, further research into it and the general concept of kite anemometry was conducted throughout the 1980's and early 1990's.  No other commercial kite anemometers other than the TALA were produced. 
 
 ### Notes:
 
