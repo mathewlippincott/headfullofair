@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cully Park Kite Party Report Back"
+title: "Cully Park Kite Party report back"
 author: Mathew
 categories: 
  - post

@@ -1,4 +1,375 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2018-07-14T19:33:11-07:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Cully Park Kite Party Report Back</title><link href="https://headfullofair.com/post/cully-park-kite-party-report/" rel="alternate" type="text/html" title="Cully Park Kite Party Report Back" /><published>2018-07-14T00:00:00-07:00</published><updated>2018-07-14T00:00:00-07:00</updated><id>https://headfullofair.com/post/cully-park-kite-party-report</id><content type="html" xml:base="https://headfullofair.com/post/cully-park-kite-party-report/">&lt;p&gt;On June 30th I held a workshop making Sled kites at the &lt;a href=&quot;/post/cully-park-kite-party/&quot;&gt;Grand Opening of Cully Park&lt;/a&gt;. We made close to 80 kites in 3.5 hours. The design is &lt;a href=&quot;https://github.com/mathewlippincott/stormysled&quot;&gt;the Stormy Sled, now on Github&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-26T21:29:27-07:00</updated><id>http://localhost:4000/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Airpup</title><link href="http://localhost:4000/airpup/" rel="alternate" type="text/html" title="Airpup" /><published>2018-07-26T00:00:00-07:00</published><updated>2018-07-26T00:00:00-07:00</updated><id>http://localhost:4000/airpup</id><content type="html" xml:base="http://localhost:4000/airpup/">&lt;p&gt;layout: single
+title: “Introducing Airpup”
+author: Mathew
+tags:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;kite balloons&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;balloons&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;kites&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;categories:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;post&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;header:
+ image: /assets/images/airpup/YWhSc.jpg
+ teaser: /assets/images/airpup/YWhSc.jpg&lt;/p&gt;
+
+&lt;h1 id=&quot;introducing-airpup&quot;&gt;Introducing Airpup&lt;/h1&gt;
+
+&lt;p&gt;Airpup is small for a balloon, because Airpup is a kite balloon. Airpup sips helium and eats high winds.&lt;/p&gt;
+
+&lt;p&gt;takeoff video&lt;/p&gt;
+
+&lt;p&gt;Airpup fits on my bike, and makes less noise. Audio from Airpup is drone-free. Being drone free also means Airpup can go to parks.&lt;/p&gt;
+
+&lt;p&gt;video&lt;/p&gt;
+
+&lt;h2 id=&quot;airpup-is-born&quot;&gt;Airpup is born&lt;/h2&gt;
+
+&lt;p&gt;On the helium it takes to fill a dozen party balloons, Aipup lifts 2 oz. Airpup flies great in up to 12-18mph winds.  (2oz/8cu ft, 59g/Xl).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/airpup/P2370017.jpg&quot; alt=&quot;8 cubic foot Airpup&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;growing-up&quot;&gt;Growing up&lt;/h2&gt;
+
+&lt;p&gt;Full-size at 6’ long and 3 1/2’ wide, Airpup will still fit in a hatchback or inside double doors. At 25lbs, a 40 cu ft helium tank can be carted, biked, or carried where needed to fill Airpup and top off pressure.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/airpup/P2390254.jpg&quot; alt=&quot;Airpup rises, photo Colleen Donaldson&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;airpups-future&quot;&gt;Airpup’s Future&lt;/h2&gt;
+
+&lt;p&gt;The full-size Airpup is getting rigged for lifting with the goal of lifting a pound for day, or 1/2 pound for three days on single fill-up.&lt;/p&gt;
+
+&lt;p&gt;You’ll be seeing more about Airpup’s adventures soon, as well as open hardware plans.&lt;/p&gt;</content><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><summary type="html">layout: single title: “Introducing Airpup” author: Mathew tags:</summary></entry><entry><title type="html">Detroit Kite Festival</title><link href="http://localhost:4000/post/detroit-kite-festival/" rel="alternate" type="text/html" title="Detroit Kite Festival" /><published>2018-07-16T00:00:00-07:00</published><updated>2018-07-16T00:00:00-07:00</updated><id>http://localhost:4000/post/detroit-kite-festival</id><content type="html" xml:base="http://localhost:4000/post/detroit-kite-festival/">&lt;p&gt;I went to the &lt;a href=&quot;https://detroitkitefestival.org/&quot;&gt;Detroit Kite Festival&lt;/a&gt; with Colleen Donaldson and we had a blast! The organizers pulled off a wonderful and inclusive festival complete with a huge stack of kites to borrow, A kite book library, free kid-oriented kite making out of paper, free kites from sponsors, and my favorite part, a free kitemaking booth called “Will It Fly?” with stacks of reused materials for kite making.&lt;/p&gt;
+
+&lt;p&gt;We caught a Wind Jammers performance while the Detroit Philharmonic played, and I ran into Dave Bydlowski from the &lt;a href=&quot;https://www.globe.gov/web/aren-project&quot;&gt;AREN Project&lt;/a&gt;. Colleen and Dave made it into the Detroit Free Press.&lt;/p&gt;
+
+&lt;p&gt;The gallery below has some notes. I also took some &lt;a href=&quot;/post/detroit-kite-festival-aerial-photos&quot;&gt;aerial photos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380073.jpg&quot; title=&quot;Premiere Kites powered kite, flown by the Wind Jammers.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380073_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380087.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380087_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380094.jpg&quot; title=&quot;Wind Jammers&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380094_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380095.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380095_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380098.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380098_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380103.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380103_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380111.jpg&quot; title=&quot;Colleen Donaldson and I made this kite from a gift bag and some wrapping for flowers at the awesome Will it Fly? booth.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380111_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380114.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380114_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380119.jpg&quot; title=&quot;Colleen Donaldson and I made this kite from a gift bag and some wrapping for flowers at the awesome Will it Fly? booth.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380119_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380123.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380123_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380126.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380126_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380131.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380131_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380134.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380134_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380136.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380136_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380142.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380142_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380150.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380150_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380157.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380157_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380180.jpg&quot; title=&quot;The purple tissue paper kite in the middle advertises the Will It Fly? booth saying FREE TRASH KITES.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380180_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380193.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380193_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380195.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380195_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380213.jpg&quot; title=&quot;A homemade velvet kite.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380213_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380219.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380219_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380220.jpg&quot; title=&quot;Crayon kite drawing its own tails.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380220_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380226.jpg&quot; title=&quot;Crayon kite drawing its own tails.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380226_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380234.jpg&quot; title=&quot;Me counting down to a kite launch with Dave Bydlowski of the AREN Project.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380234_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380239.jpg&quot; title=&quot;Me and my trusty Levitation Light. A reliable lifter.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380239_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380242.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380242_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380279.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380281_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380281.jpg&quot; title=&quot;Made at the Will It Fly? booth excellent flier.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380281_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380303.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380303_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380318.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380318_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380333.jpg&quot; title=&quot;Wind Jammers jamming.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380333_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380353.jpg&quot; title=&quot;Wind Jammers jamming.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380353_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380407.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380407_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380415.jpg&quot; title=&quot;This unlikely looking flier flew alright.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380415_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380435.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380435_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380443.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380443_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380459.jpg&quot; title=&quot;At this point someone counted over 70 kites in the air.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380459_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380461.jpg&quot; title=&quot;Me, prepping for some aerial photography with an S100 and a KAPtery JerkPan rig.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380461_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380487.jpg&quot; title=&quot;Will it Fly? crew with a sweet geometric kite&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380487_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380491.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380491_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380513.jpg&quot; title=&quot;I just love this guy's kite launch.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380513_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380514.jpg&quot; title=&quot;I just love this guy's kite launch.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380514_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380528.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380528_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/dkf/P2380589.jpg&quot; title=&quot;Colleen was flying my Stormy Sled with ribbons marked on the line when this fairy princess came to check out the scene.&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/dkf/P2380589_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="workshops" /><category term="KAPtery" /><summary type="html">I went to the Detroit Kite Festival with Colleen Donaldson and we had a blast! The organizers pulled off a wonderful and inclusive festival complete with a huge stack of kites to borrow, A kite book library, free kid-oriented kite making out of paper, free kites from sponsors, and my favorite part, a free kitemaking booth called “Will It Fly?” with stacks of reused materials for kite making.</summary></entry><entry><title type="html">Detroit Kite Festival aerial photos</title><link href="http://localhost:4000/post/detroit-kite-festival-aerial-photos/" rel="alternate" type="text/html" title="Detroit Kite Festival aerial photos" /><published>2018-07-16T00:00:00-07:00</published><updated>2018-07-16T00:00:00-07:00</updated><id>http://localhost:4000/post/detroit-kite-festival-aerial-photos</id><content type="html" xml:base="http://localhost:4000/post/detroit-kite-festival-aerial-photos/">&lt;p&gt;While &lt;a href=&quot;/post/detroit-kite-festival/&quot;&gt;at the Detroit Kite Festival&lt;/a&gt; I captured some aerial photos with my Canon S100 running &lt;a href=&quot;http://chdk.wikia.com/wiki/CHDK&quot;&gt;CHDK&lt;/a&gt;, installed with &lt;a href=&quot;http://www.zenoshrdlu.com/stick/stick.html&quot;&gt;STICK&lt;/a&gt;. It flew on the always-reliable &lt;a href=&quot;http://kaptery.com/product/aerobee-rig-kit&quot;&gt;KAPtery JerkPan&lt;/a&gt;, lifted by my Into the Wind Levitation Light.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/kites/dkf/P2380461.jpg&quot; alt=&quot;Me prepping for flight. photo by Colleen Donaldson&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a fairly brief flight window right before the close of the festival, but was still able to capture some great kites in flight.&lt;/p&gt;
+
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5381-c.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5381-c_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5301-c.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5301-c_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5228-c.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5228-c_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5217.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5217_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5420-c.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/dkf/IMG_5420-c_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="KAPtery" /><summary type="html">While at the Detroit Kite Festival I captured some aerial photos with my Canon S100 running CHDK, installed with STICK. It flew on the always-reliable KAPtery JerkPan, lifted by my Into the Wind Levitation Light.</summary></entry><entry><title type="html">Cully Park Kite Party report back</title><link href="http://localhost:4000/post/cully-park-kite-party-report/" rel="alternate" type="text/html" title="Cully Park Kite Party report back" /><published>2018-07-14T00:00:00-07:00</published><updated>2018-07-14T00:00:00-07:00</updated><id>http://localhost:4000/post/cully-park-kite-party-report</id><content type="html" xml:base="http://localhost:4000/post/cully-park-kite-party-report/">&lt;p&gt;On June 30th I held a workshop making Sled kites at the &lt;a href=&quot;/post/cully-park-kite-party/&quot;&gt;Grand Opening of Cully Park&lt;/a&gt;. We made close to 80 kites in 3.5 hours. The design is &lt;a href=&quot;https://github.com/mathewlippincott/stormysled&quot;&gt;the Stormy Sled, now on Github&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;A special thanks to Gary Goodenough and Colleen Donaldson for helping kids assemble kites, and to Candice, who decorated the “decorate” assembly instruction poster and made our inviting kite making sign. Mitchell, Chanel, Linsay, and Shawn Patrick Higgins also were invaluable to setup and breakdown. Except for the setup images, Shawn and Linsay took these photos.&lt;/p&gt;
 
@@ -16,9 +387,9 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/workshops/cullypark/P2370601_1.jpg&quot; alt=&quot;more flights&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/workshops/cullypark/P2370659.jpg&quot; alt=&quot;more flights&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="workshops" /><summary type="html">On June 30th I held a workshop making Sled kites at the Grand Opening of Cully Park. We made close to 80 kites in 3.5 hours. The design is the Stormy Sled, now on Github.</summary></entry><entry><title type="html">Cully Park Kite Party</title><link href="https://headfullofair.com/post/cully-park-kite-party/" rel="alternate" type="text/html" title="Cully Park Kite Party" /><published>2018-06-29T00:00:00-07:00</published><updated>2018-06-29T00:00:00-07:00</updated><id>https://headfullofair.com/post/cully-park-kite-party</id><content type="html" xml:base="https://headfullofair.com/post/cully-park-kite-party/">&lt;p&gt;Join a kitemaking and flying party at the &lt;a href=&quot;http://www.livingcully.org/event/cully-park-grand-opening/&quot;&gt;Grand Opening of Cully Park&lt;/a&gt; in Portland, OR on June 30th, from noon-4pm.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/workshops/cullypark/P2370659.jpg&quot; alt=&quot;more flights&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="workshops" /><summary type="html">On June 30th I held a workshop making Sled kites at the Grand Opening of Cully Park. We made close to 80 kites in 3.5 hours. The design is the Stormy Sled, now on Github.</summary></entry><entry><title type="html">Cully Park Kite Party</title><link href="http://localhost:4000/post/cully-park-kite-party/" rel="alternate" type="text/html" title="Cully Park Kite Party" /><published>2018-06-29T00:00:00-07:00</published><updated>2018-06-29T00:00:00-07:00</updated><id>http://localhost:4000/post/cully-park-kite-party</id><content type="html" xml:base="http://localhost:4000/post/cully-park-kite-party/">&lt;p&gt;Join a kitemaking and flying party at the &lt;a href=&quot;http://www.livingcully.org/event/cully-park-grand-opening/&quot;&gt;Grand Opening of Cully Park&lt;/a&gt; in Portland, OR on June 30th, from noon-4pm.&lt;/p&gt;
 
-&lt;p&gt;We’ll be making a 2’ version of Stormy’s Sled. Some old notes on the design in &lt;a href=&quot;/post/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter/&quot;&gt;this post&lt;/a&gt;. I also made some of these at &lt;a href=&quot;/post/boundary-layers-eclipse/&quot;&gt;Boundary Layers&lt;/a&gt;. I’ll have full kite plans posted soon.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="workshops" /><summary type="html">Join a kitemaking and flying party at the Grand Opening of Cully Park in Portland, OR on June 30th, from noon-4pm.</summary></entry><entry><title type="html">∞ flat line winder for kite string ∞</title><link href="https://headfullofair.com/post/flat-line-winder/" rel="alternate" type="text/html" title="∞ flat line winder for kite string ∞" /><published>2018-05-22T00:00:00-07:00</published><updated>2018-05-22T00:00:00-07:00</updated><id>https://headfullofair.com/post/flat-line-winder</id><content type="html" xml:base="https://headfullofair.com/post/flat-line-winder/">&lt;p&gt;This kite line winder is designed for a figure eight winding technique. Winding line in a figure eight ∞ folds the line so that there is no twist. 
+&lt;p&gt;We’ll be making a 2’ version of Stormy’s Sled. Some old notes on the design in &lt;a href=&quot;/post/stormy-o-weathers-horned-allison-towards-a-kite-wind-speed-meter/&quot;&gt;this post&lt;/a&gt;. I also made some of these at &lt;a href=&quot;/post/boundary-layers-eclipse/&quot;&gt;Boundary Layers&lt;/a&gt;. I’ll have full kite plans posted soon.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="workshops" /><summary type="html">Join a kitemaking and flying party at the Grand Opening of Cully Park in Portland, OR on June 30th, from noon-4pm.</summary></entry><entry><title type="html">∞ flat line winder for kite string ∞</title><link href="http://localhost:4000/post/flat-line-winder/" rel="alternate" type="text/html" title="∞ flat line winder for kite string ∞" /><published>2018-05-22T00:00:00-07:00</published><updated>2018-05-22T00:00:00-07:00</updated><id>http://localhost:4000/post/flat-line-winder</id><content type="html" xml:base="http://localhost:4000/post/flat-line-winder/">&lt;p&gt;This kite line winder is designed for a figure eight winding technique. Winding line in a figure eight ∞ folds the line so that there is no twist. 
 Line can also be thrown off the winder rapidly:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/flat-winder/winder-sm.gif&quot; alt=&quot;throwing line fof the winder&quot; /&gt;&lt;/p&gt;
@@ -72,7 +443,7 @@ Line can also be thrown off the winder rapidly:&lt;/p&gt;
 
 &lt;p&gt;The side handles are convenient for letting line out, and the middle handle is a bit easier when winding line in. I don’t know which has better ergonomics overall.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Licensed under the &lt;a href=&quot;LICENSE.md&quot;&gt;CERN OHL 1.2&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="rigs" /><summary type="html">This kite line winder is designed for a figure eight winding technique. Winding line in a figure eight ∞ folds the line so that there is no twist. Line can also be thrown off the winder rapidly:</summary></entry><entry><title type="html">Danny Bowman’s Spherical Solar Balloons</title><link href="https://headfullofair.com/post/danny-bowman/" rel="alternate" type="text/html" title="Danny Bowman's Spherical Solar Balloons" /><published>2018-02-25T00:00:00-08:00</published><updated>2018-02-25T00:00:00-08:00</updated><id>https://headfullofair.com/post/danny-bowman</id><content type="html" xml:base="https://headfullofair.com/post/danny-bowman/">&lt;p&gt;&lt;a href=&quot;https://bovineaerospace.wordpress.com&quot;&gt;Danny Bowman&lt;/a&gt; has just published on the array of 20’ solar hot air balloons &lt;a href=&quot;https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggy069/4898033&quot;&gt;he and Sarah Albert flew with a network of infrasound sensors&lt;/a&gt;. On his blog you can find &lt;a href=&quot;https://bovineaerospace.wordpress.com/2016/06/08/how-to-build-a-high-altitude-solar-balloon/&quot;&gt;instructions for the 20’ balloons&lt;/a&gt;, which are made from HDPE painters’ drop cloth and packing tape, and darkened with charcoal.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Licensed under the &lt;a href=&quot;LICENSE.md&quot;&gt;CERN OHL 1.2&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="rigs" /><summary type="html">This kite line winder is designed for a figure eight winding technique. Winding line in a figure eight ∞ folds the line so that there is no twist. Line can also be thrown off the winder rapidly:</summary></entry><entry><title type="html">Danny Bowman’s Spherical Solar Balloons</title><link href="http://localhost:4000/post/danny-bowman/" rel="alternate" type="text/html" title="Danny Bowman's Spherical Solar Balloons" /><published>2018-02-25T00:00:00-08:00</published><updated>2018-02-25T00:00:00-08:00</updated><id>http://localhost:4000/post/danny-bowman</id><content type="html" xml:base="http://localhost:4000/post/danny-bowman/">&lt;p&gt;&lt;a href=&quot;https://bovineaerospace.wordpress.com&quot;&gt;Danny Bowman&lt;/a&gt; has just published on the array of 20’ solar hot air balloons &lt;a href=&quot;https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggy069/4898033&quot;&gt;he and Sarah Albert flew with a network of infrasound sensors&lt;/a&gt;. On his blog you can find &lt;a href=&quot;https://bovineaerospace.wordpress.com/2016/06/08/how-to-build-a-high-altitude-solar-balloon/&quot;&gt;instructions for the 20’ balloons&lt;/a&gt;, which are made from HDPE painters’ drop cloth and packing tape, and darkened with charcoal.&lt;/p&gt;
 
 &lt;p&gt;Danny and company are currently preparing a massive 40’ balloon at the &lt;a href=&quot;https://www.cabq.gov/culturalservices/balloonmuseum&quot;&gt;Albuquerque International Balloon Museum&lt;/a&gt;, and he’s posted some videos of the assembly currently underway on &lt;a href=&quot;https://twitter.com/dannycbowman&quot;&gt;his Twitter&lt;/a&gt;:&lt;/p&gt;
 
@@ -85,7 +456,7 @@ Line can also be thrown off the winder rapidly:&lt;/p&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;This is the &lt;a href=&quot;https://twitter.com/hashtag/heliotrope?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#heliotrope&lt;/a&gt;, a solar powered hot air balloon that can deliver 2 kg to the tropopause, 800 g to the stratosphere.  Fly all day, land at sunset.  Got a payload?  You build it, we&amp;#39;ll fly it. &lt;a href=&quot;https://t.co/K6MTJLvZkP&quot;&gt;pic.twitter.com/K6MTJLvZkP&lt;/a&gt;&lt;/p&gt;&amp;mdash; Danny Bowman (@dannycbowman) &lt;a href=&quot;https://twitter.com/dannycbowman/status/951658501931233282?ref_src=twsrc%5Etfw&quot;&gt;January 12, 2018&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/dannybowman-balloon-landing.png&quot; alt=&quot;20' diameter balloon on landing&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="solar balloon" /><category term="balloons" /><summary type="html">Danny Bowman has just published on the array of 20’ solar hot air balloons he and Sarah Albert flew with a network of infrasound sensors. On his blog you can find instructions for the 20’ balloons, which are made from HDPE painters’ drop cloth and packing tape, and darkened with charcoal.</summary></entry><entry><title type="html">Boundary Layers Walk illustrated</title><link href="https://headfullofair.com/post/boundary-layers/" rel="alternate" type="text/html" title="Boundary Layers Walk illustrated" /><published>2018-01-10T00:00:00-08:00</published><updated>2018-01-10T00:00:00-08:00</updated><id>https://headfullofair.com/post/boundary-layers</id><content type="html" xml:base="https://headfullofair.com/post/boundary-layers/">&lt;p&gt;The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence and stratification. The goal is to build an awareness of wind’s movement through the local environment of buildings and trees. The activities involve using ribbon wands to visualize wind and movement exercises to understand how plants cope with wind force. A limited set of the the Beaufort Scale is used to estimate wind force.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/dannybowman-balloon-landing.png&quot; alt=&quot;20' diameter balloon on landing&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="solar balloon" /><category term="balloons" /><summary type="html">Danny Bowman has just published on the array of 20’ solar hot air balloons he and Sarah Albert flew with a network of infrasound sensors. On his blog you can find instructions for the 20’ balloons, which are made from HDPE painters’ drop cloth and packing tape, and darkened with charcoal.</summary></entry><entry><title type="html">Boundary Layers Walk illustrated</title><link href="http://localhost:4000/post/boundary-layers/" rel="alternate" type="text/html" title="Boundary Layers Walk illustrated" /><published>2018-01-10T00:00:00-08:00</published><updated>2018-01-10T00:00:00-08:00</updated><id>http://localhost:4000/post/boundary-layers</id><content type="html" xml:base="http://localhost:4000/post/boundary-layers/">&lt;p&gt;The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence and stratification. The goal is to build an awareness of wind’s movement through the local environment of buildings and trees. The activities involve using ribbon wands to visualize wind and movement exercises to understand how plants cope with wind force. A limited set of the the Beaufort Scale is used to estimate wind force.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Check out my illustrated &lt;a href=&quot;/boundarylayers&quot;&gt;Boundary Layers Walk.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -101,7 +472,7 @@ Line can also be thrown off the winder rapidly:&lt;/p&gt;
 &lt;h4 id=&quot;inspiration-and-thanks&quot;&gt;inspiration and thanks&lt;/h4&gt;
 &lt;p&gt;The primary inspiration for the workshop is Robin Kimmerer’s excellent book, &lt;a href=&quot;http://osupress.oregonstate.edu/book/gathering-moss&quot;&gt;&lt;em&gt;Gathering Moss: A Natural and Cultural History of Mosses&lt;/em&gt;&lt;/a&gt;. Kimmerer introduces how plants’ shape of their boundary layer for the benefit of all life.&lt;/p&gt;
 
-&lt;p&gt;In creating the workshop I had the assistance of some fantastic people: &lt;a href=&quot;http://davisong.wixsite.com/books&quot;&gt;Glenn Davison&lt;/a&gt;, whose idea it was to use ribbon wands, Colleen Donaldson and Sarah Vitak who rehersed and assisted me during the workshops and whose feedback helped me revise the plan, AREN Project team members Andy Henry at Wayne RESA and Geoff Bland at Goddard Flight Center who helped me get my physics right and keep educational goals in mind, Cassandra Flores, Romi Littrell, Beau and Rachel Karpf of the Guerilla Science team, and all my friends who showed up to the dress rehersal!&lt;/p&gt;</content><author><name>Mathew</name></author><category term="wind" /><category term="beaufort scale" /><category term="boundary layers" /><summary type="html">The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence and stratification. The goal is to build an awareness of wind’s movement through the local environment of buildings and trees. The activities involve using ribbon wands to visualize wind and movement exercises to understand how plants cope with wind force. A limited set of the the Beaufort Scale is used to estimate wind force.</summary></entry><entry><title type="html">Boundary Layers Walk at the Oregon Eclipse Festival</title><link href="https://headfullofair.com/post/boundary-layers-eclipse/" rel="alternate" type="text/html" title="Boundary Layers Walk at the Oregon Eclipse Festival" /><published>2018-01-10T00:00:00-08:00</published><updated>2018-01-10T00:00:00-08:00</updated><id>https://headfullofair.com/post/boundary-layers-eclipse</id><content type="html" xml:base="https://headfullofair.com/post/boundary-layers-eclipse/">&lt;p&gt;This past summer I created a walk featuring workshop exercises about plants and wind in the landscape for my &lt;a href=&quot;http://guerillascience.org/nsf-artsci-residents/&quot;&gt;Guerilla Science Residency&lt;/a&gt;. My goal was to introduce the lowest layer of the atmosphere, the Atmospheric Boundary Layer, and how plants shape it. We used ribbon wands to observe wind direction and turbulence, and observed tree movements to estimate wind force.&lt;/p&gt;
+&lt;p&gt;In creating the workshop I had the assistance of some fantastic people: &lt;a href=&quot;http://davisong.wixsite.com/books&quot;&gt;Glenn Davison&lt;/a&gt;, whose idea it was to use ribbon wands, Colleen Donaldson and Sarah Vitak who rehersed and assisted me during the workshops and whose feedback helped me revise the plan, AREN Project team members Andy Henry at Wayne RESA and Geoff Bland at Goddard Flight Center who helped me get my physics right and keep educational goals in mind, Cassandra Flores, Romi Littrell, Beau and Rachel Karpf of the Guerilla Science team, and all my friends who showed up to the dress rehersal!&lt;/p&gt;</content><author><name>Mathew</name></author><category term="wind" /><category term="beaufort scale" /><category term="boundary layers" /><summary type="html">The Boundary Layers walk is an outdoor education activity introducing atmospheric turbulence and stratification. The goal is to build an awareness of wind’s movement through the local environment of buildings and trees. The activities involve using ribbon wands to visualize wind and movement exercises to understand how plants cope with wind force. A limited set of the the Beaufort Scale is used to estimate wind force.</summary></entry><entry><title type="html">Boundary Layers Walk at the Oregon Eclipse Festival</title><link href="http://localhost:4000/post/boundary-layers-eclipse/" rel="alternate" type="text/html" title="Boundary Layers Walk at the Oregon Eclipse Festival" /><published>2018-01-10T00:00:00-08:00</published><updated>2018-01-10T00:00:00-08:00</updated><id>http://localhost:4000/post/boundary-layers-eclipse</id><content type="html" xml:base="http://localhost:4000/post/boundary-layers-eclipse/">&lt;p&gt;This past summer I created a walk featuring workshop exercises about plants and wind in the landscape for my &lt;a href=&quot;http://guerillascience.org/nsf-artsci-residents/&quot;&gt;Guerilla Science Residency&lt;/a&gt;. My goal was to introduce the lowest layer of the atmosphere, the Atmospheric Boundary Layer, and how plants shape it. We used ribbon wands to observe wind direction and turbulence, and observed tree movements to estimate wind force.&lt;/p&gt;
 
 &lt;p&gt;In this post I describe Boundary Layers Walk as it was prepared for the &lt;a href=&quot;http://oregoneclipse2017.com/guerilla-science/&quot;&gt;Oregon Eclipse Festival&lt;/a&gt;. I’ve since revised the &lt;a href=&quot;/boundarylayers&quot;&gt;Boundary Layers Walk&lt;/a&gt;. More background in &lt;a href=&quot;/post/boundary-layers/&quot;&gt;a previous post&lt;/a&gt;.&lt;/p&gt;
 
@@ -145,154 +516,11 @@ Line can also be thrown off the winder rapidly:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/boundarylayers/8.jpg&quot; alt=&quot;8&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/boundarylayers/9.jpg&quot; alt=&quot;9&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="wind" /><category term="boundary layers" /><category term="beaufort scale" /><summary type="html">This past summer I created a walk featuring workshop exercises about plants and wind in the landscape for my Guerilla Science Residency. My goal was to introduce the lowest layer of the atmosphere, the Atmospheric Boundary Layer, and how plants shape it. We used ribbon wands to observe wind direction and turbulence, and observed tree movements to estimate wind force.</summary></entry><entry><title type="html">plastic seaming instructional with a model 1916 kite balloon</title><link href="https://headfullofair.com/post/PU-seaming/" rel="alternate" type="text/html" title="plastic seaming instructional with a model 1916 kite balloon" /><published>2017-12-19T00:00:00-08:00</published><updated>2017-12-19T00:00:00-08:00</updated><id>https://headfullofair.com/post/PU-seaming</id><content type="html" xml:base="https://headfullofair.com/post/PU-seaming/">&lt;p&gt;The video supercut:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/boundarylayers/9.jpg&quot; alt=&quot;9&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="wind" /><category term="boundary layers" /><category term="beaufort scale" /><summary type="html">This past summer I created a walk featuring workshop exercises about plants and wind in the landscape for my Guerilla Science Residency. My goal was to introduce the lowest layer of the atmosphere, the Atmospheric Boundary Layer, and how plants shape it. We used ribbon wands to observe wind direction and turbulence, and observed tree movements to estimate wind force.</summary></entry><entry><title type="html">plastic seaming instructional with a model 1916 kite balloon</title><link href="http://localhost:4000/post/PU-seaming/" rel="alternate" type="text/html" title="plastic seaming instructional with a model 1916 kite balloon" /><published>2017-12-19T00:00:00-08:00</published><updated>2017-12-19T00:00:00-08:00</updated><id>http://localhost:4000/post/PU-seaming</id><content type="html" xml:base="http://localhost:4000/post/PU-seaming/">&lt;p&gt;The video supercut:&lt;/p&gt;
 &lt;iframe src=&quot;https://player.vimeo.com/video/170998519&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/170998519&quot;&gt;Ballon Caquot &amp;eacute;chelle 1/7 - Caquot balloon 1:7 scale&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user2109837&quot;&gt;bowman813&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This 1916 Caquot observation balloon was made for a WWI centennial meetup of model airplane enthusiasts. Its creation is extensively &lt;a href=&quot;https://www.rcgroups.com/forums/showthread.php?2684717-1-7-WW1-Caquot-observation-balloon&quot;&gt;documented on the RC-Groups forum&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Bowman813 made a great instructional covering the use of a hand iron and cardboard forms to seal plastic sheeting. He used a transparent thermoplastic polyurethane sheet (PU), but the techniques could be used on more common sheeting made of polyethylene or polypropylene ((HDPE, LDPE or PP).&lt;/p&gt;
 
-&lt;p&gt;The silver and black paint is good choice for its light-blocking properties on the transparent film. The Caquot balloons of 1916 would have been green or tan for camouflage, but I doubt this balloon is big enough to support two coats of paint and a second color.  A single coat of tan or green would have glowed in the flight. Silver has the right silhouette in the sky, especially since all our memories of WWI are second-hand and black &amp;amp; white.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloon" /><summary type="html">The video supercut: Ballon Caquot &amp;eacute;chelle 1/7 - Caquot balloon 1:7 scale from bowman813 on Vimeo. This 1916 Caquot observation balloon was made for a WWI centennial meetup of model airplane enthusiasts. Its creation is extensively documented on the RC-Groups forum.</summary></entry><entry><title type="html">CNES kite balloons in Guam</title><link href="https://headfullofair.com/post/Aeroclipper/" rel="alternate" type="text/html" title="CNES kite balloons in Guam" /><published>2017-12-19T00:00:00-08:00</published><updated>2017-12-19T00:00:00-08:00</updated><id>https://headfullofair.com/post/Aeroclipper</id><content type="html" xml:base="https://headfullofair.com/post/Aeroclipper/">&lt;p&gt;CNES is teaming with the National Weather Service to release tethered blimps flying 100’ above the Pacific Ocean for a month or more &lt;a href=&quot;https://spacegate.cnes.fr/fr/les-aeroclippers-du-cnes-en-route-vers-lile-de-guam&quot;&gt;French press release with cool pictures&lt;/a&gt;. The blimps drag a trail rope loaded with sensors through the water to maintain altitude. CNES calls the system an Aeroclipper.&lt;/p&gt;
-
-&lt;p&gt;The Aeroclipper is designed to mostly follow the wind, riding into the low pressure zones inside a storm. With luck an Aeroclipper will find a storm’s eye and ride there for up to 40 days in a 100mph (45m/s) winds.&lt;/p&gt;
-
-&lt;p&gt;The trail rope as ballast trick is an old trick &lt;a href=&quot;https://en.wikipedia.org/wiki/Charles_Green_(balloonist)&quot;&gt;invented by Charles Green in the 1830’s&lt;/a&gt;. Its real cool to see it going to good use in contemporary research.&lt;/p&gt;
-
-&lt;p&gt;Here’s &lt;a href=&quot;https://www.postguam.com/news/local/french-blimps-to-test-guam-weather/article_183a6ed2-ac0e-11e7-b2d5-236994b3e252.html&quot;&gt;Tihu Lujan’s article from the Guam Post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Photo ©CNES&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><summary type="html">CNES is teaming with the National Weather Service to release tethered blimps flying 100’ above the Pacific Ocean for a month or more French press release with cool pictures. The blimps drag a trail rope loaded with sensors through the water to maintain altitude. CNES calls the system an Aeroclipper.</summary></entry><entry><title type="html">Site relaunch in Jekyll</title><link href="https://headfullofair.com/post/reboot/" rel="alternate" type="text/html" title="Site relaunch in Jekyll" /><published>2017-11-03T00:00:00-07:00</published><updated>2017-11-03T00:00:00-07:00</updated><id>https://headfullofair.com/post/reboot</id><content type="html" xml:base="https://headfullofair.com/post/reboot/">&lt;p&gt;I’ve relaunched this blog in &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, rather than Wordpress. I’ve got some fun flying stuff in the works too.&lt;/p&gt;
-
-&lt;p&gt;This blog has been quiet for 5 years! Posting my flight &lt;a href=&quot;publiclab.org/profile/mathew&quot;&gt;projects on publiclab.org&lt;/a&gt; left this site neglected. I also have had work sprawled across various projects and social media&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;Recodenow.org&quot;&gt;Recode&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;mdml.co&quot;&gt;MDML&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;cloacina.org&quot;&gt;Cloacina&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;instagram.com/headfullofair&quot;&gt;instagram&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;twitter.com/headfullofair&quot;&gt;twitter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Over the coming months I’ll be pulling most of my flight projects together on this site, and moving away from social-media-first posting.  I miss blogging.&lt;/p&gt;</content><author><name>Mathew</name></author><summary type="html">I’ve relaunched this blog in Jekyll, rather than Wordpress. I’ve got some fun flying stuff in the works too.</summary></entry><entry><title type="html">kite anemometers</title><link href="https://headfullofair.com/post/kite-anemometers/" rel="alternate" type="text/html" title="kite anemometers" /><published>2017-05-11T00:00:00-07:00</published><updated>2017-05-11T00:00:00-07:00</updated><id>https://headfullofair.com/post/kite-anemometers</id><content type="html" xml:base="https://headfullofair.com/post/kite-anemometers/">&lt;p class=&quot;notice&quot;&gt;Written with &lt;a href=&quot;//publiclab.org/profile/Ecta64&quot;&gt;Ecta64&lt;/a&gt;. Archived 4th of March 2018 &lt;a href=&quot;https://publiclab.org/wiki/kite-anemometers&quot;&gt;from Publiclab.org&lt;/a&gt;. &lt;a href=&quot;/tag/kite-anemometer&quot;&gt;Kite anemometers&lt;/a&gt; on this site, and on &lt;a href=&quot;https://github.com/mathewlippincott/TALA/&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Kite anemometry is the use of a kite as a sensor to measure the wind velocity, vector and turbulence. It is differentiated from other methods of kite meteorological data gathering in that information is obtained by observing the kite and the forces acting on it. This typically means that all substantial instrumentation is on the ground versus being flown on the kite as a payload.&lt;/p&gt;
-
-&lt;p&gt;In different configurations a kite anemometer can be used to examine wind speed at altitude, turbulence, and wind shear.  The math behind a kite anemometer– equations relating the pull of a kite to wind speed– can also be used to determine the payload capacity of a kite in a specific wind speed.&lt;/p&gt;
-
-&lt;p&gt;You can contribute to this project by:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Expanding our documentation of kite anemometry research by reading research &lt;a href=&quot;https://publiclab.org/wiki/kite-anemometers#bibliography&quot;&gt;the bibliography&lt;/a&gt; on this page and posting your notes on it with the tag “&lt;a href=&quot;https://publiclab.org/tag/kite-anemometer&quot;&gt;kite-anemometer&lt;/a&gt;”, or reading and commenting on tagged research notes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Replicating the &lt;a href=&quot;https://github.com/mathewlippincott/TALA&quot;&gt;TALA kite anemometer kit&lt;/a&gt; and documenting your use of it on with the tag “&lt;a href=&quot;https://publiclab.org/tag/kite-anemometer&quot;&gt;kite-anemometer&lt;/a&gt;.” If you record your experiences elsewhere, please contact us and share.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Improving the documentation on kite wind speed meter models in the &lt;a href=&quot;https://github.com/mathewlippincott/Kite-Wind-Speed-Meter&quot;&gt;Kite Wind Speed Meter&lt;/a&gt; Github repository, as well as adding applications of those models.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Adding your comments to &lt;a href=&quot;https://github.com/mathewlippincott/TALA/issues&quot;&gt;open issues in the TALA Github repository&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Forking &lt;a href=&quot;https://github.com/mathewlippincott/TALA&quot;&gt;the TALA repository&lt;/a&gt; and improving the design documentation, assembly instructions, or to add hardware or software for acquiring and interpreting data.&lt;/p&gt;
-
-&lt;h3 id=&quot;background&quot;&gt;Background&lt;/h3&gt;
-
-&lt;p&gt;In the late 70’s a number of patents were made regarding a system in which a series of kites were to be used to monitor conditions near airports. This system became known as the Tethered Aerodynamic Lifting Anemometer (TALA) patented under US Patents  &lt;a href=&quot;https://www.google.com/patents/US3767145&quot;&gt;3,767,145&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/patents/US4058010&quot;&gt;4,058,010&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/patents/US4152933&quot;&gt;4,152,933&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://www.google.com/patents/US4221351&quot;&gt;4,221,351&lt;/a&gt;.  Inspired by this device, further research into it and the general concept of kite anemometry was conducted throughout the 1980’s and early 1990’s.  No other commercial kite anemometers other than the TALA were produced.&lt;/p&gt;
-
-&lt;h3 id=&quot;notes&quot;&gt;Notes:&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;/post/using-kites-atmospheric-wind-speed-meters&quot;&gt;Using Kites as Atmospheric Wind Speed Meters&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/post/determining-wind-direction-with-a-kite-and-compass&quot;&gt;Determining wind direction with a kite and compass&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://publiclab.org/notes/Ecta64/07-05-2016/weighted-tail-for-high-wind-range-kite-stability&quot;&gt;Weighted tail for high wind range kite stability&lt;/a&gt;, &lt;em&gt;by Ecta64&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://publiclab.org/notes/Ecta64/08-20-2016/curved-spar-sled-kite&quot;&gt;Curved spar sled kite&lt;/a&gt;, &lt;em&gt;by Ecta64&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://publiclab.org/notes/Ecta64/12-02-2016/replicating-a-37-year-old-scientific-kite-design&quot;&gt;Replicating a 37 year old scientific kite design&lt;/a&gt;, &lt;em&gt;by Ecta64&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://publiclab.org/notes/Ecta64/04-05-2017/kite-based-airflow-monitoring-for-airflow-monitoring&quot;&gt;Kite-based airflow monitoring&lt;/a&gt;, &lt;em&gt;by Ecta64&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;bibliography&quot;&gt;Bibliography&lt;/h3&gt;
-
-&lt;p&gt;Most of the following papers treat the kite in a simplified manner, as a flat plane inclined into the wind.  Those dynamics are explained in more depth in the book:&lt;/p&gt;
-
-&lt;p&gt;Komura, Hirotsugu &amp;amp; Ito, Toshio. “Kites: The Science and the Wonder” Japanese Publications Inc. Tokyo: 1983. [“Tako No Kagaku” Shogakukan Publishing. Tokyo: 1979]&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;General Tethered Anemometry:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Chow, W.Y, &amp;amp; R.H. Kirchhoff. “Tethersonde and Kite Anemometer Evaluation.” PNL-6708, Pacific Northwest Laboratory. Subcontractor Report for US DOE. Richland: October 1988.
-&lt;a href=&quot;http://www.osti.gov/scitech/biblio/6884455/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Hobbs, Stephen E. “A Quantitative Study of Kite Performance in Natural Wind with Application to Kite Anemometry.” PhD Thesis, Ecological Physics Research Group, Cranfield Institute of Technology. Cranfield: April 1986. 
-&lt;a href=&quot;https://dspace.lib.cranfield.ac.uk/bitstream/1826/918/2/sehphd2a.pdf&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;TALA Anemometry:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Woodhouse, Charles F. “Tethered Aerodynamically Lifting Anemometer (TALA).” The Boulder Low-level Intercomparison Experiment, NOAA/ERL Wave Propagation Laboratory, National Center for Atmospheric Research (NCAR).  Boulder: June 1980.
-&lt;a href=&quot;https://archive.org/details/boulderlowleveli00kaim&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Kunkel, Kenneth E. “Evaluation of a Tethered Kite Anemometer.” ASL-TR-0076, US Army Atmostpheric Sciences Laboratory.  White Sands: February 1981.&lt;/p&gt;
-
-&lt;p&gt;Kullgren, Thomas E. Finley, Thomas C. Boyce, Steven C.  “Academy Wind Site Survey: Methodologies for use by the Air Force. Final Report, May 1977-December 1980.” AD-A129 581, Department of Engineering Mechanics and Department of Civil Engineering, United States Air Force Academy. Tyndall Air Force Base: 1983. 
-&lt;a href=&quot;https://publiclab.org/system/images/photos/000/010/724/original/TALA_USAF_site.pdf&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Daniels, Anders. “Turbulence Assessment at Potential Turbine Sites.” Windpower ’96 - Proceedings of the American Wind Energy Association, p 369-378. Denver: June 1996.
-&lt;a href=&quot;http://www.osti.gov/scitech/biblio/447473-turbulence-assessment-potential-turbine-sites&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Studies conducted with the TALA:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Taylor P.A. &amp;amp; H.W. Teunissen.  “Askervein ’82: Report on the September/October 1982 Eperiment to Study Boundary-Layer Flow over Akervein, South Uist.” MSRB-83-8, Meteorological Services Research Branch, Amospheric Environment Service. Downsview: November 1983.&lt;/p&gt;
-
-&lt;p&gt;Taylor, P.A. &amp;amp; H.W. Teunissen.  “The Askervein Hill Project: Report on the September/October 1983 Main Field Experiment.” MSRB-84-6, Meteorological Services Research Branch, Amospheric Environment Service. Downsview: December 1985.&lt;/p&gt;
-
-&lt;p&gt;Snyder W.H, Lawson R.E., Thompson R.S, &amp;amp; Holzworth G.C. “Observations of Flow Around Cinder Cone Butte, Idaho.” EPA-GCC17-SC-150, US Environmental Protection Agency. Research Triangle Park: June 1980.
-&lt;a href=&quot;http://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=2000XGYQ.txt&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Neal, D. “Wind Flow and Structure over Gebbies Pass, New Zealand.” Thesis, University of Canterbury New Zealand. Canterbury: December 1979.
-&lt;a href=&quot;http://ir.canterbury.ac.nz/handle/10092/7568&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Baker, Robert W. &amp;amp; Hewson, E. Wendell. “Network Wind Power Over the Pacific Northwest, Progress Report October 1979-September 1980.” DOE/BP-58. Bonneville Power Administration. Portland: October 1980. 
-&lt;a href=&quot;http://www.osti.gov/scitech/biblio/6373484&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Zambrano, T.G. “Assessing the Local Windfield with Instrumentation.” PNL-3622, Pacific Northwest Laboratory. Richland: October 1980.
-&lt;a href=&quot;http://www.osti.gov/scitech/biblio/6465288/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Further documents unretrieved:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aerodynamics:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Huang, K.H. ; Shieh, C.F. ; Frost, W. “Analysis of a kite anemometer: final report. REPORT # DOE/ET/20242-81/2” DE82009058 . FWG Associates, Inc., Tullahoma, TN (USA): December 1981.
-&lt;a href=&quot;http://www.osti.gov/scitech/biblio/5417476&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Kirchhoff, R. H., F. C. Kaminsky, and S. D. Pelmulder. “Measurement of atmospheric turbulence using kites.” Ninth ASME Wind Energy Symposium- Presented at the Thirteenth Annual Energy-Sources Technology Conference and Exhibition, New Orleans, LA, USA, 01/14-18/90. 1990.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Field Use:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A low level wind measurement technique for wind turbine generator siting. Baker, R. W.; Whitney, R. L.; Hewson, E. W. Wind Engineering, vol. 3, no. 2, 1979, p. 107-114.&lt;/p&gt;
-
-&lt;p&gt;The Kettles Hill Project: Field observations, wind-tunnel simulations and numerical model predictions for flow over a low hill. Boundary-Layer Meteorology, 1988, Volume 43, Number 4, Page 309, J. R. Salmon, H. W. Teunissen, R. E. Mickle, Show All (4)&lt;/p&gt;
-
-&lt;p&gt;The influence of model scale on a wind-tunnel simulation of complex terrain. D. Neal, Vickers Dawson, Crayford, Kent, Gt. Britain. Journal of Wind Engineering and Industrial Aerodynamics Volume 12, Issue 2, July 1983, Pages 125-143&lt;/p&gt;
-
-&lt;p&gt;Full-scale measurements of the wind regime over a saddle, and correlation with wind-tunnel tests. D. Neal Boundary-Layer Meteorology March 1982, Volume 22, Issue 3, pp 351-371&lt;/p&gt;
-
-&lt;p&gt;Note: A thermally stable tension meter for atmospheric soundings using kites
-K. T. Walesby1,a) and R. G. Harrison1,b). Rev. Sci. Instrum. 81, 076104 (2010)&lt;/p&gt;
-
-&lt;p&gt;Sherry, B. J. “The Use of a Flagpole in Calibrating Kite Anemometers and also for Observing at Close Range the Behavior of Kites in the Air.” Monthly Weather Review 44 (1916): 327.&lt;/p&gt;
-
-&lt;p&gt;The Askervein hill project: A finite control volume prediction of three-dimensional flows over the hill. G. D. Raithby, G. D. Stubley, P. A. Taylor. Boundary-Layer Meteorology
-May 1987, Volume 39, Issue 3, pp 247-267&lt;/p&gt;
-
-&lt;p&gt;Wake measurements behind a large horizontal axis wind turbine generator. Robert W. Baker, Stel N. Walker. Solar Energy Volume 33, Issue 1, 1984, Pages 5-12&lt;/p&gt;
-
-&lt;p&gt;Case study of wind turbine generator siting in complex terrain. Vachon, W.A. ; Downey, W.T. ; Madio, F.R.Proc. Annu. Meet. - Am. Sect. Int. Sol. Energy Soc.; (United States); Journal Volume: 3.2; Conference: American section of the International Solar Energy Society conference, Phoenix, AZ, USA, 2 Jun 1980&lt;/p&gt;
-
-&lt;p&gt;EAGAN, RC, L. E. ANNEN-Dames, and Park Ridge Moore. “DATA ACQUISITION AND ANALYSIS FOR WIND TURBINE SITING IN THE UPPER MID WEST.” Second ASME Wind Energy Symposium: presented at 6th Annual Energy-Sources Technology Conference and Exhibition, Houston, Texas, January 30-February 3, 1983. American Society of Mechanical Engineers, 1983.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="wind" /><category term="kite anemometer" /><category term="public lab" /><summary type="html">Written with Ecta64. Archived 4th of March 2018 from Publiclab.org. Kite anemometers on this site, and on Github.</summary></entry></feed>
+&lt;p&gt;The silver and black paint is good choice for its light-blocking properties on the transparent film. The Caquot balloons of 1916 would have been green or tan for camouflage, but I doubt this balloon is big enough to support two coats of paint and a second color.  A single coat of tan or green would have glowed in the flight. Silver has the right silhouette in the sky, especially since all our memories of WWI are second-hand and black &amp;amp; white.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloon" /><summary type="html">The video supercut: Ballon Caquot &amp;eacute;chelle 1/7 - Caquot balloon 1:7 scale from bowman813 on Vimeo. This 1916 Caquot observation balloon was made for a WWI centennial meetup of model airplane enthusiasts. Its creation is extensively documented on the RC-Groups forum.</summary></entry></feed>
