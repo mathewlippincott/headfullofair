@@ -52,7 +52,7 @@ gallery:
 
  - url: ../assets/images/aerials/CRW_5194_1.jpg
    image_path: ../assets/images/aerials/CRW_5194_1-c.jpg
-   title: "2017 Long Beach, Maryland. American Kitefliers Association annual convention.  Aerial photo of a 50’ kite. Taken from a Levitation Light with a KAPtery Jerkpan rig and an S100 running CHDK."
+   title: "2017 Long Beach, Maryland. American Kitefliers Association annual convention.  Aerial photo of a 50’ kite. Taken from a Levitation Light with a KAPtery Aerobee rig and an S100 running CHDK."
 
 ---
 {% include feature_row id="intro" type="left" %}

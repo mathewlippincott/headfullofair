@@ -26,7 +26,7 @@ gallery:
 
  - url: ../assets/images/rigs/IMG_4049-c.jpg
    image_path: ../assets/images/rigs/IMG_4049.JPG
-   title: "Summer 2016 kites in my flight bag. counter-clockwise from purple and black Gomberg Dopero, 6’ Levitation Light, 9’ Dazzle Delta, 9’ Dan Leigh Delta tyvek and bamboo, baseball gloves and rubber gloves, Various Shanti Kites Halo winders. Emma Kites stainless steel winder, KAPtery JerkPan, Ranon rubber band rig, KAPtery Saturn V autopan, Public Lab PET bottle rig, Ranon rubber band rig, another Ranon Rubber band Rig, Aeropod, Kite Man oufit,  5.5’ Blimpworks urethane sphere, Public Lab Balloon Mapping Kit, TALA Kite Anemometer replicas. Stormy Sleds, 9’ Levitation light, In the Breeze 7.5 parafoil with modified tail.  Photo from Public Lab Mapping Pole by Ranon Prichard."
+   title: "Summer 2016 kites in my flight bag. counter-clockwise from purple and black Gomberg Dopero, 6’ Levitation Light, 9’ Dazzle Delta, 9’ Dan Leigh Delta tyvek and bamboo, baseball gloves and rubber gloves, Various Shanti Kites Halo winders. Emma Kites stainless steel winder, KAPtery Aerobee Rig, Ranon rubber band rig, KAPtery Saturn V autopan, Public Lab PET bottle rig, Ranon rubber band rig, another Ranon Rubber band Rig, Aeropod, Kite Man oufit,  5.5’ Blimpworks urethane sphere, Public Lab Balloon Mapping Kit, TALA Kite Anemometer replicas. Stormy Sleds, 9’ Levitation light, In the Breeze 7.5 parafoil with modified tail.  Photo from Public Lab Mapping Pole by Ranon Prichard."
 
  - url: ../assets/images/rigs/Ann-Chen-2016.png
    image_path: ../assets/images/rigs/Ann-Chen-2016.png

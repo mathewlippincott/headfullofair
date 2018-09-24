@@ -123,7 +123,7 @@ gallery:
    title: "At this point someone counted over 70 kites in the air."
  - url: ../assets/images/kites/dkf/P2380461.jpg
    image_path: ../assets/images/kites/dkf/P2380461_1.jpg
-   title: "Me, prepping for some aerial photography with an S100 and a KAPtery JerkPan rig."
+   title: "Me, prepping for some aerial photography with an S100 and a KAPtery Aerobee Jerkpan rig."
  - url: ../assets/images/kites/dkf/P2380487.jpg
    image_path: ../assets/images/kites/dkf/P2380487_1.jpg
    title: "Will it Fly? crew with a sweet geometric kite"
@@ -146,8 +146,8 @@ gallery:
 
 I went to the [Detroit Kite Festival](https://detroitkitefestival.org/) with Colleen Donaldson and we had a blast! The organizers pulled off a wonderful and inclusive festival complete with a huge stack of kites to borrow, A kite book library, free kid-oriented kite making out of paper, free kites from sponsors, and my favorite part, a free kitemaking booth called "Will It Fly?" with stacks of reused materials for kite making.
 
-We caught a Wind Jammers performance while the Detroit Philharmonic played, and I ran into Dave Bydlowski from the [AREN Project](https://www.globe.gov/web/aren-project). Colleen and Dave made it into the Detroit Free Press. 
+We caught a Wind Jammers performance while the Detroit Philharmonic played, and I ran into Dave Bydlowski from the [AREN Project](https://www.globe.gov/web/aren-project). Colleen and Dave [made it into the Detroit News](https://www.detroitnews.com/picture-gallery/news/local/detroit-city/2018/07/15/detroit-kite-festival/36894925/).
 
-The gallery below has some notes. I also took some [aerial photos](/post/detroit-kite-festival-aerial-photos).
+The gallery below has some notes. Many of the photos are by Colleen Donaldson. I also took some [aerial photos](/post/detroit-kite-festival-aerial-photos).
 
 {% include gallery %}

@@ -6,6 +6,7 @@ tags:
  - kite balloons
  - balloons
  - kites
+ - airpup
 categories:
  - post
 
@@ -15,9 +16,12 @@ header:
 
 ---
 
-Airpup is small for a balloon, because Airpup is a kite balloon. Airpup sips helium and eats high winds.  
+Airpup is small for a balloon, because Airpup is a kite balloon. Airpup sips helium and eats high winds.
+  
+##### *Sign up for Airpup announcements on [Crowd Supply](https://www.crowdsupply.com/head-full-of-air/airpup).*
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3OXLN5qiYy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/288573892" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 Airpup fits on my bike, and makes less noise. Audio from Airpup is drone-free. Being drone-free also means Airpup can go to parks.
 
@@ -25,7 +29,7 @@ Airpup fits on my bike, and makes less noise. Audio from Airpup is drone-free. B
 
 ## Airpup is born
 
-On the helium it takes to fill a dozen party balloons, Airpup lifts 2 oz. Airpup has flown in up to 12-18mph winds.  *Airpup lifts a 2oz payload with 8cu ft helium / 59g payload with 1050L helium*. 
+On the helium it takes to fill a dozen party balloons, Airpup lifts 2 oz. Airpup has flown in up to 12-18mph winds.  *Airpup lifts a 2oz payload with 8cu ft helium / 59g payload with 225L helium*. 
 
 ![8 cubic foot Airpup](/assets/images/airpup/P2370017.jpg)
 
@@ -35,9 +39,13 @@ Full-size at 6’ long and 3 1/2’ wide, Airpup will still fit in a hatchback o
 
 ![Airpup rises, photo Colleen Donaldson](/assets/images/airpup/P2390254.jpg)
 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3OXLN5qiYy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ## Airpup's Future
 
-The full-size Airpup is getting rigged for lifting with the goal of lifting a pound for day, or 1/2 pound for three days on single fill-up, and has 24 oz free lift.
+The full-size Airpup is getting rigged for lifting right now. My goal is to lift a pound for day, or 1/2 pound for three days on single fill-up. Airpup has 24 oz free lift.
 
 You’ll be seeing more about Airpup’s adventures soon, as well as open hardware plans.
 
