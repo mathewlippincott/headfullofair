@@ -9,6 +9,8 @@ categories:
 
 The Crowd & The Cloud, PBS April 2017. [URL](http://crowdandcloud.org/watch-the-episodes/episode-one)
 
+Stoll, Shannan Lenke. 6 Ways Citizens Across the US Are Using Science to Build a Better World. [URL](https://www.yesmagazine.org/issues/science/6-ways-citizens-across-the-us-are-using-science-to-build-a-better-world-20170228)
+
 Halperin, Jennie Rose. Collaboratively generating more knowledge: Public Lab's approach to citizen science. Creative Commons Blog, 7 September 2016. [URL](https://creativecommons.org/2016/09/07/collaboratively-generating-knowledge/)
 
 McGlotten and Webel, Poop Worlds: Material Culture and Copropower. The Scholar and Feminist Online, Issue 13.3-14.1 BCRW, 2016. [URL](http://sfonline.barnard.edu/traversing-technologies/poop-worlds-material-culture-and-copropower-shaka-mcglotten-scott-webel/)
