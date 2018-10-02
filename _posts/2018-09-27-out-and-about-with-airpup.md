@@ -20,12 +20,17 @@ I've been out flying the full-size Airpup and tweaking the rigging over the past
  
 Below are some of the photos and videos I've been taking. 
 
-*My [previous post](post/introducing-airpup/) about my scale Airpup.* 
+##### *Sign up for Airpup announcements on [Crowd Supply](https://www.crowdsupply.com/head-full-of-air/airpup).*
+
+*My [previous post](post/introducing-airpup/) introducing the scale Airpup.* 
 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2imR-zk1Fjo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S_mjer_s5lI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ttO7kMy7SkM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/60Dm4vOmh0M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -39,15 +44,15 @@ I added a spar across Airpup's tail to increase stability. After working through
 
 Before winglets:
 
-![pre-winglets](assets/images/airpup/P2390175.jpg)
+![pre-winglets, photo Colleen Donaldson](/assets/images/airpup/P2390175.jpg)
 
 After winglets:
 
-![winglets on airpup](assets/images/airpup/swan-island-raw.png)
+![winglets on airpup, photo Colleen Donaldson](/assets/images/airpup/swan-island-raw.png)
 
 I also tried a radical re-rigging with a more traditional stabilization system-- tail fins.  These worked great at very low wind speed, but would need stabilizing cables to work in higher winds. I may return to tailfins (as the winglets give a good mounting point for stabilizing cables), but they aren't necessary and increase rigging complexity. 
 
-![tailfin rigging](assets/images/airpup/P2390368-sm.jpg)
+![tailfin rigging, photo Hugh Lippincott](/assets/images/airpup/P2390368-sm.jpg)
 
 *Header image by Jayne Meacham*
 
