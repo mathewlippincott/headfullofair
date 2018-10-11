@@ -12,11 +12,11 @@ menu: yes
 * 2017.6-present, designing flight hardware, Head Full of Air LLC
 #### Recent Positions
 
-* 2015-2017.11, [ANSI/IAPMO WE Stand](http://www.iapmo.org/WEStand/Pages/default.aspx) Composting Toilet Committee Chair
-* 2017.6-2017.8, [Guerilla Science Resident](http://guerillascience.org/nsf-artsci-residents/)
-* 2010.11-2017.6, [Public Laboratory for Open Technology and Science, Director of Production](Publiclab.org/profile/mathew) 
-* 2015-2016, Advisor, [Recode](www.recodenow.org)
-* 2010-2015, Researcher and Code Writer, [Recode](www.recodenow.org)
+* 2015-2017.11, [ANSI/IAPMO WE Stand](http://www.iapmo.org/WEStand/Pages/default.aspx), Composting Toilet Committee Chair
+* 2017.6-2017.8, [Guerilla Science](http://guerillascience.org/nsf-artsci-residents/), Resident
+* 2010.11-2017.6, [Public Laboratory for Open Technology and Science](Publiclab.org/profile/mathew), Director of Production
+* 2015-2016, [Recode](www.recodenow.org), Adviser
+* 2010-2015, [Recode](www.recodenow.org), Researcher and Code Writer
 * 2009.12-2014.4, [MDML design](mdml.co), Co-founder and Developer
 #### Legal Code
 2011.3 Oregon Reach Code 712.11 Composting Toilets2013-15 IAPMO UPC Green Supplement Composting Toilet Committee Chair 
@@ -24,18 +24,18 @@ menu: yes
 2015-17 ANSI WE Stand Composting Toilet Committee Chair
 #### Publications
 
-"2017 WE Stand Water Efficiency and Conservation Standard," ANSI, Section 403.0, editor, published April 2018
+"2017 WE Stand Water Efficiency and Conservation Standard," ANSI, Section 403.0, editor, published April 2018.
 
-"Acquiring Data by Mining the Past: Pairing Communities with Environmental Monitoring Methods through Open Online Collaborative Replication," American Geophysical Union Fall Meeting, Poster, Mathew Lippincott, Geoff Bland, Andy Henry, and David Bydlowski, December 2016
+"Acquiring Data by Mining the Past: Pairing Communities with Environmental Monitoring Methods through Open Online Collaborative Replication," American Geophysical Union Fall Meeting, Poster, Mathew Lippincott, Geoff Bland, Andy Henry, and David Bydlowski, December 2016.
 
 [Grassroots Mapping Forum #2-#5, #11](publiclab.org/forum), (semi-annual), editor issues 2-5, 2011-2014 & issue 11, 2016.
-"Detritivore Design: How to use trash to create scalable solutions." PBS MediaShift IdeaLab Blog - Mathew Lippincott, 2013.4.30"Mapping Grassroots: Geodata and the structure of community-led open environmental science." Breen, J., Dosemagen, S., Warren, J., Lippincott, M. In ACME: An International E-Journal for Critical Geographies, vol. 14(3)"Accountability Technologies, Chapter: Civic, Citizen, and Grassroots Science: Towards a transformative scientific research model," Accountability Technologies, with Shannon Dosemagen, Liz Barry, Jessica Breen, and Don Blair. MIT Press, 2013"Public Lab's Keys to Developing Low-Cost Science Tools," PBS MediaShift IdeaLab Blog - Mathew Lippincott and Adam Griffith, 2012.5.22
-"Technoscience as Activism," Keynote with Shannon Dosemagen & Sara Wylie, RPI 2012
+"Detritivore Design: How to use trash to create scalable solutions." PBS MediaShift IdeaLab Blog - Mathew Lippincott, 30 May 2013."Mapping Grassroots: Geodata and the structure of community-led open environmental science." Breen, J., Dosemagen, S., Warren, J., Lippincott, M. In ACME: An International E-Journal for Critical Geographies, vol. 14(3)."Accountability Technologies, Chapter: Civic, Citizen, and Grassroots Science: Towards a transformative scientific research model," Accountability Technologies, with Shannon Dosemagen, Liz Barry, Jessica Breen, and Don Blair. MIT Press, 2013."Public Lab's Keys to Developing Low-Cost Science Tools," PBS MediaShift IdeaLab Blog - Mathew Lippincott and Adam Griffith, 22 May 2012.
+"Technoscience as Activism," Keynote with Shannon Dosemagen & Sara Wylie, RPI 2012.
 
-Trade School Journal, New York: 2011with the Public Laboratory for Open Technology and Science"Grassroots Mapping and DIY Aerospace," RAW: Geographies, Publication Studio, Portland: 2011"Why I made a Mutoscope," Perfect Wave Magazine, Perfect Wave Gallery, New York: 2010 
+Trade School Journal, New York: 2011.with the Public Laboratory for Open Technology and Science"Grassroots Mapping and DIY Aerospace," RAW: Geographies, Publication Studio, Portland: 2011."Why I made a Mutoscope," Perfect Wave Magazine, Perfect Wave Gallery, New York: 2010.
 
 "Mutoscope for 
-Fernando," Displacements, Obra Social Caja Madrid, Madrid: 2010
+Fernando," Displacements, Obra Social Caja Madrid, Madrid: 2010.
 
 #### Speaking
 2018.8 Tethered Aerosystems Working Group, Introducing Airpup
