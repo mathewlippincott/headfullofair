@@ -209,14 +209,13 @@ This 36" 12' banner weighs 12 oz (340g) without carabiners, and just over a poun
 
 A friend spotted this sign from 8 blocks away and said it was clearly readable. 
 
-#### paper & glue vs sewing vs plastic
+#### choosing materials
 
 Mulberry paper is a traditional kitemaking material prized for its durability. It is lighter than ripstop nylon, and can be quickly glued together.  It is easy to paint with tempera or ink. A [mulberry paper](https://www.misterart.com/paper-boards/writing-printer-paper/calligraphy-paper/aitoh-washi-paper-rolls.html) banner costs $12.00, while [3/4 oz/yard ripstop](https://goodwinds.com/sail-supplies/ripstop-nylon-fabric-22/ripstop-nylon-fabric.html) would cost $40.00. Commercial [Air Banners letters are $10-$35 each](http://www.kaixuankite.cn/product/1339717042-218812111/Advertising_flag_Airbanners.html). 
 
-I would consider making a ripstop nylon banner for more permanent artwork. Dry erase markers will permanently stain nylon, although their marks won't match their advertized color. For more painterly marks, [John Pollack recommends](http://www.skywindworld.org/Acrylic-on-Nylon-Ripstop.pdf) using acrylic paint in a 50/50 mixture with Golden Acrylics GAC 900 medium.
+I would consider making a ripstop nylon banner for more permanent artwork. Dry erase markers will permanently stain nylon, although their marks won't match their advertized color. For more painterly marks, [John Pollack recommends](http://www.skywindworld.org/Acrylic-on-Nylon-Ripstop.pdf) using acrylic paint in a 50/50 mixture with Golden Acrylics GAC 900 medium. Maybe applique would be worth the effort.
 
-Plastic sheeting is usually polyethylene, which doesn't take paint. No marker or paint I've tried has stuck to flying, fluttering plastic.
-
+Plastic sheeting is usually polyethylene, which doesn't take paint. No marker or paint I've tried has stuck to flying, fluttering plastic. Years ago I cut letters from black trash bags and tried to heat seal them to translucent sheeting with an iron. This was messy and the letters ripped, but might be worth another shot.
 
 ### How it works
 

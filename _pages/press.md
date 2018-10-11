@@ -7,7 +7,11 @@ categories:
  - page
 ---
 
-The Crowd & The Cloud, PBS April 2017. [URL](http://crowdandcloud.org/watch-the-episodes/episode-one)
+Coward, Cameron. Airpup is a Balloon-Kite Hybrid That's Perfect for Aerial Photography. Hackster.io 10 September 2018. [URL](https://blog.hackster.io/airpup-is-a-balloon-kite-hybrid-thats-perfect-for-aerial-photograph-2b5c1b7e405f)
+
+Shapiro, Nicholas. Alter-Engineered World. Tomás Saraceno: Our Interplanetary Bodies, catalog. Asia Culture Center, 26 December 2017.
+
+The Crowd & The Cloud. PBS April 2017. [URL](http://crowdandcloud.org/watch-the-episodes/episode-one)
 
 Stoll, Shannan Lenke. 6 Ways Citizens Across the US Are Using Science to Build a Better World. Yes! Magazine, 28 February 2017. [URL](https://www.yesmagazine.org/issues/science/6-ways-citizens-across-the-us-are-using-science-to-build-a-better-world-20170228)
 
