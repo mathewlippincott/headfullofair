@@ -49,10 +49,10 @@ gallery:
  - url: ../assets/images/aerials/obliquePC.JPG
    image_path: ../assets/images/aerials/obliquePC-c.jpg
    title: "2015 Calumet River, Chicago. KCBX Terminals petcoke storage. Dazzle Delta and Public Lab PET bottle rig." 
-
- - url: ../assets/images/aerials/CRW_5194_1.jpg
-   image_path: ../assets/images/aerials/CRW_5194_1-c.jpg
-   title: "2017 Long Beach, Maryland. American Kitefliers Association annual convention.  Aerial photo of a 50’ kite. Taken from a Levitation Light with a KAPtery Aerobee rig and an S100 running CHDK."
+   
+ - url: ../assets/images/aerials/dkf/IMG_5381-c.jpg
+   image_path: ../assets/images/aerials/dkf/IMG_5381-c_1.jpg
+   title: " 2018 Detroit Kite Festival. KAPtery Aerobee rig and an S100 running CHDK."
 
 ---
 {% include feature_row id="intro" type="left" %}

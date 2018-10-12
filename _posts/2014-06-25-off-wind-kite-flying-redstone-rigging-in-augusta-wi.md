@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "off-wind kite flying: restone rigging in Augusta, WI"
+title: "off-wind kite flying: redtone rigging in Augusta, WI"
 author: Mathew
 toc: true
 tags:
