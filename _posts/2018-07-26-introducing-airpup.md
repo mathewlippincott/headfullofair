@@ -18,7 +18,7 @@ header:
 
 Airpup is small for a balloon, because Airpup is a kite balloon. Airpup sips helium and eats high winds.
   
-##### *Sign up for Airpup announcements on [Crowd Supply](https://www.crowdsupply.com/head-full-of-air/airpup).*
+##### *Back Airpup on [Crowd Supply](https://www.crowdsupply.com/head-full-of-air/airpup).*
 
 
 <iframe src="https://player.vimeo.com/video/288573892" width="640" height="360" frameborder="0" allowfullscreen></iframe>
@@ -47,7 +47,7 @@ Full-size at 6’ long and 3 1/2’ wide, Airpup will still fit in a hatchback o
 
 The full-size Airpup is getting rigged for lifting right now. My goal is to lift a pound for day, or 1/2 pound for three days on single fill-up. Airpup has 24 oz free lift.
 
-You’ll be seeing more about Airpup’s adventures soon, as well as open hardware plans.
+You’ll be seeing more about Airpup’s adventures soon, as well as [open hardware plans](https://github.com/mathewlippincott/airpup-balloon).
 
 
 

@@ -20,7 +20,7 @@ I've been out flying the full-size Airpup and tweaking the rigging over the past
  
 Below are some of the photos and videos I've been taking. 
 
-##### *Sign up for Airpup announcements on [Crowd Supply](https://www.crowdsupply.com/head-full-of-air/airpup).*
+##### *Back Airpup on [Crowd Supply](https://www.crowdsupply.com/head-full-of-air/airpup).*
 
 *My [previous post](post/introducing-airpup/) introducing the scale Airpup.* 
 
