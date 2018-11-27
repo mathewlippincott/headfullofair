@@ -76,10 +76,11 @@ RAF pararoopers practice jumping from a Caquot Type M kite balloon in 1984-- 68 
 
 In 1904 Kite balloons were first used in combat during the Russo-Japanese War. The Russians had limited experience and deployed both an early Parseval-type design and a spherical balloon. The Japanese used a kite balloon [designed by Isaburo Yamada](https://www.fai.org/sites/default/files/documents/cia-hof-yamada-isaburo.pdf).
 
-![Isaburo Yamada kite balloon](/assets/images/kiteballoons/airship_blimp_japan_yamada-siki-kite-balloon.jpg)
+![Isaburo Yamada kite balloon](/assets/images/kiteballoons/airship-blimp-japan-yamada-siki-kite-balloon_jpg_project-body.jpg)
 
-![Russian balloon at the battle of Liaoyang](/assets/images/kiteballoons/Russian_Baloon_in_the_Battle_of_Liaoyang_1.jpg)
-![Russian balloon at the battle of Liaoyang](/assets/images/kiteballoons/Russian_Baloon_in_the_Battle_of_Liaoyang_3.jpg)
+![Russian balloon at the battle of Liaoyang](/assets/images/kiteballoons/russian-baloon-in-the-battle-of-liaoyang-1_jpg_project-body.jpg)
+
+![Russian balloon at the battle of Liaoyang](/assets/images/kiteballoons/russian-baloon-in-the-battle-of-liaoyang-3_jpg_project-body.jpg))
 
 *Header image: CC-BY Bob Harvey, image of a small Goodyear blimp replica kite balloon.*
 

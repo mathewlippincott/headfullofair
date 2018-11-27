@@ -18,7 +18,7 @@ header:
 ---
 
 
-On Github you'll find [Airpup](https://headfullofair.com/tags/airpup)'s repository of 2D patterns for construction as well as a corresponding 3D model.
+On Github you'll find [Airpup](https://headfullofair.com/tags/airpup)'s [repository](https://github.com/mathewlippincott/airpup-balloon) of 2D patterns for construction as well as a corresponding 3D model.
 
 2D patterns are made with [QCAD](https://qcad.org), the 3D model was made in Audodesk's Fusion 360. Aipup is licensed under the [CERN OHL](https://www.ohwr.org/projects/cernohl/wiki).
 

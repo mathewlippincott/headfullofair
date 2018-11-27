@@ -122,7 +122,7 @@ Over the past year I've been making kite banners for slogans.
  I've had some success on large reinforced paper flags about a 3' (1m) high. I like the speed and simplicity of paper, but may use fabric made to the same pattern. See *choosing materials*.
 
 
-This 36" 12' banner weighs 12 oz (340g) without carabiners, and just over a pound (467g) with all of its carabiner attachements. It can easily be lifted in 8-10mph winds by a large kite like my 9' [Levitation Delta](https://intothewind.com/Item--i-3610).  
+This 36" 12' banner weighs 12 oz (340g) without carabiners, and just over a pound (467g) with all of its attachments. It can easily be lifted in 8-10mph winds by a large kite like my 9' [Levitation Delta Light](https://intothewind.com/Item--i-3610) with a [fuzzy tail](https://www.gkites.com/store/). 
 
 
 ![Evict ICE photo by Nim Wunnan](/assets/images/banner/P2370475.jpg)
@@ -130,9 +130,19 @@ This 36" 12' banner weighs 12 oz (340g) without carabiners, and just over a poun
 
 ![Evict ICE, photo by Nim Wunnan](/assets/images/banner/P2370476.jpg)
 
-A friend spotted this sign from 10 blocks away and said it was clearly readable. To be readable from 1000' letters must be 30" high and either black or red on white, and not fluttering.
+### Visibility
+
+A friend spotted this sign from 6 blocks away and said it was clearly readable, confirming the idea that the sign is visible from 1200 feet away (365m). Here's the phone photo:
+
+![spotted](/assets/images/banner/spotted.jpg)
+
+When winds are out of the N/NW I can fly from Fields Park In NW Portland and be visible from Route 405 at the Fremont Bridge on-ramp.
+
+To be readable from 1200' letters must be 30" high and either black or red on white, and not fluttering.
 
 ![where did I even get this chart?](/assets/images/banner/letter_visibility_chart.jpg)
+
+
 
 ### How it works
 
@@ -164,9 +174,12 @@ Paper takes paint and ink well and is luminous when backlit. Tyvek is darker in 
 
 Mulberry paper is a traditional kitemaking material prized for its durability. It is lighter than ripstop nylon, and can be quickly glued together.  It is easy to paint with tempera or ink. A [mulberry paper](https://www.misterart.com/paper-boards/writing-printer-paper/calligraphy-paper/aitoh-washi-paper-rolls.html) banner costs $12.00, while [3/4 oz/yard ripstop](https://goodwinds.com/sail-supplies/ripstop-nylon-fabric-22/ripstop-nylon-fabric.html) would cost $40.00. Commercial [Air Banners letters are $10-$35 each](http://www.kaixuankite.cn/product/1339717042-218812111/Advertising_flag_Airbanners.html). 
 
-I would consider making a ripstop nylon banner for more permanent artwork. Dry erase markers will permanently stain nylon, although their marks won't match their advertized color. For more painterly marks, [John Pollack recommends](http://www.skywindworld.org/Acrylic-on-Nylon-Ripstop.pdf) using acrylic paint in a 50/50 mixture with Golden Acrylics GAC 900 medium. Maybe applique would be worth the effort.
+I would consider making a ripstop nylon banner for more permanent artwork. Dry erase markers will permanently stain nylon, although their marks won't match the advertized color. For more painterly marks, [John Pollack recommends](http://www.skywindworld.org/Acrylic-on-Nylon-Ripstop.pdf) using acrylic paint in a 50/50 mixture with Golden Acrylics GAC 900 medium.
 
 Plastic sheeting is usually polyethylene, which doesn't take paint. No marker or paint I've tried has stuck to flying, fluttering plastic. Years ago I cut letters from black trash bags and tried to heat seal them to translucent sheeting with an iron. This was messy and the letters ripped, but might be worth another shot with a bag sealer.
+
+### Thanks
+Thanks to Jayne Meacham (making, flying sloganeering, photography) Nim Wunnan (flying, photography, and paints, photography) & Jack Lewis painting brushes.
 
 ### Gallery of experiments and sources
 
