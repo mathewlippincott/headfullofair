@@ -9,11 +9,11 @@ header:
   overlay_image: ../assets/images/workshops/header.jpg
 
 intro: 
- - excerpt: "My workshops involve a lot of movement. The easiest way to learn to fly a kite is to recognize patterns in the kite's motion, so I put on a kite suit when I'm teaching kite flying. [Observing the speed and intensity of tree motions](/boundarylayers) is the best way to way to estimate wind force above the ground, swaying like a tall oak and watching a timer.  
+ - excerpt: "My workshops involve a lot of movement. The easiest way to learn to fly a kite is to recognize patterns in the kite's motion, so I put on a kite suit when I'm teaching kite flying. [Observing the speed and intensity of tree motions](/boundarylayers) is the best way to estimate wind force above the ground, swaying like a tall oak and watching a timer.  
 
 
 
- Kites and balloons are perfect for workshop production because most of the cost is in the labor of assembly. Many high-performance, low-cost materials are rare in commercial kites because they aren't easy to mass manufacture. Combine a good crowd with bulk materials and a few good few tape dispensers and everyone can go home with a high performance flying machine."
+Kites and balloons are perfect for workshop production because most of the cost is in the labor of assembly. Many high-performance, low-cost materials are rare in commercial kites because they aren't easy to mass manufacture. Combine a good crowd with bulk materials and a few tape dispensers and everyone can go home with a high performance flying machine."
 
 
 gallery:

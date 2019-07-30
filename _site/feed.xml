@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2018-11-27T12:42:05-08:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Putting a face to a name: the Airpup mascot</title><link href="https://headfullofair.com/post/airpup-mascot/" rel="alternate" type="text/html" title="Putting a face to a name: the Airpup mascot" /><published>2018-11-15T00:00:00-08:00</published><updated>2018-11-15T00:00:00-08:00</updated><id>https://headfullofair.com/post/airpup-mascot</id><content type="html" xml:base="https://headfullofair.com/post/airpup-mascot/">&lt;p&gt;I want &lt;a href=&quot;tags/airpup&quot;&gt;Airpup&lt;/a&gt; to be fun and social, and worked with &lt;a href=&quot;https://www.patreon.com/justinnichol&quot;&gt;Justin Nichol&lt;/a&gt; to create a character that not only represents Airpup, but could be drawn directly on the balloon.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2019-07-30T12:21:37-07:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">run of flat winders &amp;amp; illustrated instructions</title><link href="https://headfullofair.com/post/flat-line-winder-run/" rel="alternate" type="text/html" title="run of flat winders &amp; illustrated instructions" /><published>2019-07-28T00:00:00-07:00</published><updated>2019-07-28T00:00:00-07:00</updated><id>https://headfullofair.com/post/flat-line-winder-run</id><content type="html" xml:base="https://headfullofair.com/post/flat-line-winder-run/">&lt;p&gt;I did a production run of 30 flat winders based on &lt;a href=&quot;http://www.headfullofair.com/tags/flat-winder/&quot;&gt;my design from last spring&lt;/a&gt;, and also illustrated some instructions.&lt;/p&gt;
+
+&lt;p&gt;The winders were cut on a CNC mill with a 1/8” bevel on both sides.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/flat-winder/no-string2.png&quot; alt=&quot;winders without string&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;instructions&quot;&gt;instructions&lt;/h2&gt;
+&lt;p&gt;I turned these instructions into a tag that can be tied to the winder (as shown in the header image, above).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/flat-winder/releasingstring.png&quot; alt=&quot;releasing string&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/flat-winder/windingstring.png&quot; alt=&quot;winding string&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;contribute&quot;&gt;contribute&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Replicate &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder&quot;&gt;the winder&lt;/a&gt; and document your use of it. Please &lt;a href=&quot;/contact&quot;&gt;reach out&lt;/a&gt; and share.&lt;/li&gt;
+  &lt;li&gt;Fork &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder&quot;&gt;the Github repository&lt;/a&gt; and improve the design or documentation.&lt;/li&gt;
+  &lt;li&gt;Add or comment on &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder/issues&quot;&gt;issues in the repository&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/contact&quot;&gt;show me&lt;/a&gt; kite and balloon stuff.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All contributors are asked to abide by the &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder/codeofconduct.md&quot;&gt;code of conduct&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Licensed under the &lt;a href=&quot;LICENSE.md&quot;&gt;CERN OHL 1.2&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="rigs" /><category term="flat-winder" /><category term="winder" /><summary type="html">I did a production run of 30 flat winders based on my design from last spring, and also illustrated some instructions.</summary></entry><entry><title type="html">New Video: Studio Updates on Airpup Construction</title><link href="https://headfullofair.com/post/studio-update-videos/" rel="alternate" type="text/html" title="New Video: Studio Updates on Airpup Construction" /><published>2019-05-19T00:00:00-07:00</published><updated>2019-05-19T00:00:00-07:00</updated><id>https://headfullofair.com/post/studio-update-videos</id><content type="html" xml:base="https://headfullofair.com/post/studio-update-videos/">&lt;p&gt;I’ve begun creating a series of video-based studio updates using my standard definition video mixer. They’re quick and easy to make, and let me document my production of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here are the first three:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/-O9QFKsfe_A&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/o3Jkl-qOxcI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/7_j9oOl5f6k?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><category term="video" /><summary type="html">I’ve begun creating a series of video-based studio updates using my standard definition video mixer. They’re quick and easy to make, and let me document my production of Airpup.</summary></entry><entry><title type="html">Putting a face to a name: the Airpup mascot</title><link href="https://headfullofair.com/post/airpup-mascot/" rel="alternate" type="text/html" title="Putting a face to a name: the Airpup mascot" /><published>2018-11-15T00:00:00-08:00</published><updated>2018-11-15T00:00:00-08:00</updated><id>https://headfullofair.com/post/airpup-mascot</id><content type="html" xml:base="https://headfullofair.com/post/airpup-mascot/">&lt;p&gt;I want &lt;a href=&quot;tags/airpup&quot;&gt;Airpup&lt;/a&gt; to be fun and social, and worked with &lt;a href=&quot;https://www.patreon.com/justinnichol&quot;&gt;Justin Nichol&lt;/a&gt; to create a character that not only represents Airpup, but could be drawn directly on the balloon.&lt;/p&gt;
 
 &lt;h5 id=&quot;back-airpup-on-crowd-supply&quot;&gt;&lt;em&gt;Back Airpup on &lt;a href=&quot;https://www.crowdsupply.com/head-full-of-air/airpup&quot;&gt;Crowd Supply&lt;/a&gt;.&lt;/em&gt;&lt;/h5&gt;
 
@@ -368,322 +400,4 @@ Abb.53 The four-point balance: the mast edge aligns itself with two long cords a
 
 &lt;h2 id=&quot;thanks&quot;&gt;Thanks&lt;/h2&gt;
 
-&lt;p&gt;A special thanks to everyone who helped me design, build, and fly this balloon:  Geoff Bland, Charles Willard, Blimpworks, Jayne Meacham, Colleen Donaldson, Beth Donaldson, and all family and friends who’ve supported me.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Airpup is small for a balloon, because Airpup is a kite balloon. Airpup sips helium and eats high winds. Back Airpup on Crowd Supply.</summary></entry><entry><title type="html">Detroit Kite Festival</title><link href="https://headfullofair.com/post/detroit-kite-festival/" rel="alternate" type="text/html" title="Detroit Kite Festival" /><published>2018-07-16T00:00:00-07:00</published><updated>2018-07-16T00:00:00-07:00</updated><id>https://headfullofair.com/post/detroit-kite-festival</id><content type="html" xml:base="https://headfullofair.com/post/detroit-kite-festival/">&lt;p&gt;I went to the &lt;a href=&quot;https://detroitkitefestival.org/&quot;&gt;Detroit Kite Festival&lt;/a&gt; with Colleen Donaldson and we had a blast! The organizers pulled off a wonderful and inclusive festival complete with a huge stack of kites to borrow, A kite book library, free kid-oriented kite making out of paper, free kites from sponsors, and my favorite part, a free kitemaking booth called “Will It Fly?” with stacks of reused materials for kite making.&lt;/p&gt;
-
-&lt;p&gt;We caught a Wind Jammers performance while the Detroit Philharmonic played, and I ran into Dave Bydlowski from the &lt;a href=&quot;https://www.globe.gov/web/aren-project&quot;&gt;AREN Project&lt;/a&gt;. Colleen and Dave &lt;a href=&quot;https://www.detroitnews.com/picture-gallery/news/local/detroit-city/2018/07/15/detroit-kite-festival/36894925/&quot;&gt;made it into the Detroit News&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The gallery below has some notes. Many of the photos are by Colleen Donaldson. I also took some &lt;a href=&quot;/post/detroit-kite-festival-aerial-photos&quot;&gt;aerial photos&lt;/a&gt;.&lt;/p&gt;
-
-&lt;figure class=&quot;third &quot;&gt;
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380073.jpg&quot; title=&quot;Premiere Kites powered kite, flown by the Wind Jammers.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380073_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380087.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380087_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380094.jpg&quot; title=&quot;Wind Jammers&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380094_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380095.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380095_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380098.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380098_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380103.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380103_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380111.jpg&quot; title=&quot;Colleen Donaldson and I made this kite from a gift bag and some wrapping for flowers at the awesome Will it Fly? booth.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380111_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380114.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380114_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380119.jpg&quot; title=&quot;Colleen Donaldson and I made this kite from a gift bag and some wrapping for flowers at the awesome Will it Fly? booth.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380119_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380123.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380123_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380126.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380126_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380131.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380131_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380134.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380134_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380136.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380136_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380142.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380142_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380150.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380150_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380157.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380157_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380180.jpg&quot; title=&quot;The purple tissue paper kite in the middle advertises the Will It Fly? booth saying FREE TRASH KITES.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380180_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380193.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380193_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380195.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380195_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380213.jpg&quot; title=&quot;A homemade velvet kite. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380213_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380219.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380219_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380220.jpg&quot; title=&quot;Crayon kite drawing its own tails. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380220_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380226.jpg&quot; title=&quot;Crayon kite drawing its own tails. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380226_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380234.jpg&quot; title=&quot;Me counting down to a kite launch with Dave Bydlowski of the AREN Project. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380234_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380239.jpg&quot; title=&quot;Me and my trusty Levitation Light. A reliable lifter. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380239_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380242.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380242_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380279.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380279_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380281.jpg&quot; title=&quot;Made at the Will It Fly? booth excellent flier. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380281_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380303.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380303_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380318.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380318_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380333.jpg&quot; title=&quot;Wind Jammers jamming.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380333_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380353.jpg&quot; title=&quot;Wind Jammers jamming.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380353_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380407.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380407_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380415.jpg&quot; title=&quot;This unlikely looking flier flew alright. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380415_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380435.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380435_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380443.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380443_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380459.jpg&quot; title=&quot;At this point someone counted over 70 kites in the air. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380459_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380461.jpg&quot; title=&quot;Me, prepping for some aerial photography with an S100 and a KAPtery Aerobee Jerkpan rig. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380461_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380487.jpg&quot; title=&quot;Will it Fly? crew with a sweet geometric kite. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380487_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380491.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380491_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380513.jpg&quot; title=&quot;I just love this guy's kite launch. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380513_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380514.jpg&quot; title=&quot;I just love this guy's kite launch. photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380514_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380528.jpg&quot; title=&quot;photo Colleen Donaldson&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380528_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380589.jpg&quot; title=&quot;Colleen was flying my Stormy Sled with ribbons marked on the line when this fairy princess came to check out the scene.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/dkf/P2380589_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-  
-&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="workshops" /><category term="KAPtery" /><summary type="html">I went to the Detroit Kite Festival with Colleen Donaldson and we had a blast! The organizers pulled off a wonderful and inclusive festival complete with a huge stack of kites to borrow, A kite book library, free kid-oriented kite making out of paper, free kites from sponsors, and my favorite part, a free kitemaking booth called “Will It Fly?” with stacks of reused materials for kite making.</summary></entry><entry><title type="html">Detroit Kite Festival aerial photos</title><link href="https://headfullofair.com/post/detroit-kite-festival-aerial-photos/" rel="alternate" type="text/html" title="Detroit Kite Festival aerial photos" /><published>2018-07-16T00:00:00-07:00</published><updated>2018-07-16T00:00:00-07:00</updated><id>https://headfullofair.com/post/detroit-kite-festival-aerial-photos</id><content type="html" xml:base="https://headfullofair.com/post/detroit-kite-festival-aerial-photos/">&lt;p&gt;While &lt;a href=&quot;/post/detroit-kite-festival/&quot;&gt;at the Detroit Kite Festival&lt;/a&gt; I captured some aerial photos with my Canon S100 running &lt;a href=&quot;http://chdk.wikia.com/wiki/CHDK&quot;&gt;CHDK&lt;/a&gt;, installed with &lt;a href=&quot;http://www.zenoshrdlu.com/stick/stick.html&quot;&gt;STICK&lt;/a&gt;. It flew on the always-reliable &lt;a href=&quot;http://kaptery.com/product/aerobee-rig-kit&quot;&gt;KAPtery Aerobee rig&lt;/a&gt;, lifted by my Into the Wind &lt;a href=&quot;https://intothewind.com/Item--i-3610&quot;&gt;Levitation Light&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kites/dkf/P2380461.jpg&quot; alt=&quot;Me prepping for flight. photo by Colleen Donaldson&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I had a fairly brief flight window right before the close of the festival, but was still able to capture some great kites in flight.&lt;/p&gt;
-
-&lt;figure class=&quot;third &quot;&gt;
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5381-c.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5381-c_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5301-c.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5301-c_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5228-c.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5228-c_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5217.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5217_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5420-c.jpg&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/dkf/IMG_5420-c_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-  
-&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="KAPtery" /><summary type="html">While at the Detroit Kite Festival I captured some aerial photos with my Canon S100 running CHDK, installed with STICK. It flew on the always-reliable KAPtery Aerobee rig, lifted by my Into the Wind Levitation Light.</summary></entry></feed>
+&lt;p&gt;A special thanks to everyone who helped me design, build, and fly this balloon:  Geoff Bland, Charles Willard, Blimpworks, Jayne Meacham, Colleen Donaldson, Beth Donaldson, and all family and friends who’ve supported me.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Airpup is small for a balloon, because Airpup is a kite balloon. Airpup sips helium and eats high winds. Back Airpup on Crowd Supply.</summary></entry></feed>

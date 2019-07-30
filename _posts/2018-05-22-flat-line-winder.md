@@ -8,6 +8,8 @@ tags:
  - balloons
  - kites
  - rigs
+ - flat-winder
+ - winder
 
 header: 
  image: /assets/images/flat-winder/string.png

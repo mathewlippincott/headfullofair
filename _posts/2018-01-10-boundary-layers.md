@@ -9,6 +9,7 @@ tags:
  - wind
  - beaufort scale
  - boundary layers
+ - workshops
 
 header:
  image: /assets/images/boundarylayers/ribbongrid2.png
