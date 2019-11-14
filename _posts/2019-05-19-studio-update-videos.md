@@ -8,6 +8,7 @@ tags:
  - kites
  - balloons
  - video
+ - studio-update
 categories:
  - post
 
@@ -17,9 +18,9 @@ header:
 
 ---
 
-I've begun creating a series of video-based studio updates using my standard definition video mixer. They're quick and easy to make, and let me document my production of [Airpup](/tags/airpup).
+I've begun creating a series of video-based [studio updates](/tags/studio-update) using my standard definition video mixer. They're quick and easy to make, and let me document my production of [Airpup](/tags/airpup).
 
-Here are the first three: 
+Here are the first four: 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-O9QFKsfe_A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
