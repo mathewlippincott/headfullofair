@@ -10,7 +10,7 @@ tags:
  - workshops
 ---
 
-v3.1 *Draft*
+v3.2 *Draft*
 
 ![vortex behind a tree visualized with ribbons](../assets/images/boundarylayers/ribbongrid.png)
 
@@ -49,7 +49,7 @@ This exercise is written as a script. Instructor text is in plain text. *Instruc
 
 Today we're going to explore how trees reshape the atmosphere and observe the signs of the wind moving around us.
 
-A boundary layer is the space between an object and a free flowing stream of air. In a boundary layer, air speed increases from nothing at the surface of the object to the speed of the air stream.
+A boundary layer is the space between an object and a free flowing stream of air. In a boundary layer, air speed increases from nothing at the surface of the object to the speed of the surrounding air stream.
 
 There is a boundary layer between between you and the moss you’re looking at. There is also a boundary layer between the earth and the atmosphere, called the Atmospheric Boundary Layer.
 
@@ -121,7 +121,7 @@ The wind is exponentially stronger at the top of a plant community than at the b
 ![lay, sit, stand](../assets/images/boundarylayers/laysitstand-wide.png)
 
 
-Pay attention to the sounds of the wind, changes in temperature, and the feeling of wind on your skin, especially on your sesitive face.
+Pay attention to the sounds of the wind, changes in temperature, and the feeling of wind on your skin, especially on your sensitive face.
 
 
 ## trees' effects on the boundary layer
@@ -162,7 +162,7 @@ As the air moves around me, it sticks to my rough surface and starts to spin.
 
 As the air spins it expands to fill the space behind me and detaches from my leaves, creating a tree-sized spinning air bubble, or air mass. Pulling at the air around it, this air mass becomes a vortex. The trail left in the wind is called a vortex street. 
 
-The vortex street extends behind the tree about 8-10 times the height of the tree, and extends about avove the tree about 2.5 tree heights. 
+The vortex street extends behind the tree about 8-10 times the height of the tree, and extends above the tree about 2.5 tree heights. 
 
 
 ![vortex behind a tree, an overhead view](../assets/images/boundarylayers/treeoverhead.png)
@@ -170,7 +170,7 @@ The vortex street extends behind the tree about 8-10 times the height of the tre
 
 Flags flap because vortex streets form behind flagpoles.  Each vortex peels off alternating sides of the pole, inducing the waving seen in a flag.
 
-### practicing the Beafort wind force scale for conifers
+### practicing the Beaufort wind force scale for conifers
 
 ![handout conifer beaufort](../assets/images/boundarylayers/coniferarm.png)
 
