@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Airpup Production Prototype: Studio Update"
+title: "Airpup production prototype: studio update"
 author: Mathew
 categories: 
  - post

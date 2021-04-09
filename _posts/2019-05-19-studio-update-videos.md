@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "New Video: Studio Updates on Airpup Construction"
+title: "new video: studio updates on Airpup Construction"
 author: Mathew
 tags:
  - airpup
