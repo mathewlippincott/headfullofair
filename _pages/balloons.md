@@ -1,5 +1,5 @@
 ---
-title: "balloons"
+title: "Balloons"
 layout: splash
 permalink: /balloons/
 header:
@@ -12,7 +12,7 @@ intro:
 
 
 
-I've been making small balloons out of thin plastics welded together with heat, glues, and tapes since 2008. I have a passion for solar hot air balloons, and got into using and designing tethered balloons for environmental monitoring and communications through [Grassroots Mapping](http://grassrootsmapping.org/). I haven’t flown in a balloon of my own, yet."
+I've been making small balloons out of thin plastics welded together with heat, glues, and tapes since 2008, and recently commercialized [Airpup](/airpup). I have a passion for solar hot air balloons, and got into using and designing tethered balloons for environmental monitoring and communications through [Grassroots Mapping](http://grassrootsmapping.org/). I haven’t flown in a balloon of my own, yet."
 
 gallery:
  - url: ../assets/images/balloons/ballonwjake.png
@@ -74,6 +74,14 @@ gallery:
    image_path: ../assets/images/balloons/P1010471-c.jpg
    alt: "solar balloon takes off lifting camera in a stuffed bunny"
    title: "November 2009, Oberlin OH. bunny takes off carrying a video camera. Leo Famulari assisting."
+   
+ - url: ../assets/images/airpup/P2390605-crop-sq.jpg
+   image_path: ../assets/images/airpup/P2390605-crop-sq.jpg
+   title: "September 2018, prototype Airpup. Photo Hannah Prince."
+   
+ - url: ../assets/images/airpup/airpup-innov-nation.jpg
+   image_path: ../assets/images/airpup/airpup-innov-nation-c.jpg
+   title: "January 2021, Airpup on CBS's Innovation Nation with Mo Rocca, showing correspondent Albert Laurence, Airpup, and Mathew. Photo copyright CBS." 
  
 ---
 {% include feature_row id="intro" type="left" %}

@@ -1,4 +1,151 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2019-11-13T18:24:14-08:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Airpup Production Prototype: Studio Update</title><link href="https://headfullofair.com/post/Airpup-production-video/" rel="alternate" type="text/html" title="Airpup Production Prototype: Studio Update" /><published>2019-11-11T00:00:00-08:00</published><updated>2019-11-11T00:00:00-08:00</updated><id>https://headfullofair.com/post/Airpup-production-video</id><content type="html" xml:base="https://headfullofair.com/post/Airpup-production-video/">&lt;p&gt;After a variety of delays, detailed in my previous &lt;a href=&quot;/tags/studio-update/&quot;&gt;studio update videos&lt;/a&gt;, I’ve finally finished the production prototype of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt; and have done a solid test flight.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2021-04-09T16:25:07-07:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Airpup production patterns</title><link href="https://headfullofair.com/post/airpup-production-plans/" rel="alternate" type="text/html" title="Airpup production patterns" /><published>2021-04-07T00:00:00-07:00</published><updated>2021-04-07T00:00:00-07:00</updated><id>https://headfullofair.com/post/airpup-production-plans</id><content type="html" xml:base="https://headfullofair.com/post/airpup-production-plans/">&lt;p&gt;Final plans for the production Airpup design are now &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon/&quot;&gt;available on Github&lt;/a&gt;, released as open hardware under the &lt;a href=&quot;https://cern-ohl.web.cern.ch/home&quot;&gt;CERN Open Hardware Licence&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While assembly instructions are included in the Github repository, I’ve also repeated them here. The header image shows how to seal the envelope as a three-part flat pattern. Sewing instructions are below:&lt;/p&gt;
+
+&lt;h2 id=&quot;sewing-airpup&quot;&gt;Sewing Airpup&lt;/h2&gt;
+&lt;h3 id=&quot;components&quot;&gt;Components:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ripstop Polyester Panels (0.6oz)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;2x&lt;/strong&gt; Wing Panels&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;2x&lt;/strong&gt; Winglets&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;2x&lt;/strong&gt; Keels&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1-inch Ripstop Nylon Ribbon components(1.75oz)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;2x&lt;/strong&gt; Winglet Pockets&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;2x&lt;/strong&gt; Keel Pockets&lt;/li&gt;
+      &lt;li&gt;All edge binding&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2-inch Ripstop Nylon Ribbon (1.75oz)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;2x&lt;/strong&gt; Wing Pocket (has Gluing Patch sewn in center)&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;2x&lt;/strong&gt; Winglet Reinforcements&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;4x&lt;/strong&gt; Keel Reinforcements&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fiberglass Reinforced PVC
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;6x&lt;/strong&gt; Gluing Patches for attachment to the ballon envelope
+  Grosgrain Ribbon&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;2x&lt;/strong&gt; Bridle Loops&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/assembly/components.png&quot; alt=&quot;components&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;assembly&quot;&gt;Assembly&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/assembly/whole.png&quot; alt=&quot;the whole sewn component&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The fin structure of Airpup is assembled as individual panels which are then joined by edge binding along the length of the Keel Pockets.&lt;/p&gt;
+
+&lt;p&gt;Most stitches are a 3mmx3mm zigzag stitch, unless specified.&lt;/p&gt;
+
+&lt;h4 id=&quot;keels&quot;&gt;Keels&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/assembly/keel.png&quot; alt=&quot;keels&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tack Keel Reinforcements to both sides of Keel tips.&lt;/li&gt;
+  &lt;li&gt;Edge bind two exposed sides of Keel and Winglet.&lt;/li&gt;
+  &lt;li&gt;Sew Bridle Loops to Keels.&lt;/li&gt;
+  &lt;li&gt;Tack Keel Pockets to Keels, wrapping folded ends of Keel Pockets around to the inside of the Keels.&lt;/li&gt;
+  &lt;li&gt;Sew Keel Pocket Closed with a vertical straight stitch, curving to a horizontal hold stitch. Reverse to double stitch.&lt;/li&gt;
+  &lt;li&gt;Sew bottom of Keel pocket to Keel, leaving 1/8” margin and 1 1/4” gap for Pocket entry.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;winglets&quot;&gt;Winglets&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/assembly/winglet.png&quot; alt=&quot;winglet&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tack Winglet Pockets and Reinforcements to one side of Winglet’s tips.&lt;/li&gt;
+  &lt;li&gt;Edge bind two exposed sides of Keel and Winglet.&lt;/li&gt;
+  &lt;li&gt;Sew sides of Winglet Pockets in place.&lt;/li&gt;
+  &lt;li&gt;Sew Winglet Reinforcements in place.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;wing&quot;&gt;Wing&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/assembly/wing.png&quot; alt=&quot;wing&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tack Wing panels together with seam tape and stitch.&lt;/li&gt;
+  &lt;li&gt;Tape Wing Pocket in place, folded in half over the front edge of Wing. Tape in place with masking tape, then stitch, leaving a 1/2” wide pocket.&lt;/li&gt;
+  &lt;li&gt;edge bind the back edge of the Wing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;combining-panels-and-finishing&quot;&gt;Combining Panels and Finishing&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/assembly/half-edgebind.png&quot; alt=&quot;half-edgebind&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Align Wing, Keel, and Winglet, to the back corner of the ripstop polyester panels. Tack together. Edge bind together.&lt;/li&gt;
+  &lt;li&gt;Align other Keel and Winglet with Wing, aligning to back corner.&lt;/li&gt;
+  &lt;li&gt;Mark locations of Gluing Patches with alignment tool and tape in place with masking tape. Check symmetry of the two sides and adjust Gluing Patches if necessary.&lt;/li&gt;
+  &lt;li&gt;Sew Gluing Patches along 2” marked center, sewing to the edge-bound section and along the bottom of the pocket.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/assembly/half-edgebind-patch.png&quot; alt=&quot;half-edgebind&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;grouping-assembly-tasks&quot;&gt;Grouping Assembly Tasks&lt;/h4&gt;
+&lt;p&gt;The assembly is easier to perform if edge binding and other tasks are grouped. This is my suggested order.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tack Winglet Pockets and Winglet Reinforcements to one side of Winglets tips.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tack Keel Reinforcements to both sides of Keel tips.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge bind two exposed sides of Keel and Winglet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge bind back edge of Wing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sew Keel Reinforcements to Keels.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sew Bridle Loops to Keels.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tack and sew Keel Pocket to Keel.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sew Wing Pocket onto front edge of Wing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Align one edge of Keel, Winglet, and Wing to the back corner of polyester panels.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tack together Keel, Winglet, Wing, and Keel Pocket.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge bind.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Align other side of Keel, Winglet, Wing and Keel Pocket, aligning to back corner.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Edge Bind.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Use alignment tool to identify Gluing Patch locations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tape Gluing Patches in place, sew into location.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="github" /><category term="airpup" /><summary type="html">Final plans for the production Airpup design are now available on Github, released as open hardware under the CERN Open Hardware Licence.</summary></entry><entry><title type="html">Helium Supplier Map Built on uMap &amp;amp; OSM</title><link href="https://headfullofair.com/post/helium-supplier-map/" rel="alternate" type="text/html" title="Helium Supplier Map Built on uMap &amp; OSM" /><published>2021-03-05T00:00:00-08:00</published><updated>2021-03-05T00:00:00-08:00</updated><id>https://headfullofair.com/post/helium-supplier-map</id><content type="html" xml:base="https://headfullofair.com/post/helium-supplier-map/">&lt;p&gt;With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.&lt;/p&gt;
+
+&lt;p&gt;If you find a helium supplier that is not on my &lt;a href=&quot;https://umap.openstreetmap.fr/en/map/helium-suppliers_259236#4/40.88/-81.62&quot;&gt;Helium Map&lt;/a&gt; (embedded below), please add one to &lt;a href=&quot;https://github.com/mathewlippincott/helium-map&quot;&gt;the Github repository&lt;/a&gt; or &lt;a href=&quot;/contact&quot;&gt;contact me&lt;/a&gt; with the info.&lt;/p&gt;
+
+&lt;p&gt;This map is built using &lt;a href=&quot;http://umap.openstreetmap.fr/en/&quot;&gt;uMap&lt;/a&gt;, a free and open source tool built on &lt;a href=&quot;https://www.openstreetmap.org/#map=4/38.01/-95.84&quot;&gt;OpenStreetMap&lt;/a&gt;. I’m rather fond of it. It allows you to pick a tile layer and even customize the look of the arrows, as I did on this &lt;a href=&quot;https://umap.openstreetmap.fr/en/map/futel-service-map_551231#4/42.46/-101.41&quot;&gt;service map&lt;/a&gt; for &lt;a href=&quot;https://futel.net/&quot;&gt;Futel&lt;/a&gt;. In addition to the web management interface, all the entries can be stored in and updated by from a CSV file, allowing version control.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;300px&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; src=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236?scaleControl=false&amp;amp;miniMap=false&amp;amp;scrollWheelZoom=false&amp;amp;zoomControl=true&amp;amp;allowEdit=false&amp;amp;moreControl=true&amp;amp;searchControl=null&amp;amp;tilelayersControl=null&amp;amp;embedControl=null&amp;amp;datalayersControl=true&amp;amp;onLoadPanel=undefined&amp;amp;captionBar=false&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236&quot;&gt;See full screen&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="helium" /><category term="mapping" /><category term="airpup" /><summary type="html">With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.</summary></entry><entry><title type="html">Airpup production prototype: studio update</title><link href="https://headfullofair.com/post/Airpup-production-video/" rel="alternate" type="text/html" title="Airpup production prototype: studio update" /><published>2019-11-11T00:00:00-08:00</published><updated>2019-11-11T00:00:00-08:00</updated><id>https://headfullofair.com/post/Airpup-production-video</id><content type="html" xml:base="https://headfullofair.com/post/Airpup-production-video/">&lt;p&gt;After a variety of delays, detailed in my previous &lt;a href=&quot;/tags/studio-update/&quot;&gt;studio update videos&lt;/a&gt;, I’ve finally finished the production prototype of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt; and have done a solid test flight.&lt;/p&gt;
 
 &lt;p&gt;My studio update:&lt;/p&gt;
 
@@ -32,7 +179,7 @@
 
 &lt;p&gt;All contributors are asked to abide by the &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder/codeofconduct.md&quot;&gt;code of conduct&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Licensed under the &lt;a href=&quot;LICENSE.md&quot;&gt;CERN OHL 1.2&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="rigs" /><category term="flat-winder" /><category term="winder" /><summary type="html">I did a production run of 30 flat winders based on my design from last spring, and also illustrated some instructions.</summary></entry><entry><title type="html">New Video: Studio Updates on Airpup Construction</title><link href="https://headfullofair.com/post/studio-update-videos/" rel="alternate" type="text/html" title="New Video: Studio Updates on Airpup Construction" /><published>2019-05-19T00:00:00-07:00</published><updated>2019-05-19T00:00:00-07:00</updated><id>https://headfullofair.com/post/studio-update-videos</id><content type="html" xml:base="https://headfullofair.com/post/studio-update-videos/">&lt;p&gt;I’ve begun creating a series of video-based &lt;a href=&quot;/tags/studio-update&quot;&gt;studio updates&lt;/a&gt; using my standard definition video mixer. They’re quick and easy to make, and let me document my production of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Licensed under the &lt;a href=&quot;LICENSE.md&quot;&gt;CERN OHL 1.2&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="rigs" /><category term="flat-winder" /><category term="winder" /><summary type="html">I did a production run of 30 flat winders based on my design from last spring, and also illustrated some instructions.</summary></entry><entry><title type="html">new video: studio updates on Airpup Construction</title><link href="https://headfullofair.com/post/studio-update-videos/" rel="alternate" type="text/html" title="new video: studio updates on Airpup Construction" /><published>2019-05-19T00:00:00-07:00</published><updated>2019-05-19T00:00:00-07:00</updated><id>https://headfullofair.com/post/studio-update-videos</id><content type="html" xml:base="https://headfullofair.com/post/studio-update-videos/">&lt;p&gt;I’ve begun creating a series of video-based &lt;a href=&quot;/tags/studio-update&quot;&gt;studio updates&lt;/a&gt; using my standard definition video mixer. They’re quick and easy to make, and let me document my production of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here are the first four:&lt;/p&gt;
 
@@ -330,54 +477,4 @@ Abb.53 The four-point balance: the mast edge aligns itself with two long cords a
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/russian-baloon-in-the-battle-of-liaoyang-3_jpg_project-body.jpg&quot; alt=&quot;Russian balloon at the battle of Liaoyang&quot; /&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Header image: CC-BY Bob Harvey, image of a small Goodyear blimp replica kite balloon.&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Kite balloons are balloons that fly like kites, and they were the first reliable way to fly and land in the same place.</summary></entry><entry><title type="html">Airpup at the Lincoln City Fall Kite Festival</title><link href="https://headfullofair.com/post/airpup-lincoln-city-fall-kite-fest/" rel="alternate" type="text/html" title="Airpup at the Lincoln City Fall Kite Festival" /><published>2018-10-16T00:00:00-07:00</published><updated>2018-10-16T00:00:00-07:00</updated><id>https://headfullofair.com/post/airpup-lincoln-city-fall-kite-fest</id><content type="html" xml:base="https://headfullofair.com/post/airpup-lincoln-city-fall-kite-fest/">&lt;p&gt;Airpup joined the phenomenal show of kites at the 2018 Lincoln City Fall Kite Festival. It was an opportunity to practice aerial videography, and also to fly in winds above 20mph, testing Airpup’s stability and durability.&lt;/p&gt;
-
-&lt;h5 id=&quot;back-airpup-on-crowd-supply&quot;&gt;&lt;em&gt;Back Airpup on &lt;a href=&quot;https://www.crowdsupply.com/head-full-of-air/airpup&quot;&gt;Crowd Supply&lt;/a&gt;.&lt;/em&gt;&lt;/h5&gt;
-
-&lt;p&gt;Colleen Donaldson and I hit the beach, she did videography and photography from the ground while I walked Airpup around. I edited the video together so you can see how Airpup is manuevered:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/dfNq1N3qnPg&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Then I put a Kestrel 5500 weather station on Airpup to record the wind speed at Airpup. I synched 30-second averages of wind speed with this video:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/0rGuT0tnSNg&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;While Airpup seemed stable and ready for higher winds, it was hard to grip the line with gloves. I’ll have to test to 30mph+ with some thicker line and maybe a winch.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Read more about &lt;a href=&quot;tags/airpup&quot;&gt;Airpup&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Airpup joined the phenomenal show of kites at the 2018 Lincoln City Fall Kite Festival. It was an opportunity to practice aerial videography, and also to fly in winds above 20mph, testing Airpup’s stability and durability.</summary></entry><entry><title type="html">Out and about with Airpup</title><link href="https://headfullofair.com/post/out-and-about-with-airpup/" rel="alternate" type="text/html" title="Out and about with Airpup" /><published>2018-09-27T00:00:00-07:00</published><updated>2018-09-27T00:00:00-07:00</updated><id>https://headfullofair.com/post/out-and-about-with-airpup</id><content type="html" xml:base="https://headfullofair.com/post/out-and-about-with-airpup/">&lt;p&gt;I’ve been out flying the full-size Airpup and tweaking the rigging over the past two months.&lt;/p&gt;
-
-&lt;p&gt;Below are some of the photos and videos I’ve been taking.&lt;/p&gt;
-
-&lt;h5 id=&quot;back-airpup-on-crowd-supply&quot;&gt;&lt;em&gt;Back Airpup on &lt;a href=&quot;https://www.crowdsupply.com/head-full-of-air/airpup&quot;&gt;Crowd Supply&lt;/a&gt;.&lt;/em&gt;&lt;/h5&gt;
-
-&lt;p&gt;&lt;em&gt;My &lt;a href=&quot;post/introducing-airpup/&quot;&gt;previous post&lt;/a&gt; introducing the scale Airpup.&lt;/em&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/2imR-zk1Fjo&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/S_mjer_s5lI&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/ttO7kMy7SkM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/60Dm4vOmh0M&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;My usual rig is my Galaxy S7 phone and a Feigyu SPG gimbal, weighing 572g (1lb 4.2 oz). This is just about the maximum payload possible from 37cu. ft. of helium.&lt;/p&gt;
-
-&lt;p&gt;Because Airpup is a kite balloon, I’ve been able to fly this camera rig in a light breeze even with Airpup partially filled with air and overweight.&lt;/p&gt;
-
-&lt;h2 id=&quot;rigging-takes&quot;&gt;rigging takes&lt;/h2&gt;
-
-&lt;p&gt;I added a spar across Airpup’s tail to increase stability. After working through a few iterations, I used some winglets that distributed tension and solved the stability issues.&lt;/p&gt;
-
-&lt;p&gt;Before winglets:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/P2390175.jpg&quot; alt=&quot;pre-winglets, photo Colleen Donaldson&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After winglets:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/swan-island-raw.png&quot; alt=&quot;winglets on airpup, photo Colleen Donaldson&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I also tried a radical re-rigging with a more traditional stabilization system– tail fins.  These worked great at very low wind speed, but would need stabilizing cables to work in higher winds. I may return to tailfins (as the winglets give a good mounting point for stabilizing cables), but they aren’t necessary and increase rigging complexity.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/P2390368-sm.jpg&quot; alt=&quot;tailfin rigging, photo Hugh Lippincott&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Header image by Jayne Meacham&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">I’ve been out flying the full-size Airpup and tweaking the rigging over the past two months. Below are some of the photos and videos I’ve been taking.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;Header image: CC-BY Bob Harvey, image of a small Goodyear blimp replica kite balloon.&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Kite balloons are balloons that fly like kites, and they were the first reliable way to fly and land in the same place.</summary></entry></feed>

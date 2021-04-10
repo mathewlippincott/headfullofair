@@ -1,6 +1,6 @@
 ---
 
-title: "workshops"
+title: "Workshops"
 layout: splash
 permalink: /workshops/
 header:

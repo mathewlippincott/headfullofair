@@ -6,7 +6,7 @@ categories:
  - post
 tags:
  - balloons
- - kite balloon
+ - kite balloons
  - kites
  - github
  - airpup

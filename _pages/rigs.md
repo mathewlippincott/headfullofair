@@ -1,5 +1,5 @@
 ---
-title: "equipment"
+title: "Equipment"
 layout: splash
 permalink: /rigs/
 header:

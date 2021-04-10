@@ -3,7 +3,7 @@ title: "plastic seaming instructional with a model 1916 kite balloon"
 author: Mathew
 layout: single
 tags:
- - kite balloon
+ - kite balloons
 categories:
  - post
  

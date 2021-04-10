@@ -1,5 +1,5 @@
 ---
-title: "aerial photos"
+title: "Aerial Photos"
 layout: splash
 permalink: /aerials/
 header:

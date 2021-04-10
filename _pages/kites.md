@@ -1,5 +1,5 @@
 ---
-title: "kites"
+title: "Kites"
 layout: splash
 permalink: /kites/
 header:

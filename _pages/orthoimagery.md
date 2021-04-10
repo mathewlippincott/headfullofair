@@ -1,5 +1,5 @@
 ---
-title: "photo maps"
+title: "Photo Maps"
 layout: splash
 permalink: /orthoimagery/
 header:

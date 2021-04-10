@@ -5,7 +5,7 @@ layout: single
 categories:
  - post
 tags:
- - kite balloon
+ - kite balloons
 
 header:
  image: /assets/images/gp_aeroclipper-vasco-2.jpg

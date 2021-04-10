@@ -3,7 +3,7 @@ main:
   # title: "Quick-Start Guide"
    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "get Airpup"
-     url: https://www.crowdsupply.com/head-full-of-air/airpup
+     url: /airpup
    - title: "space program"
      url: /program
    - title: "contact"
