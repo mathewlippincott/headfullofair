@@ -19,15 +19,15 @@ header:
 {: .notice} 
 Written with [Ecta64](//publiclab.org/profile/Ecta64). Archived 4th of March 2018 [from Publiclab.org](https://publiclab.org/wiki/kite-anemometers). [Kite anemometers](/tag/kite-anemometer) on this site, and on [Github](https://github.com/mathewlippincott/TALA/).
 
-Kite anemometry is the use of a kite as a sensor to measure the wind velocity, vector and turbulence. It is differentiated from other methods of kite meteorological data gathering in that information is obtained by observing the kite and the forces acting on it. This typically means that all substantial instrumentation is on the ground versus being flown on the kite as a payload.
+[Kite anemometry](/tags/kite-anemometer/) is the use of a kite as a sensor to measure the wind velocity, vector and turbulence. It is differentiated from other methods of kite meteorological data gathering in that information is obtained by observing the kite and the forces acting on it. This typically means that all substantial instrumentation is on the ground versus being flown on the kite as a payload.
 
 In different configurations a kite anemometer can be used to examine wind speed at altitude, turbulence, and wind shear.  The math behind a kite anemometer-- equations relating the pull of a kite to wind speed-- can also be used to determine the payload capacity of a kite in a specific wind speed. 
 
 You can contribute to this project by:
  
-* Expanding our documentation of kite anemometry research by reading research [the bibliography](https://publiclab.org/wiki/kite-anemometers#bibliography) on this page and posting your notes on it with the tag "[kite-anemometer](https://publiclab.org/tag/kite-anemometer)", or reading and commenting on tagged research notes.
-
-* Replicating the [TALA kite anemometer kit](https://github.com/mathewlippincott/TALA) and documenting your use of it on with the tag "[kite-anemometer](https://publiclab.org/tag/kite-anemometer)." If you record your experiences elsewhere, please contact us and share.
+* Expanding documentation of kite anemometry research by reading research bibliography on this page and [sending me any suggestions or additions](/contact/).
+* 
+* Replicating the [TALA kite anemometer kit](https://github.com/mathewlippincott/TALA). If you record your experiences elsewhere, please contact us and share.
 
 * Improving the documentation on kite wind speed meter models in the [Kite Wind Speed Meter](https://github.com/mathewlippincott/Kite-Wind-Speed-Meter) Github repository, as well as adding applications of those models.
 

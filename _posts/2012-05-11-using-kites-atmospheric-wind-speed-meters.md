@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "using kites as atmospheric wind meters"
-permalink: /post/using-kites-atmospheric-wind-speed-meters
 author: Mathew
 categories: 
  - post

@@ -1,4 +1,241 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2021-04-09T16:25:07-07:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Airpup production patterns</title><link href="https://headfullofair.com/post/airpup-production-plans/" rel="alternate" type="text/html" title="Airpup production patterns" /><published>2021-04-07T00:00:00-07:00</published><updated>2021-04-07T00:00:00-07:00</updated><id>https://headfullofair.com/post/airpup-production-plans</id><content type="html" xml:base="https://headfullofair.com/post/airpup-production-plans/">&lt;p&gt;Final plans for the production Airpup design are now &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon/&quot;&gt;available on Github&lt;/a&gt;, released as open hardware under the &lt;a href=&quot;https://cern-ohl.web.cern.ch/home&quot;&gt;CERN Open Hardware Licence&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2021-05-07T20:32:07-05:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">bigger kite banners</title><link href="https://headfullofair.com/post/tulle-kite-banners/" rel="alternate" type="text/html" title="bigger kite banners" /><published>2021-05-07T00:00:00-05:00</published><updated>2021-05-07T00:00:00-05:00</updated><id>https://headfullofair.com/post/tulle-kite-banners</id><content type="html" xml:base="https://headfullofair.com/post/tulle-kite-banners/">&lt;p&gt;This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Header photo by Mike Hastie&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Previously, I attempted paper banners, detailed in an earlier &lt;a href=&quot;/post/kite-banners&quot;&gt;post&lt;/a&gt; and &lt;a href=&quot;/post/making-a-paper-banner&quot;&gt;tutorial&lt;/a&gt;. While functional, the paper banners are fragile and can’t scale. This tutorial is based on the easily-available 54-inch-wide tulle; however, I am planning to try greater widths.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This tutorial assumes kite flying expertise.&lt;/strong&gt; Please do not go flying kite banners without first learning to fly big kites, familiarizing yourself with the flying area and weather, and planning for an emergency. If you’re just getting started, see the American Kitefliers Association’s &lt;a href=&quot;https://www.kite.org/about-kites/how-to-fly-a-kite/&quot;&gt;How to Fly a Kite&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;banner-basics&quot;&gt;banner basics&lt;/h2&gt;
+
+&lt;p&gt;The banner’s structure is simple: a long rectangle with an edge reinforced by twine, held taught by rigid battens (sticks) and the tension of carabiners clipped into the kite line.&lt;/p&gt;
+
+&lt;p&gt;In the diagram below, the battens are blue, the twine is red, material edges are black, and reinforcement strips are dotted lines. The tulle is folded over the twine along the edges and additional strips of tulle hold the battens in place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/bannerdiagram2.jpg&quot; alt=&quot;sign loop diagram &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Carabiners clip to the loops of twine and are wrapped into the line.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/carabiner.png&quot; alt=&quot;carabiner attachment&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ideally, a sign will be made all at once on a flat surface and left to dry over night. To accomplish this, the message should be planned ahead of time, scaled to the length of the banner, and the locations of battens (sticks that keep the sign from flapping in the wind) picked out. The size of the banner should also fit within the available space.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/20200702_213629.jpg&quot; alt=&quot;Image of No Estas Solo sign on floor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Although slightly trickier, the sign can also be made in multiple pieces and assembled.&lt;/p&gt;
+
+&lt;p&gt;The “paint” is dilute, water-based PVA glue (white glue, i.e. Elmers) mixed with fabric dye which fills in the tulle’s mesh to create a vibrant, translucent film that glows in the sky.&lt;/p&gt;
+
+&lt;h2 id=&quot;supplies&quot;&gt;supplies:&lt;/h2&gt;
+&lt;h3 id=&quot;materials&quot;&gt;materials&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;white polyester tulle
+    &lt;ul&gt;
+      &lt;li&gt;54 inches wide and long enough for your message&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rit fabric dye (or similar)
+    &lt;ul&gt;
+      &lt;li&gt;to color glue for lettering/painting&lt;/li&gt;
+      &lt;li&gt;I suggest red for sky lettering. It glows and is more visible than black.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;gallon of PVA glue
+    &lt;ul&gt;
+      &lt;li&gt;white glue, i.e. Elmers&lt;/li&gt;
+      &lt;li&gt;a sign will use about 1/3 of a gallon of glue&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;polyethylene tarp
+    &lt;ul&gt;
+      &lt;li&gt;i.e. painter’s plastic&lt;/li&gt;
+      &lt;li&gt;long enough to lay under your message&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;masking tape or painter’s tape
+    &lt;ul&gt;
+      &lt;li&gt;used to hold tarp in place&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;two buckets for mixing glue&lt;/li&gt;
+  &lt;li&gt;natural fiber twine, 50 pound test or stronger
+    &lt;ul&gt;
+      &lt;li&gt;i.e. hemp, sisal, etc.&lt;/li&gt;
+      &lt;li&gt;synthetic will not work; rough, absorbent natural fibers hold glue&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;bamboo strips, wood lathe, dowels, or other lightweight stick for battens
+    &lt;ul&gt;
+      &lt;li&gt;must be as long as the tulle’s width&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2 large aluminum carabiners, 50 pound rating or more&lt;/li&gt;
+  &lt;li&gt;4-6 smaller carabiners&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tools&quot;&gt;tools&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;6-inch paint roller handle
+    &lt;ul&gt;
+      &lt;li&gt;a half-width roller is a good width for letters&lt;/li&gt;
+      &lt;li&gt;a handle extender is helpful&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3-inch roller or paint brush
+    &lt;ul&gt;
+      &lt;li&gt;for gluing the edges to the twine&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;roller tray&lt;/li&gt;
+  &lt;li&gt;sharp fabric cutting tool for tulle&lt;/li&gt;
+  &lt;li&gt;weights for holding tulle in place (paint cans, rocks, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;planning-the-banner&quot;&gt;planning the banner&lt;/h2&gt;
+
+&lt;h3 id=&quot;pick-a-message&quot;&gt;pick a message&lt;/h3&gt;
+
+&lt;p&gt;Since the message determines the length of the banner and the material needed, start by picking a short message and drawing the letters to scale. Estimate the width of your standard letter to quickly estimate the length. I’ve used a 2-foot wide, 4-foot high standard letter on 54-inch-wide tulle. After finalizing the message, I’ll then refine my estimated length by making allowances for narrow letters like a lower-case “l” and adding the two triangles to the sides.&lt;/p&gt;
+
+&lt;p&gt;I think 35 feet is about the maximum length for a sign that a one-person kite can lift. For instance, my 54-inch-high “Defund Police” banner is 27 feet long.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/IMG_20200718_203352.jpg&quot; alt=&quot;Defund the police, photo Phil Sano&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To my eye, a mix of lowercase and capital letters creates the most compact and legible sign at a distance, although these letters are somewhat trickier to paint and plan. Evenly-spaced capital letters are simpler to paint and plan. However, They can be harder to read, especially if narrow. Symbols are hard to read.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/DSC_2330.jpg&quot; alt=&quot;No Big Oil Bailout banner with people launching, photo Mike Hastie&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/pest-2020-07-25-233126.jpg&quot; alt=&quot; I helped rig this banner but it was painted by Veterans for Peace. Stop the war machine banner, photo Mike Hastie.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Most people will read this message from a long distance away or in tiny letters of a cellphone photo. No matter how big the message is, the sky is much, much bigger.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/DSC_2397.jpg&quot; alt=&quot;sign at an extreme distance, photo Mike Hastie&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;plan-the-locations-of-battens-sticks&quot;&gt;plan the locations of battens (sticks)&lt;/h3&gt;
+
+&lt;p&gt;Two fairly stiff battens should be at the vertical sides of the banner’s two triangles. The battens minimize flapping, since flapping lowers legibility and also stresses the kite line attachment points.&lt;/p&gt;
+
+&lt;p&gt;The other battens are optional. I find a few extra battens keep the sign from sagging in the middle. They can be very thin, and their placement doesn’t need to be regular. They are only needed every 6 to 10 feet.
+&lt;img src=&quot;/assets/images/banner/bannerdiagram2.jpg&quot; alt=&quot;sign loop diagram &quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hide the battens behind the vertical sections of letters or place them clearly in the space between letters. Don’t place them at the edges of letters, as that can disrupt the silhouette.&lt;/p&gt;
+
+&lt;p&gt;For instance, in the banner below, there is a batten hiding behind the “f,” “n,” “P,” and “l.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/P2410557.jpg&quot; alt=&quot;Defund police, photo Colleen Donaldson&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/jayne-2020-07-25-123110.jpg&quot; alt=&quot;Breonna Taylor sign in process, photo and banner Jayne Meacham&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the above example of Breonna Taylor sign, Jayne Meacham painted the letters backwards (face down) in order to glue the battens to the back side of the banner, giving it a clean look  and also attaching the battens at the same time as the letter painting.&lt;/p&gt;
+
+&lt;p&gt;I do not suggest building the banner without any battens; however, kite tails strategically attached to the bottom edge of the banner can pull it fairly taught.&lt;/p&gt;
+
+&lt;h2 id=&quot;prepairing-the-area-and-supplies&quot;&gt;prepairing the area and supplies&lt;/h2&gt;
+&lt;h3 id=&quot;mixing-glue--paint&quot;&gt;mixing glue &amp;amp; paint&lt;/h3&gt;
+&lt;p&gt;PVA glue should be thinned, 1 part glue to 2 parts water, and mixed thoroughly. About a gallon of this thinned glue is needed for a sign– a quart of glue for the edges and the rest for the letters. One packet of fabric dye can color up to a gallon of this thinned mixture into paint for the letters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/jayne-2020-07-24-133501.jpg&quot; alt=&quot;image of mixed glue dripping, photo Jayne Meacham&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The paint mixture’s color will intensify as it dries. The pinkish glue/paint above made the intense color in the Breona Taylor sign above.&lt;/p&gt;
+
+&lt;p&gt;I’ve tried some other colorants, including house paint, alcohol ink, and poster paint, but Jayne’s suggestion of fabric dye not only gives the most vibrant color, its the cheapest (by far!) and easiest to find.&lt;/p&gt;
+
+&lt;h3 id=&quot;surface-prep-and-letter-layout&quot;&gt;surface prep and letter layout&lt;/h3&gt;
+
+&lt;p&gt;Lay the polyethelyne tarp down, stretch flat, and tape in place. The flatter the surface, the more consistent the film of paint will be when dried and peeled from the tarp.&lt;/p&gt;
+
+&lt;p&gt;Get some weights ready to hold the banner and twine in place.&lt;/p&gt;
+
+&lt;p&gt;Lay out the tulle and mark the locations of the battens. Mark the locations of the letters and sketch a level of detail you need to paint them. You can mark letters on the tulle with a thick sharpie. The tulle’s mesh doesn’t show marks from even 10 feet away.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/jayne-2020-07-23-205607.jpg&quot; alt=&quot;show marked letters, photo Jayne Meacham&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;edging-the-banner&quot;&gt;edging the banner&lt;/h3&gt;
+
+&lt;p&gt;Pull twine taught across the top of the banner and tie loops, starting at one corner and working across to the locations of each batten until the far corner is reached. Do not cut the twine, as you will work it around the outside edge in one big loop.&lt;/p&gt;
+
+&lt;p&gt;Stretch the twine taught 3 inches down from the top of the sign and pin in place using weights on the two end loops.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/bannerdiagram1.jpg&quot; alt=&quot;sign loop diagram&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Continue stretching twine around the side triangles and bottom of the tulle, 3 inches in. Use weights to hold it in place on the bottom triangles. Lay the twine down before cutting the side triangles, and, using the edge of the twine as a rough guide, cut the tulle off 3 inches out from the twine.&lt;/p&gt;
+
+&lt;p&gt;Trim the triangle cut-offs of tulle into roughly 5-inch-wide strips for use holding the battens in place.&lt;/p&gt;
+
+&lt;h2 id=&quot;gluing-and-painting&quot;&gt;gluing and painting&lt;/h2&gt;
+
+&lt;p&gt;Multiple people can work on the banner at the same time, and edging the banner with glue and painting letters can happen simultaneously.&lt;/p&gt;
+
+&lt;p&gt;Edging does not have to be neat. Just use a brush or small roller to soak the edges with glue, directly on top of the folded-over tulle. The glue will soak through.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/20200702_211450.jpg&quot; alt=&quot;rough edging&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Letters should be somewhat neat but they will be seen from at least 50 feet away  (probably farther) and no one will notice some rough edges and wrinkles.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/20200702_191903.jpg&quot; alt=&quot;painting with the roller&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/20200725_165321.jpg&quot; alt=&quot;messy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/NoEstas-Solo.jpg&quot; alt=&quot;No Estas Solo, photo La Resistencia&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;applying-the-battens&quot;&gt;applying the battens&lt;/h3&gt;
+
+&lt;p&gt;The reinforcement battens can be applied after the glue dries, which takes at least 8-16 hours, or, if you painted the letters backwards, the battens can be applied directly after painting the letters.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/20200702_211507.jpg&quot; alt=&quot;No Estas Solo batten application&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lay down the battens and put 4-5-inch-wide tulle strips over top. Soak with glue.  If the batten won’t lay flat, use weights to push it down.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/20200702_213638.jpg&quot; alt=&quot;No Estas Solo batten application&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;go-fly&quot;&gt;go fly&lt;/h2&gt;
+
+&lt;p&gt;roll the banner up, put it on your bicycle, and go fly with a friend!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/banner/2020/20200425_135720.jpg&quot; alt=&quot;banner on a bike&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;thanks&quot;&gt;thanks&lt;/h2&gt;
+
+&lt;p&gt;These instructions were refined with the help of Jayne Meacham, following them from a distance. Banner making required a lot of hands– special thanks to PEST and Colleen Donaldson. Most of the flight photos here are from photographer Mike Hastie, many thanks for his diligent work capturing these banner lifts.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="banners" /><category term="kites" /><category term="rigs" /><summary type="html">This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.</summary></entry><entry><title type="html">Airpup on Innovation Nation</title><link href="https://headfullofair.com/post/airpup-on-cbs/" rel="alternate" type="text/html" title="Airpup on Innovation Nation" /><published>2021-04-30T00:00:00-05:00</published><updated>2021-04-30T00:00:00-05:00</updated><id>https://headfullofair.com/post/airpup-on-cbs</id><content type="html" xml:base="https://headfullofair.com/post/airpup-on-cbs/">&lt;p&gt;Airpup was recently featured on CBS’s &lt;a href=&quot;https://www.thehenryford.org/explore/innovation-nation/episodes/creative-circuits/&quot;&gt;Innovation Nation with Mo Rocca&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/CDJGiPt_ids&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Thanks to Karly Placek, John Murphy, and the &lt;a href=&quot;https://www.litton.tv/&quot;&gt;Litton Entertainment&lt;/a&gt; team for making a film shoot work in the midst of the pandemic and for flying me to California so we could have better weather. Also thanks to &lt;a href=&quot;https://www.imdb.com/name/nm4184546/&quot;&gt;Albert Lawrence&lt;/a&gt;, who picked out the perfect orange outfit to go with Aipup.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-innov-nation-2.jpg&quot; alt=&quot;John and Albert with Airpup&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Airpup was recently featured on CBS’s Innovation Nation with Mo Rocca.</summary></entry><entry><title type="html">DJI Pocket 2 for Kite Aerial Photography</title><link href="https://headfullofair.com/post/DJI-pocket-kap/" rel="alternate" type="text/html" title="DJI Pocket 2 for Kite Aerial Photography" /><published>2021-04-29T00:00:00-05:00</published><updated>2021-04-29T00:00:00-05:00</updated><id>https://headfullofair.com/post/DJI-pocket-kap</id><content type="html" xml:base="https://headfullofair.com/post/DJI-pocket-kap/">&lt;p&gt;I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.&lt;/p&gt;
+
+&lt;p&gt;With the WiFi dongle, the Pocket 2 is a small (~140g), 3-axis gimbal-stabilized camera capable of sending a remote video feed to DJI’s Mimo app and being remotely controled by the app. The original DJI Pocket didn’t offer a video feed, so when I saw they added this feature to the Pocket 2, I picked one up, just in time for &lt;a href=&quot;/post/airpup-on-cbs/&quot;&gt;Airpup’s debut on CBS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;attachment-for-flight&quot;&gt;Attachment for flight&lt;/h2&gt;
+
+&lt;p&gt;Attachment to Airpup was simple– I used the Pocket 2’s included hard case to provide a horizontal 1/4-20 mounting point, and a velcro strap and small foam block to keep the camera from twisting.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/pocket2airpup.jpg&quot; alt=&quot;DJI Pocket 2 mounted on Airpup&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For KAP, I coupled the Pocket 2 with a Chris Fastie’s &lt;a href=&quot;https://www.thingiverse.com/thing:281677&quot;&gt;3D printed Picavet&lt;/a&gt; from the &lt;a href=&quot;http://kaptery.com/product/picavet-kit&quot;&gt;Kaptery&lt;/a&gt;, replacing the picavet’s main mounting shaft with three inches of nylon 1/4-20 screw stock.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/rigs/pocketpicavet.jpg&quot; alt=&quot;DJI Pocket 2 on a picavet kite aerial photography rig&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;features-and-usability&quot;&gt;Features and usability&lt;/h2&gt;
+
+&lt;p&gt;Remote control and video feed functions work quite well on the Pocket 2. Although the video feed to my Android phone can begin to stutter above about 100 feet, it has been consistenlty usable up to about 250 feet and doesn’t lose connection until about 400+ feet. That said, my (admittedly old) phone battery is drained completely in about a half-hour of useage. On future flights I will use a spare battery.&lt;/p&gt;
+
+&lt;p&gt;Stability in flight is an issue with the Pocket 2. Unfortunately, DJI doesn’t offer the ability to lock in a camera heading and only a tilt lock is available. While the Mimo software offers an object/person tracking function, if the camera’s motion is too severe, it can be difficult to lock in object tracking. The tracking is also imperfect and hard to lock on.&lt;/p&gt;
+
+&lt;p&gt;The panorama features also didn’t work in flight. The Pocket 2, for some reason, switched direction 180 degrees when asked to perform a panorama. It then complained about the handle moving and failed to generate a complete panorama.&lt;/p&gt;
+
+&lt;p&gt;Overall, The Pocket 2 can make a great rig for casual aerial photography. Without a heading lock, however, it isn’t a good option for orthophotography and is only mediocre at aerial video.&lt;/p&gt;
+
+&lt;h2 id=&quot;flight-photos&quot;&gt;Flight photos&lt;/h2&gt;
+
+&lt;p&gt;I mostly have fooled around with the device, and don’t have any great footage or photos to share yet– the battery life of my phone being a major limiting factor here.&lt;/p&gt;
+
+&lt;p&gt;The old Milwaukee water tower and view south, Milwaukee, WI. Video Still.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/pocket/DJI_0009 194.jpg&quot; alt=&quot;The old Milwaukee water tower and view south, Milwaukee, WI. Video Still.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Prepping a picavet using my bicycle as the frame.
+&lt;img src=&quot;/assets/images/aerials/pocket/20210425_135300-sm.jpg&quot; alt=&quot;prepping a picavet using my bicycle as the frame.&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="rigs" /><category term="kites" /><category term="airpup" /><category term="kap" /><summary type="html">I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.</summary></entry><entry><title type="html">Airpup production patterns</title><link href="https://headfullofair.com/post/airpup-production-plans/" rel="alternate" type="text/html" title="Airpup production patterns" /><published>2021-04-07T00:00:00-05:00</published><updated>2021-04-07T00:00:00-05:00</updated><id>https://headfullofair.com/post/airpup-production-plans</id><content type="html" xml:base="https://headfullofair.com/post/airpup-production-plans/">&lt;p&gt;Final plans for the production Airpup design are now &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon/&quot;&gt;available on Github&lt;/a&gt;, released as open hardware under the &lt;a href=&quot;https://cern-ohl.web.cern.ch/home&quot;&gt;CERN Open Hardware Licence&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;While assembly instructions are included in the Github repository, I’ve also repeated them here. The header image shows how to seal the envelope as a three-part flat pattern. Sewing instructions are below:&lt;/p&gt;
 
@@ -138,14 +375,14 @@
   &lt;li&gt;
     &lt;p&gt;Tape Gluing Patches in place, sew into location.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="github" /><category term="airpup" /><summary type="html">Final plans for the production Airpup design are now available on Github, released as open hardware under the CERN Open Hardware Licence.</summary></entry><entry><title type="html">Helium Supplier Map Built on uMap &amp;amp; OSM</title><link href="https://headfullofair.com/post/helium-supplier-map/" rel="alternate" type="text/html" title="Helium Supplier Map Built on uMap &amp; OSM" /><published>2021-03-05T00:00:00-08:00</published><updated>2021-03-05T00:00:00-08:00</updated><id>https://headfullofair.com/post/helium-supplier-map</id><content type="html" xml:base="https://headfullofair.com/post/helium-supplier-map/">&lt;p&gt;With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="github" /><category term="airpup" /><summary type="html">Final plans for the production Airpup design are now available on Github, released as open hardware under the CERN Open Hardware Licence.</summary></entry><entry><title type="html">Helium Supplier Map Built on uMap &amp;amp; OSM</title><link href="https://headfullofair.com/post/helium-supplier-map/" rel="alternate" type="text/html" title="Helium Supplier Map Built on uMap &amp; OSM" /><published>2021-03-05T00:00:00-06:00</published><updated>2021-03-05T00:00:00-06:00</updated><id>https://headfullofair.com/post/helium-supplier-map</id><content type="html" xml:base="https://headfullofair.com/post/helium-supplier-map/">&lt;p&gt;With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.&lt;/p&gt;
 
 &lt;p&gt;If you find a helium supplier that is not on my &lt;a href=&quot;https://umap.openstreetmap.fr/en/map/helium-suppliers_259236#4/40.88/-81.62&quot;&gt;Helium Map&lt;/a&gt; (embedded below), please add one to &lt;a href=&quot;https://github.com/mathewlippincott/helium-map&quot;&gt;the Github repository&lt;/a&gt; or &lt;a href=&quot;/contact&quot;&gt;contact me&lt;/a&gt; with the info.&lt;/p&gt;
 
 &lt;p&gt;This map is built using &lt;a href=&quot;http://umap.openstreetmap.fr/en/&quot;&gt;uMap&lt;/a&gt;, a free and open source tool built on &lt;a href=&quot;https://www.openstreetmap.org/#map=4/38.01/-95.84&quot;&gt;OpenStreetMap&lt;/a&gt;. I’m rather fond of it. It allows you to pick a tile layer and even customize the look of the arrows, as I did on this &lt;a href=&quot;https://umap.openstreetmap.fr/en/map/futel-service-map_551231#4/42.46/-101.41&quot;&gt;service map&lt;/a&gt; for &lt;a href=&quot;https://futel.net/&quot;&gt;Futel&lt;/a&gt;. In addition to the web management interface, all the entries can be stored in and updated by from a CSV file, allowing version control.&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;300px&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; src=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236?scaleControl=false&amp;amp;miniMap=false&amp;amp;scrollWheelZoom=false&amp;amp;zoomControl=true&amp;amp;allowEdit=false&amp;amp;moreControl=true&amp;amp;searchControl=null&amp;amp;tilelayersControl=null&amp;amp;embedControl=null&amp;amp;datalayersControl=true&amp;amp;onLoadPanel=undefined&amp;amp;captionBar=false&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236&quot;&gt;See full screen&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="helium" /><category term="mapping" /><category term="airpup" /><summary type="html">With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.</summary></entry><entry><title type="html">Airpup production prototype: studio update</title><link href="https://headfullofair.com/post/Airpup-production-video/" rel="alternate" type="text/html" title="Airpup production prototype: studio update" /><published>2019-11-11T00:00:00-08:00</published><updated>2019-11-11T00:00:00-08:00</updated><id>https://headfullofair.com/post/Airpup-production-video</id><content type="html" xml:base="https://headfullofair.com/post/Airpup-production-video/">&lt;p&gt;After a variety of delays, detailed in my previous &lt;a href=&quot;/tags/studio-update/&quot;&gt;studio update videos&lt;/a&gt;, I’ve finally finished the production prototype of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt; and have done a solid test flight.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236&quot;&gt;See full screen&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="helium" /><category term="mapping" /><category term="airpup" /><summary type="html">With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.</summary></entry><entry><title type="html">Airpup production prototype: studio update</title><link href="https://headfullofair.com/post/Airpup-production-video/" rel="alternate" type="text/html" title="Airpup production prototype: studio update" /><published>2019-11-11T00:00:00-06:00</published><updated>2019-11-11T00:00:00-06:00</updated><id>https://headfullofair.com/post/Airpup-production-video</id><content type="html" xml:base="https://headfullofair.com/post/Airpup-production-video/">&lt;p&gt;After a variety of delays, detailed in my previous &lt;a href=&quot;/tags/studio-update/&quot;&gt;studio update videos&lt;/a&gt;, I’ve finally finished the production prototype of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt; and have done a solid test flight.&lt;/p&gt;
 
 &lt;p&gt;My studio update:&lt;/p&gt;
 
@@ -155,7 +392,7 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/T3OeqqcOwRE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;The glistening threads are &lt;a href=&quot;https://en.wikipedia.org/wiki/Ballooning_(spider)&quot;&gt;ballooning spiders&lt;/a&gt; whose migration was cut short by my kite line. My sincerest apologies to these awesome arachnids.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="kite balloons" /><category term="airpup" /><category term="studio-update" /><summary type="html">After a variety of delays, detailed in my previous studio update videos, I’ve finally finished the production prototype of Airpup and have done a solid test flight.</summary></entry><entry><title type="html">run of flat winders &amp;amp; illustrated instructions</title><link href="https://headfullofair.com/post/flat-line-winder-run/" rel="alternate" type="text/html" title="run of flat winders &amp; illustrated instructions" /><published>2019-07-28T00:00:00-07:00</published><updated>2019-07-28T00:00:00-07:00</updated><id>https://headfullofair.com/post/flat-line-winder-run</id><content type="html" xml:base="https://headfullofair.com/post/flat-line-winder-run/">&lt;p&gt;I did a production run of 30 flat winders based on &lt;a href=&quot;http://www.headfullofair.com/tags/flat-winder/&quot;&gt;my design from last spring&lt;/a&gt;, and also illustrated some instructions.&lt;/p&gt;
+&lt;p&gt;The glistening threads are &lt;a href=&quot;https://en.wikipedia.org/wiki/Ballooning_(spider)&quot;&gt;ballooning spiders&lt;/a&gt; whose migration was cut short by my kite line. My sincerest apologies to these awesome arachnids.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="kite balloons" /><category term="airpup" /><category term="studio-update" /><summary type="html">After a variety of delays, detailed in my previous studio update videos, I’ve finally finished the production prototype of Airpup and have done a solid test flight.</summary></entry><entry><title type="html">run of flat winders &amp;amp; illustrated instructions</title><link href="https://headfullofair.com/post/flat-line-winder-run/" rel="alternate" type="text/html" title="run of flat winders &amp; illustrated instructions" /><published>2019-07-28T00:00:00-05:00</published><updated>2019-07-28T00:00:00-05:00</updated><id>https://headfullofair.com/post/flat-line-winder-run</id><content type="html" xml:base="https://headfullofair.com/post/flat-line-winder-run/">&lt;p&gt;I did a production run of 30 flat winders based on &lt;a href=&quot;http://www.headfullofair.com/tags/flat-winder/&quot;&gt;my design from last spring&lt;/a&gt;, and also illustrated some instructions.&lt;/p&gt;
 
 &lt;p&gt;The winders were cut on a CNC mill with a 1/8” bevel on both sides.&lt;/p&gt;
 
@@ -179,7 +416,7 @@
 
 &lt;p&gt;All contributors are asked to abide by the &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder/codeofconduct.md&quot;&gt;code of conduct&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Licensed under the &lt;a href=&quot;LICENSE.md&quot;&gt;CERN OHL 1.2&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="rigs" /><category term="flat-winder" /><category term="winder" /><summary type="html">I did a production run of 30 flat winders based on my design from last spring, and also illustrated some instructions.</summary></entry><entry><title type="html">new video: studio updates on Airpup Construction</title><link href="https://headfullofair.com/post/studio-update-videos/" rel="alternate" type="text/html" title="new video: studio updates on Airpup Construction" /><published>2019-05-19T00:00:00-07:00</published><updated>2019-05-19T00:00:00-07:00</updated><id>https://headfullofair.com/post/studio-update-videos</id><content type="html" xml:base="https://headfullofair.com/post/studio-update-videos/">&lt;p&gt;I’ve begun creating a series of video-based &lt;a href=&quot;/tags/studio-update&quot;&gt;studio updates&lt;/a&gt; using my standard definition video mixer. They’re quick and easy to make, and let me document my production of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Licensed under the &lt;a href=&quot;LICENSE.md&quot;&gt;CERN OHL 1.2&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="rigs" /><category term="flat-winder" /><category term="winder" /><summary type="html">I did a production run of 30 flat winders based on my design from last spring, and also illustrated some instructions.</summary></entry><entry><title type="html">new video: studio updates on Airpup Construction</title><link href="https://headfullofair.com/post/studio-update-videos/" rel="alternate" type="text/html" title="new video: studio updates on Airpup Construction" /><published>2019-05-19T00:00:00-05:00</published><updated>2019-05-19T00:00:00-05:00</updated><id>https://headfullofair.com/post/studio-update-videos</id><content type="html" xml:base="https://headfullofair.com/post/studio-update-videos/">&lt;p&gt;I’ve begun creating a series of video-based &lt;a href=&quot;/tags/studio-update&quot;&gt;studio updates&lt;/a&gt; using my standard definition video mixer. They’re quick and easy to make, and let me document my production of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here are the first four:&lt;/p&gt;
 
@@ -189,7 +426,7 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/7_j9oOl5f6k?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/gwQZwM9mO6w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><category term="video" /><category term="studio-update" /><summary type="html">I’ve begun creating a series of video-based studio updates using my standard definition video mixer. They’re quick and easy to make, and let me document my production of Airpup.</summary></entry><entry><title type="html">Putting a face to a name: the Airpup mascot</title><link href="https://headfullofair.com/post/airpup-mascot/" rel="alternate" type="text/html" title="Putting a face to a name: the Airpup mascot" /><published>2018-11-15T00:00:00-08:00</published><updated>2018-11-15T00:00:00-08:00</updated><id>https://headfullofair.com/post/airpup-mascot</id><content type="html" xml:base="https://headfullofair.com/post/airpup-mascot/">&lt;p&gt;I want &lt;a href=&quot;tags/airpup&quot;&gt;Airpup&lt;/a&gt; to be fun and social, and worked with &lt;a href=&quot;https://www.patreon.com/justinnichol&quot;&gt;Justin Nichol&lt;/a&gt; to create a character that not only represents Airpup, but could be drawn directly on the balloon.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/gwQZwM9mO6w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><category term="video" /><category term="studio-update" /><summary type="html">I’ve begun creating a series of video-based studio updates using my standard definition video mixer. They’re quick and easy to make, and let me document my production of Airpup.</summary></entry><entry><title type="html">Putting a face to a name: the Airpup mascot</title><link href="https://headfullofair.com/post/airpup-mascot/" rel="alternate" type="text/html" title="Putting a face to a name: the Airpup mascot" /><published>2018-11-15T00:00:00-06:00</published><updated>2018-11-15T00:00:00-06:00</updated><id>https://headfullofair.com/post/airpup-mascot</id><content type="html" xml:base="https://headfullofair.com/post/airpup-mascot/">&lt;p&gt;I want &lt;a href=&quot;tags/airpup&quot;&gt;Airpup&lt;/a&gt; to be fun and social, and worked with &lt;a href=&quot;https://www.patreon.com/justinnichol&quot;&gt;Justin Nichol&lt;/a&gt; to create a character that not only represents Airpup, but could be drawn directly on the balloon.&lt;/p&gt;
 
 &lt;h5 id=&quot;back-airpup-on-crowd-supply&quot;&gt;&lt;em&gt;Back Airpup on &lt;a href=&quot;https://www.crowdsupply.com/head-full-of-air/airpup&quot;&gt;Crowd Supply&lt;/a&gt;.&lt;/em&gt;&lt;/h5&gt;
 
@@ -211,11 +448,11 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-stjohns2.jpg&quot; alt=&quot;Airpup mascot by Justin Nichol in flight by the St. Johns Bridge in Portland, OR&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Airpup in-flight photos by Colleen Donaldson&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><summary type="html">I want Airpup to be fun and social, and worked with Justin Nichol to create a character that not only represents Airpup, but could be drawn directly on the balloon.</summary></entry><entry><title type="html">Flying signs: kite banners</title><link href="https://headfullofair.com/post/kite-banners/" rel="alternate" type="text/html" title="Flying signs: kite banners" /><published>2018-11-03T00:00:00-07:00</published><updated>2018-11-03T00:00:00-07:00</updated><id>https://headfullofair.com/post/kite-banners</id><content type="html" xml:base="https://headfullofair.com/post/kite-banners/">&lt;p&gt;Over the past year I’ve been making kite banners for slogans.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Airpup in-flight photos by Colleen Donaldson&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><summary type="html">I want Airpup to be fun and social, and worked with Justin Nichol to create a character that not only represents Airpup, but could be drawn directly on the balloon.</summary></entry><entry><title type="html">Flying signs: kite banners</title><link href="https://headfullofair.com/post/kite-banners/" rel="alternate" type="text/html" title="Flying signs: kite banners" /><published>2018-11-03T00:00:00-05:00</published><updated>2018-11-03T00:00:00-05:00</updated><id>https://headfullofair.com/post/kite-banners</id><content type="html" xml:base="https://headfullofair.com/post/kite-banners/">&lt;p&gt;Over the past year I’ve been making kite banners for slogans.&lt;/p&gt;
 
-&lt;p&gt;I’ve had some success on large reinforced paper flags about a 3’ (1m) high. I like the speed and simplicity of paper, but may use fabric made to the same pattern. See &lt;em&gt;choosing materials&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I’ve had some success on large reinforced paper flags about a 3 feet (1m) high (see &lt;a href=&quot;/post/making-a-paper-banner&quot;&gt;step-by-step tutorial&lt;/a&gt;). I like the speed and simplicity of paper, but may use fabric made to the same pattern. See &lt;em&gt;choosing materials&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;This 36” 12’ banner weighs 12 oz (340g) without carabiners, and just over a pound (467g) with all of its attachments. It can easily be lifted in 8-10mph winds by a large kite like my 9’ &lt;a href=&quot;https://intothewind.com/Item--i-3610&quot;&gt;Levitation Delta Light&lt;/a&gt; with a &lt;a href=&quot;https://www.gkites.com/store/&quot;&gt;fuzzy tail&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This 36-inch x 12-foot banner weighs 12 oz (340g) without carabiners, and just over a pound (467g) with all of its attachments. It can easily be lifted in 8-10mph winds by a large kite like my 9 foot &lt;a href=&quot;https://intothewind.com/Item--i-3610&quot;&gt;Levitation Delta Light&lt;/a&gt; with a &lt;a href=&quot;https://www.gkites.com/store/&quot;&gt;fuzzy tail&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/banner/P2370475.jpg&quot; alt=&quot;Evict ICE photo by Nim Wunnan&quot; /&gt;&lt;/p&gt;
 
@@ -229,7 +466,7 @@
 
 &lt;p&gt;When winds are out of the N/NW I can fly from Fields Park In NW Portland and be visible from Route 405 at the Fremont Bridge on-ramp.&lt;/p&gt;
 
-&lt;p&gt;To be readable from 1200’ letters must be 30” high and either black or red on white, and not fluttering.&lt;/p&gt;
+&lt;p&gt;To be readable from 1200 feet letters must be 30 inches high and either black or red on white, and not fluttering.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/banner/letter_visibility_chart.jpg&quot; alt=&quot;where did I even get this chart?&quot; /&gt;&lt;/p&gt;
 
@@ -276,7 +513,7 @@
     
   
     
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370300-all.jpg&quot; title=&quot;Which War? After I repaired the banner with tyvek triangles at each side. Original banner made with Jayne Meacham's help. Slogan represents ambivalence and confusion over a lifetime of expanding war. Photo Jayne Meacham.Photo Jayne Meacham.&quot;&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370300-all.jpg&quot; title=&quot;Which War? After I repaired the banner with tyvek triangles at each side. Original banner made with Jayne Meacham's help. Slogan represents ambivalence and confusion over a lifetime of expanding war. Photo Jayne Meacham.&quot;&gt;
         &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370300-all_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
@@ -379,102 +616,4 @@ Abb.53 The four-point balance: the mast edge aligns itself with two long cords a
     
   
   
-&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="banners" /><category term="rigs" /><summary type="html">Over the past year I’ve been making kite banners for slogans.</summary></entry><entry><title type="html">Event videography with Airpup</title><link href="https://headfullofair.com/post/event-videography-with-airpup/" rel="alternate" type="text/html" title="Event videography with Airpup" /><published>2018-11-02T00:00:00-07:00</published><updated>2018-11-02T00:00:00-07:00</updated><id>https://headfullofair.com/post/event-videography-with-airpup</id><content type="html" xml:base="https://headfullofair.com/post/event-videography-with-airpup/">&lt;p&gt;Flying Airpup at events is fun and garners a warm response. People notice Airpup and smile, then go back to what they were doing. The curious follow Airpup’s tether back to me and ask questions.  Airpup’s slow, silent flight doesn’t alarm or interrupt event goers, allowing me to capture a scene without making one.&lt;/p&gt;
-
-&lt;p&gt;I’ve flown at four events. Each one gave a different context to test Airpup. Airpup follows along, pointing halfway between the direction of travel and the wind:&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/298232747&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;At Thrill the World, dozens of amateur dancers recreated Michael Jackson’s Thriller under a covered basket ball court with a 15’ ceiling. I was able to achieve crane-like camera movements in close proximity to the dancers:&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/297638927&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;At the Lincoln City Kite Festival winds were 12-18mph. Airpup was rock solid and easy to maneuver around closely packed kites and kite lines. Wind overwhelmed the audio, but the video was very steady:&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/298245586&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;A calm fall day in a pumpkin patch was just about ideal for maneuvering Airpup around at low altitude over &lt;a href=&quot;https://www.oregonheritagefarms.com&quot;&gt;Oregon Heritage Farms&lt;/a&gt;. Airpup blends right in, garnering some curiousity without interrupting anyone:&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/298253975&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;At the Portland Mini Maker Faire, I was on the waterfront, flying with 7-10mph gusts of wind coming through a turbulent obstacle course of buildings and highways. Despite the adverse conditions, Airpup was stable enough moving into the wind to capture overflights moving North to South:&lt;/p&gt;
-
-&lt;iframe src=&quot;https://player.vimeo.com/video/290589266&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Flying Airpup at events is fun and garners a warm response. People notice Airpup and smile, then go back to what they were doing. The curious follow Airpup’s tether back to me and ask questions. Airpup’s slow, silent flight doesn’t alarm or interrupt event goers, allowing me to capture a scene without making one.</summary></entry><entry><title type="html">Airpup repository on Github</title><link href="https://headfullofair.com/post/airpup-repo/" rel="alternate" type="text/html" title="Airpup repository on Github" /><published>2018-10-31T00:00:00-07:00</published><updated>2018-10-31T00:00:00-07:00</updated><id>https://headfullofair.com/post/airpup-repo</id><content type="html" xml:base="https://headfullofair.com/post/airpup-repo/">&lt;p&gt;On Github you’ll find &lt;a href=&quot;https://headfullofair.com/tags/airpup&quot;&gt;Airpup&lt;/a&gt;’s &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon&quot;&gt;repository&lt;/a&gt; of 2D patterns for construction as well as a corresponding 3D model.&lt;/p&gt;
-
-&lt;p&gt;2D patterns are made with &lt;a href=&quot;https://qcad.org&quot;&gt;QCAD&lt;/a&gt;, the 3D model was made in Audodesk’s Fusion 360. Aipup is licensed under the &lt;a href=&quot;https://www.ohwr.org/projects/cernohl/wiki&quot;&gt;CERN OHL&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h5 id=&quot;back-airpup-on-crowd-supply&quot;&gt;&lt;em&gt;Back Airpup on &lt;a href=&quot;https://www.crowdsupply.com/head-full-of-air/airpup&quot;&gt;Crowd Supply&lt;/a&gt;.&lt;/em&gt;&lt;/h5&gt;
-
-&lt;p&gt;Inside the repository you’ll find Airpup’s belly mounts and some assembly diagrams:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/round-belly-rails-noted.png&quot; alt=&quot;The belly mount has a sliding rail system&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-config-wide.jpg&quot; alt=&quot;the rails allow quick weight adjustment&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Folding pattern for airpup’s envelope:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/middle-panel-fold-simple.png&quot; alt=&quot;pattern fold&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">On Github you’ll find Airpup’s repository of 2D patterns for construction as well as a corresponding 3D model.</summary></entry><entry><title type="html">What is a kite balloon?</title><link href="https://headfullofair.com/post/what-is-a-kite-balloon/" rel="alternate" type="text/html" title="What is a kite balloon?" /><published>2018-10-23T00:00:00-07:00</published><updated>2018-10-23T00:00:00-07:00</updated><id>https://headfullofair.com/post/what-is-a-kite-balloon</id><content type="html" xml:base="https://headfullofair.com/post/what-is-a-kite-balloon/">&lt;p&gt;Kite balloons are balloons that fly like kites, and they were the first reliable way to fly and land in the same place.&lt;/p&gt;
-
-&lt;p&gt;The first kite balloons were sausage-shaped and inspired jokes, one of which potentially &lt;a href=&quot;https://blog.oxforddictionaries.com/2017/10/03/what-in-the-word-blimp/&quot;&gt;led to the term ‘blimp.’&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/Frits-van-der-veldt-belgian-army-kite-balloon-postcard-BA-RE-01.jpg&quot; alt=&quot;A Belgian version of the Parseval-Sigsfeld kite balloon common at the start of WWI. 1914 or 1915, private collection of Frits Van Der Veldt&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Invented a decade before airplanes, kite balloons continue to be valued for their simpicity and endurance.  Do you need a &lt;a href=&quot;http://www.theblimpworks.com/product/blimps/&quot;&gt;flying advertisement&lt;/a&gt; or a &lt;a href=&quot;https://www.theverge.com/2017/10/11/16457744/ee-4g-lte-balloon&quot;&gt;temporary&lt;/a&gt; &lt;a href=&quot;http://www.altaeros.com/telecom.html&quot;&gt;cell tower&lt;/a&gt;? Are you monitoring the path of &lt;a href=&quot;https://www.headfullofair.com/post/Aeroclipper/&quot;&gt;a typhoon&lt;/a&gt;? Measuring &lt;a href=&quot;https://www.climatecityoperator.com/climate-birds/&quot;&gt;greenhouse gas emissions&lt;/a&gt; or &lt;a href=&quot;https://www.metoffice.gov.uk/research/foundation/observational-studies/boundary-layer&quot;&gt;boundary layer weather&lt;/a&gt;? A kite balloon might be the right choice.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/1928-2010kiteballoons-1.jpg&quot; alt=&quot;1928-2010, very little has changed&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Although they’re now called tethered aerostats and made from plastics instead of rubberized silk, most of today’s kite balloons are nearly identical to those flown in the 1920’s. All that changes is the name: barrage balloon, kytoon, tethered aerostat, tethered UAS, and myriad others have been used to update the same idea.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/gp_aeroclipper-vasco-2.jpg&quot; alt=&quot;CNES Aeroclipper balloon preparing to chase down a typhoon in the pacific&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;beyond-the-tethered-blimp&quot;&gt;Beyond the Tethered Blimp&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.photolib.noaa.gov/htmls/theb2769.htm&quot;&gt;&lt;img src=&quot;/assets/images/kiteballoons/theb2769.jpg&quot; alt=&quot;NOAA Dart balloon, 1967 collection of the family of Vice Admiral H. Arnold Karo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Two goals led to new kite balloon designs in the 20th century. The demand for small kite balloons and attempts to fly to altitudes above 15,000 ft.&lt;/p&gt;
-
-&lt;p&gt;In the 1960’s Goodyear’s Vee balloons were designed to fly as a train of multiple balloons on the same cable, all the way up to 100,000ft. Tests by &lt;a href=&quot;https://publiclab.org/sites/default/files/Menke%20-%201967%20-%20High-Altitude%20Tethered%20Balloon%20Systems%20Study.pdf&quot;&gt;James Menke&lt;/a&gt; proved that 1960’s cable technology wasn’t up to the task, and &lt;a href=&quot;https://foresthistory.org/envira/logging-yarding-aerial/&quot;&gt;experimental use in balloon logging&lt;/a&gt; was abandoned as the lumber industry entered troubling times in the 1970’s.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/Bohemia-logging-goodyear-v-FHS6141.jpg&quot; alt=&quot;Forest History Society image from Bohemia Logging, using a Goodyear Vee balloon, 1960's.&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Domina Jalbert experimented with flying small radios on his Kytoons in the 1940’s-1960’s, and Goodyear made smaller, less successful versons of the Vee balloon called &lt;a href=&quot;https://www.photolib.noaa.gov/htmls/theb2769.htm&quot;&gt;the Dart&lt;/a&gt;, but neither found regular customers in an era of heavy payloads.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.drachen.org/collections/kytoons/&quot;&gt;&lt;img src=&quot;/assets/images/kiteballoons/DJ081.jpg&quot; alt=&quot;Jalbert Kytoon, Drachen foundation collection&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Since the 1990’s, miniaturized electronics have driven demand for smaller kite balloons. Because volume contracts exponentially as an object gets smaller, kite balloon designs other than the tethered blimp shape are often used.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://www.rt.co.il/skystar-300&quot;&gt;SkyStar&lt;/a&gt; balloon has had contemporary success by reworking a stabilization strategy from the 19th century &lt;a href=&quot;https://publiclab.org/notes/mathew/4-13-2012/arthur-w-mears-kite-balloon-archetype-kingfisher-skystar&quot;&gt;updated by Arthur Mears&lt;/a&gt;— hanging a mesh below a balloon.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/wasp-aerostat-airships-past-and-present-40.jpg&quot; alt=&quot;Image from page 40 of Airships Past and Present: 1908, Army Wasp Aerostat, image: US army&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://allsopphelikites.com&quot;&gt;Allsopp Helikite&lt;/a&gt; uses the same ‘oblate spheriod’ balloon shape as the Sky Star joined to a traditional diamond kite shape, and is the smallest contemporary kite balloon.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://coastguard.dodlive.mil/2018/09/research-development-test-and-evaluation-spotlight-arctic-technology-evaluation-2018/&quot;&gt;&lt;img src=&quot;/assets/images/kiteballoons/Arctic-tech-eval-uscoastguard-Coast-Guard-Alexandra-Swan.jpg&quot; alt=&quot;Arctic Technology Evaluation, US Coast Guard. Image Alexandra Swan&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;My own design, &lt;a href=&quot;https://headfullofair.com/tags/airpup&quot;&gt;Airpup&lt;/a&gt;, is the first new kite balloon in 25 years. My goal was to shift payload attachment from dangling strings up to the balloon’s belly. My goal is a balloon as small as a Helikite, but easier to rig and fly.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/P2390640-crop.jpg&quot; alt=&quot;Airpup in flight&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With the advent of extremely small sensors, networking gear, and cameras, I believe there is a bright future for more small kite balloons. Just as airplanes never replaced the simplicity and endurance of kite balloons, small kite balloons will continue to complement drones.&lt;/p&gt;
-
-&lt;h2 id=&quot;historical-images&quot;&gt;Historical images&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/wea04929-1969-Albert-E-Theberge-NOAA-Corps.jpg&quot; alt=&quot;NOAA, 1969. image Albert E Theberge&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;During WWII, barrage balloons became an iconic feature of trans-Atlantic convoys and the British landscape, dangling cables to foul dive bombers.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/Barrage_balloons_over_London_during_World_War_II-RAF.jpg&quot; alt=&quot;RAF image of London, 1945&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;RAF pararoopers practice jumping from a Caquot Type M kite balloon in 1984– 68 years after its invention.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/a-paratrooper-jumps-from-a-platform-suspended-under-a-balloon-members-of-the-82ndairborne-02061984-Jon-E-Long.jpg&quot; alt=&quot;Photo by John E. Long, RAF 1984&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In 1904 Kite balloons were first used in combat during the Russo-Japanese War. The Russians had limited experience and deployed both an early Parseval-type design and a spherical balloon. The Japanese used a kite balloon &lt;a href=&quot;https://www.fai.org/sites/default/files/documents/cia-hof-yamada-isaburo.pdf&quot;&gt;designed by Isaburo Yamada&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/airship-blimp-japan-yamada-siki-kite-balloon_jpg_project-body.jpg&quot; alt=&quot;Isaburo Yamada kite balloon&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/russian-baloon-in-the-battle-of-liaoyang-1_jpg_project-body.jpg&quot; alt=&quot;Russian balloon at the battle of Liaoyang&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/kiteballoons/russian-baloon-in-the-battle-of-liaoyang-3_jpg_project-body.jpg&quot; alt=&quot;Russian balloon at the battle of Liaoyang&quot; /&gt;)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Header image: CC-BY Bob Harvey, image of a small Goodyear blimp replica kite balloon.&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="kite balloons" /><category term="balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Kite balloons are balloons that fly like kites, and they were the first reliable way to fly and land in the same place.</summary></entry></feed>
+&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="banners" /><category term="rigs" /><summary type="html">Over the past year I’ve been making kite banners for slogans.</summary></entry></feed>

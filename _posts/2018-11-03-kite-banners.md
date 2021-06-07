@@ -25,7 +25,7 @@ gallery:
 
  - url: ../assets/images/banner/P2370300-all.jpg
    image_path: ../assets/images/banner/P2370300-all_1.jpg
-   title: "Which War? After I repaired the banner with tyvek triangles at each side. Original banner made with Jayne Meacham's help. Slogan represents ambivalence and confusion over a lifetime of expanding war. Photo Jayne Meacham.Photo Jayne Meacham."
+   title: "Which War? After I repaired the banner with tyvek triangles at each side. Original banner made with Jayne Meacham's help. Slogan represents ambivalence and confusion over a lifetime of expanding war. Photo Jayne Meacham."
    
    
    
@@ -119,10 +119,10 @@ gallery:
 
 Over the past year I've been making kite banners for slogans.
 
- I've had some success on large reinforced paper flags about a 3' (1m) high. I like the speed and simplicity of paper, but may use fabric made to the same pattern. See *choosing materials*.
+ I've had some success on large reinforced paper flags about a 3 feet (1m) high (see [step-by-step tutorial](/post/making-a-paper-banner)). I like the speed and simplicity of paper, but may use fabric made to the same pattern. See *choosing materials*.
 
 
-This 36" 12' banner weighs 12 oz (340g) without carabiners, and just over a pound (467g) with all of its attachments. It can easily be lifted in 8-10mph winds by a large kite like my 9' [Levitation Delta Light](https://intothewind.com/Item--i-3610) with a [fuzzy tail](https://www.gkites.com/store/). 
+This 36-inch x 12-foot banner weighs 12 oz (340g) without carabiners, and just over a pound (467g) with all of its attachments. It can easily be lifted in 8-10mph winds by a large kite like my 9 foot [Levitation Delta Light](https://intothewind.com/Item--i-3610) with a [fuzzy tail](https://www.gkites.com/store/). 
 
 
 ![Evict ICE photo by Nim Wunnan](/assets/images/banner/P2370475.jpg)
@@ -138,7 +138,7 @@ A friend spotted this sign from 6 blocks away and said it was clearly readable, 
 
 When winds are out of the N/NW I can fly from Fields Park In NW Portland and be visible from Route 405 at the Fremont Bridge on-ramp.
 
-To be readable from 1200' letters must be 30" high and either black or red on white, and not fluttering.
+To be readable from 1200 feet letters must be 30 inches high and either black or red on white, and not fluttering.
 
 ![where did I even get this chart?](/assets/images/banner/letter_visibility_chart.jpg)
 
