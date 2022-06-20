@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2021-05-07T20:32:07-05:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">bigger kite banners</title><link href="https://headfullofair.com/post/tulle-kite-banners/" rel="alternate" type="text/html" title="bigger kite banners" /><published>2021-05-07T00:00:00-05:00</published><updated>2021-05-07T00:00:00-05:00</updated><id>https://headfullofair.com/post/tulle-kite-banners</id><content type="html" xml:base="https://headfullofair.com/post/tulle-kite-banners/">&lt;p&gt;This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2022-06-19T13:21:07-05:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">sailing the sky: endless gliding takes shape</title><link href="https://headfullofair.com/post/sailing-the-sky/" rel="alternate" type="text/html" title="sailing the sky: endless gliding takes shape" /><published>2022-06-19T00:00:00-05:00</published><updated>2022-06-19T00:00:00-05:00</updated><id>https://headfullofair.com/post/sailing-the-sky</id><content type="html" xml:base="https://headfullofair.com/post/sailing-the-sky/">&lt;p&gt;While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post.&lt;/p&gt;
+
+&lt;h2 id=&quot;boats-get-new-wings&quot;&gt;boats get new wings&lt;/h2&gt;
+&lt;p&gt;Ocean sailing has experienced a recent infusion of soaring technology, as parawings developed for soaring have been adapted to kiteboats and kite foiling.  Experimental sailcraft and aircraft suggest that soaring may benefit from ocean sailing strategies.&lt;/p&gt;
+
+&lt;p&gt;A sailing vessel generates its motion through the difference in speed between two fluids — air and water.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/Voilier-width-800.jpg&quot; alt=&quot;sailboat illustrated by the Syroco project&quot; /&gt;
+&lt;em&gt;Image: &lt;a href=&quot;https://syro.co/en/news/laile-deau-and-the-weightless-yacht-concept/&quot;&gt;Syroco&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A traditional sailboat uses its mass to stabilize itself, but more recent techniques, such as kite foiling, reduce the sailing system to two wings, one in the air and the other in water.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/Kitefoil.jpg&quot; alt=&quot;kitefoil&quot; /&gt;
+&lt;em&gt;Image: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Kitefoil.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Parawing designer Luc Armant’s &lt;em&gt;l’aile d’eau&lt;/em&gt; (water-wing) concept (&lt;a href=&quot;http://www.augredelair.fr/wp-content/uploads/2015/01/luc_armant_ailedeau.pdf&quot;&gt;PDF link in French&lt;/a&gt;) aligns the forces of the wings in the water (hydrofoil) and air (aerofoil) to garner even greater efficiency. &lt;sup&gt;[1]&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/Speedcraft-width-800.jpg&quot; alt=&quot;l'aile d'eau concept illustrated by the Syroco project&quot; /&gt;
+&lt;em&gt;Image: &lt;a href=&quot;https://syro.co/en/news/laile-deau-and-the-weightless-yacht-concept/&quot;&gt;Syroco&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Armant’s ambitions are now reaching full-size through the &lt;a href=&quot;https://syro.co/en/&quot;&gt;Syroco&lt;/a&gt; project, which aims to break 150kph in a sailing vessel by implementing the &lt;em&gt;l’aile d’eau&lt;/em&gt; concept. Armant is an advisor to Syroco.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/Blb2S6Ytngg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;sailing-between-winds&quot;&gt;sailing between winds&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/engblom_sail_board.jpg&quot; alt=&quot;Engblom's DAP vehicle concept from NIAC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What if, instead of the airfoil and hydrofoil of the &lt;em&gt;l’aile d’eau&lt;/em&gt; concept, two airfoils were used? The idea of sailing the sky with two airfoils connected by a cable long enough to bridge two different wind currents precedes the &lt;em&gt;l’aile d’eau&lt;/em&gt; in concept, if not in execution. Richard Miller, editor of &lt;em&gt;Soaring&lt;/em&gt; Magazine in the 1960s and a popularizer of hangliding, spread the concept and claimed to have experimented with it.&lt;sup&gt;[2]&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Regardless of the idea’s provenance, the dual airfoil concept has become the subject of serious inquiry by William Engblom and his team at Embry-Riddle through a series of NASA Innovative Advanced Concepts (NAIC) grants.&lt;sup&gt;[3]&lt;/sup&gt; Engblom’s Dual Aircraft Platform (DAP) is intended as an 
+“&lt;a href=&quot;https://en.wikipedia.org/wiki/Atmospheric_satellite&quot;&gt;atmospheric satellite&lt;/a&gt;,” a long-duration flying craft that can replace the functions of an orbital satellite.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/fidiDPaLWWw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;DAP can derive positive lift from any two winds with 10% or greater sheer, a condition that should be common enough to enable DAP to circle an area indefinitely (station-keeping).&lt;sup&gt;[4]&lt;/sup&gt; The DAP system, however, does not rely entirely on soaring — it uses wind sheer, when available, to spin its propellers and charge on-board batteries. When wind sheer is not available, the propellers are used to sustain flight.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/niac_engblom_phii.png&quot; alt=&quot;Engblom's DAP vehicle concept from NIAC, detail&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The DAP system hinges on its ability to calculate a flight path based on sensor data about air currents. I can’t find any reference to a specific sensor system in the DAP literature, but the use case appears similar to the &lt;a href=&quot;https://www.ball.com/aerospace/programs/earth-science-weather/oawl-wind-lidar&quot;&gt;Ball Aerospace Optical Autocovariance Wind Lidar (OAWL)&lt;/a&gt;. OAWL uses green (532nm) and/or UV (355nm) lasers to track the movement of water vapor and particles to infer wind speed. These sensors &lt;a href=&quot;https://www.technologyreview.com/2018/11/14/139092/darpa-is-testing-stratospheric-balloons-that-ride-the-wind-so-they-never-have-to-come-down/&quot;&gt;appear to be deployed&lt;/a&gt; for navigation on a series of &lt;a href=&quot;https://www.thedrive.com/the-war-zone/40638/what-we-know-about-the-high-tech-balloons-lingering-off-the-coasts-of-the-u-s-recently&quot;&gt;experimental US military balloon flights&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;DAP captures wind energy using kiting on a tether, giving it more in common with tethered &lt;a href=&quot;https://airbornewindeurope.org/about-airborne-wind-energy/&quot;&gt;airborne wind energy&lt;/a&gt; concepts than other aircraft. Indeed, Engblom states that the traditional glider shape of DAP was chosen to jumpstart prototyping, and a different platform was initially intended for study.&lt;sup&gt;[5]&lt;/sup&gt; Given the vast array of airborne wind energy concepts, the ideal DAP-style craft appears as-yet unknown.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/DOE-AWE.jpg&quot; alt=&quot;Figure 2. DOE. 2021. Challenges and Opportunities for Airborne Wind Energy in the United States. Report to Congress. Washington (DC): US Department of Energy.&quot; /&gt;
+&lt;em&gt;different airborne wind energy concepts (DOE 2021)&lt;sup&gt;[6]&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;future-developments&quot;&gt;future developments&lt;/h2&gt;
+
+&lt;p&gt;As I hinted in the header image of this post, I am most interested in whether this flight strategy can be applied to personal aircraft, especially foot-launched aircraft (hangliders and paragliders).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/sail-glider.jpg&quot; alt=&quot;Concept for paraglider sailing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Could a robotic kite on a tether be deployed while paragliding for long-distance sailing/soaring? The possibility is tantilizing, and much of the hardware appears near term: robotic kites are established technology (at least at the research level of airborne wind energy), and the sensors and computing hardware necessary to calculate the flight path can’t be far off, given that my phone has lidar and high-powered 532nm and 355nm laser diodes are commercially available at fairly low cost. Still, several crucial questions remain:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Does the flight space of ultralight aircraft (below 19,000 feet) include enough sheer winds?&lt;/li&gt;
+  &lt;li&gt;What sort of tether markings are required (flags, strobes, etc.), and is their drag acceptable?&lt;/li&gt;
+  &lt;li&gt;Are the simple wings of paragliders and hangliders efficient enough to exploit wind sheer?
+    &lt;ul&gt;
+      &lt;li&gt;Akimov and Polivanov&lt;sup&gt;[4]&lt;/sup&gt; claimed sustained flight was possible with 10% sheer but assumed a glide ratio of 40. A paraglider has a glide ratio of about 10 and the best hangliders have glide ratios of about 20.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What other issues do you see? &lt;a href=&quot;/contact&quot;&gt;Get in touch&lt;/a&gt;. I’ll add your comments to this post.&lt;/p&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;notes&lt;/h2&gt;
+
+&lt;p&gt;[1] Luc Armant &lt;a href=&quot;https://www.flyozone.com/paragliders/team/luc-armant&quot;&gt;is responsible for many refinements of modern parafoils&lt;/a&gt;. Armant has a &lt;a href=&quot;https://youtu.be/1tEw_mlUh7g&quot;&gt;charming video&lt;/a&gt; compiling his late 1990s &lt;em&gt;l’aile d’eau&lt;/em&gt; experments with small, unguided models that he chased across the water in a motorboat (it makes me wish I understood French).&lt;/p&gt;
+
+&lt;p&gt;[2] Richard Miller wrote about the dual airfoil concept in his influential 1967 book on glider experimentation, &lt;em&gt;&lt;a href=&quot;https://www.worldcat.org/title/without-visible-means-of-support/oclc/430247&quot;&gt;Without Visible Means of Support&lt;/a&gt;.&lt;/em&gt; Miller claimed that &lt;a href=&quot;https://en.wikipedia.org/wiki/Alois_Wolfm%C3%BCller&quot;&gt;Alois Wolfmüller&lt;/a&gt; experimented with a free-flying system of two kites in 1909, and that Miller himself replicated such tests (Miller 115). He also implies that Soviet experimenters used a similar system to slingshot a rigid-wing glider to record-breaking altitude in 1937, with a Fyodorov at the controls (Miller 43). I can find no confirmation for any of Miller’s claims.&lt;/p&gt;
+
+&lt;p&gt;[3] William Engblom’s team conducted a &lt;a href=&quot;https://www.nasa.gov/feature/virtual-flight-demonstration-of-stratospheric-dual-aircraft-platform/&quot;&gt;virtual flight simulation&lt;/a&gt;, &lt;a href=&quot;https://ntrs.nasa.gov/citations/20190001176&quot;&gt;tested of a single scaled model on a tether&lt;/a&gt; from the ground, and &lt;a href=&quot;https://arc.aiaa.org/doi/abs/10.2514/6.2018-3887&quot;&gt;designed a sailing path optimization algorithm&lt;/a&gt;. Engblom describes the system in-depth in &lt;a href=&quot;https://livestream.com/accounts/7167144/events/4425551/videos/103083420&quot;&gt;his talk at the 2015 NASA Innovative Advanced Concepts (NIAC) Conference&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[4] &lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1742-6596/1404/1/012075/meta&quot;&gt;A.M. Akimov and P.A. Polivanov. 2019. &lt;em&gt;Study of the Possibility of Steady Horizontal Flight of the Dual Aircraft Platform with the Wind Shear.&lt;/em&gt; Journal of Physics: Conference Series 1404 012075. Bristol: IOP Publishing Ltd.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5] The initial proposal for the DAP platform involved a tandem-wing aircraft that looks like a canard glider with extremely exaggerated canards. It is the subject of a graduate thesis:
+&lt;a href=&quot;https://commons.erau.edu/edt/104/&quot;&gt;McKee, Michael E. 2012. &lt;em&gt;Novel Airframe Design for the Dual-Aircraft Atmospheric Platform Flight Concept.&lt;/em&gt; Masters Thesis. Daytona Beach: Embry Riddle Aeronautical University.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6] DOE. 2021. &lt;em&gt;Challenges and Opportunities for Airborne Wind Energy in the United States.&lt;/em&gt; Report to Congress. Washington (DC): US Department of Energy. &lt;a href=&quot;https://airbornewindeurope.org/wp-content/uploads/2021/12/report-to-congress-challenges-opportunities-airborne-wind-energy-united-states.pdf&quot;&gt;&lt;em&gt;PDF link&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="aerocene" /><category term="kites" /><category term="gliding" /><summary type="html">While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post. boats get new wings Ocean sailing has experienced a recent infusion of soaring technology, as parawings developed for soaring have been adapted to kiteboats and kite foiling. Experimental sailcraft and aircraft suggest that soaring may benefit from ocean sailing strategies.</summary></entry><entry><title type="html">bigger kite banners</title><link href="https://headfullofair.com/post/tulle-kite-banners/" rel="alternate" type="text/html" title="bigger kite banners" /><published>2021-05-07T00:00:00-05:00</published><updated>2021-05-07T00:00:00-05:00</updated><id>https://headfullofair.com/post/tulle-kite-banners</id><content type="html" xml:base="https://headfullofair.com/post/tulle-kite-banners/">&lt;p&gt;This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Header photo by Mike Hastie&lt;/em&gt;&lt;/p&gt;
 
@@ -448,172 +527,4 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-stjohns2.jpg&quot; alt=&quot;Airpup mascot by Justin Nichol in flight by the St. Johns Bridge in Portland, OR&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Airpup in-flight photos by Colleen Donaldson&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><summary type="html">I want Airpup to be fun and social, and worked with Justin Nichol to create a character that not only represents Airpup, but could be drawn directly on the balloon.</summary></entry><entry><title type="html">Flying signs: kite banners</title><link href="https://headfullofair.com/post/kite-banners/" rel="alternate" type="text/html" title="Flying signs: kite banners" /><published>2018-11-03T00:00:00-05:00</published><updated>2018-11-03T00:00:00-05:00</updated><id>https://headfullofair.com/post/kite-banners</id><content type="html" xml:base="https://headfullofair.com/post/kite-banners/">&lt;p&gt;Over the past year I’ve been making kite banners for slogans.&lt;/p&gt;
-
-&lt;p&gt;I’ve had some success on large reinforced paper flags about a 3 feet (1m) high (see &lt;a href=&quot;/post/making-a-paper-banner&quot;&gt;step-by-step tutorial&lt;/a&gt;). I like the speed and simplicity of paper, but may use fabric made to the same pattern. See &lt;em&gt;choosing materials&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;This 36-inch x 12-foot banner weighs 12 oz (340g) without carabiners, and just over a pound (467g) with all of its attachments. It can easily be lifted in 8-10mph winds by a large kite like my 9 foot &lt;a href=&quot;https://intothewind.com/Item--i-3610&quot;&gt;Levitation Delta Light&lt;/a&gt; with a &lt;a href=&quot;https://www.gkites.com/store/&quot;&gt;fuzzy tail&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/banner/P2370475.jpg&quot; alt=&quot;Evict ICE photo by Nim Wunnan&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/banner/P2370476.jpg&quot; alt=&quot;Evict ICE, photo by Nim Wunnan&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;visibility&quot;&gt;Visibility&lt;/h3&gt;
-
-&lt;p&gt;A friend spotted this sign from 6 blocks away and said it was clearly readable, confirming the idea that the sign is visible from 1200 feet away (365m). Here’s the phone photo:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/banner/spotted.jpg&quot; alt=&quot;spotted&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When winds are out of the N/NW I can fly from Fields Park In NW Portland and be visible from Route 405 at the Fremont Bridge on-ramp.&lt;/p&gt;
-
-&lt;p&gt;To be readable from 1200 feet letters must be 30 inches high and either black or red on white, and not fluttering.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/banner/letter_visibility_chart.jpg&quot; alt=&quot;where did I even get this chart?&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;how-it-works&quot;&gt;How it works&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/banner/evict-ice-bannerflight.jpg&quot; alt=&quot;evict ICE banner flying in Fields Park, Portland&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A frame of string is folded and glued into the edge around the paper, with attachment loops popping out of the top side:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/banner/bannerdiagram1.jpg&quot; alt=&quot;sign loop diagram &quot; /&gt;
-&lt;em&gt;paper is folded over to the dotted line, enclosing the red string&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Dowels perpendicular to the kite line add stiffness and readability as well as preventing the paper from flapping itself apart. Dowels are needed every 2’ or so for paper. Every 4’ would be fine for cloth.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/banner/bannerdiagram2.jpg&quot; alt=&quot;banner diagram&quot; /&gt; 
-&lt;em&gt;Strips of paper are added at the dotted lines to glue the blue dowels down.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;A large carabiner at the top of the banner holds against the pull of five smaller carabiners pulling downwards, tensioning the sign along the kite line.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/banner/carabiner.png&quot; alt=&quot;a carabiner adds tension&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;choosing-materials&quot;&gt;Choosing materials&lt;/h3&gt;
-&lt;p&gt;I want my slogan banners to match the disposability of slogans. Strong paper and wooden dowels are light, quick, cheap, and biodegradable, and I’m getting better at making it fly without ripping.&lt;/p&gt;
-
-&lt;p&gt;Paper takes paint and ink well and is luminous when backlit. Tyvek is darker in the sky and twice as heavy. Nylon is hard to paint and gets pricey, but I think I may use it for my next banner.&lt;/p&gt;
-
-&lt;p&gt;Mulberry paper is a traditional kitemaking material prized for its durability. It is lighter than ripstop nylon, and can be quickly glued together.  It is easy to paint with tempera or ink. A &lt;a href=&quot;https://www.misterart.com/paper-boards/writing-printer-paper/calligraphy-paper/aitoh-washi-paper-rolls.html&quot;&gt;mulberry paper&lt;/a&gt; banner costs $12.00, while &lt;a href=&quot;https://goodwinds.com/sail-supplies/ripstop-nylon-fabric-22/ripstop-nylon-fabric.html&quot;&gt;3/4 oz/yard ripstop&lt;/a&gt; would cost $40.00. Commercial &lt;a href=&quot;http://www.kaixuankite.cn/product/1339717042-218812111/Advertising_flag_Airbanners.html&quot;&gt;Air Banners letters are $10-$35 each&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I would consider making a ripstop nylon banner for more permanent artwork. Dry erase markers will permanently stain nylon, although their marks won’t match the advertized color. For more painterly marks, &lt;a href=&quot;http://www.skywindworld.org/Acrylic-on-Nylon-Ripstop.pdf&quot;&gt;John Pollack recommends&lt;/a&gt; using acrylic paint in a 50/50 mixture with Golden Acrylics GAC 900 medium.&lt;/p&gt;
-
-&lt;p&gt;Plastic sheeting is usually polyethylene, which doesn’t take paint. No marker or paint I’ve tried has stuck to flying, fluttering plastic. Years ago I cut letters from black trash bags and tried to heat seal them to translucent sheeting with an iron. This was messy and the letters ripped, but might be worth another shot with a bag sealer.&lt;/p&gt;
-
-&lt;h3 id=&quot;thanks&quot;&gt;Thanks&lt;/h3&gt;
-&lt;p&gt;Thanks to Jayne Meacham (making, flying sloganeering, photography) Nim Wunnan (flying, photography, and paints, photography) &amp;amp; Jack Lewis painting brushes.&lt;/p&gt;
-
-&lt;h3 id=&quot;gallery-of-experiments-and-sources&quot;&gt;Gallery of experiments and sources&lt;/h3&gt;
-
-&lt;figure class=&quot;third &quot;&gt;
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/evict-ice-bannerflight.jpg&quot; title=&quot;Evict ICE banner-- my second try at paper-- flying high over Fields Park, Portland. Photo Nim Wunnan.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/evict-ice-bannerflight_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370300-all.jpg&quot; title=&quot;Which War? After I repaired the banner with tyvek triangles at each side. Original banner made with Jayne Meacham's help. Slogan represents ambivalence and confusion over a lifetime of expanding war. Photo Jayne Meacham.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370300-all_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370271.jpg&quot; title=&quot;Which War? Banner made with Jayne Meacham's help. Slogan represents ambivalence and confusion over a lifetime of expanding war. Photo Jayne Meacham.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370271_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370298-low-contrast-crop.jpg&quot; title=&quot;Which War? After I repaired the banner with tyvek triangles at each side. Photo Jayne Meacham.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370298-low-contrast-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370280-low-contrast-crop43.jpg&quot; title=&quot;Which War? Banner made with Jayne Meacham's help. Slogan represents ambivalence and confusion over a lifetime of expanding war.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370280-low-contrast-crop43_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370287.jpg&quot; title=&quot;Which War? flying over the christening of the USS Portland. Photo Jayne Meacham.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370287_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370305-low-contrast-crop169.jpg&quot; title=&quot;The banner ripped out all of a sudden, right along a repaired tear. Photo Jayne Meacham.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370305-low-contrast-crop169_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370438.jpg&quot; title=&quot;Banner gluing in process. books hold the string taught&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370438_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370466.jpg&quot; title=&quot;Banner gluing in finished.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370466_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370450.jpg&quot; title=&quot;Corner detail.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370450_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2370455.jpg&quot; title=&quot;how the sticks are joined&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2370455_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/Rund-um-den-Drachen-Walter-Diem-75.jpg&quot; title=&quot;Translation: Abb. 52: The two-point hanging: at the top is a stiffened mast stick. Cords are tied at the top with carabiners, which are then hung onto the kite line.
-Abb.53 The four-point balance: the mast edge aligns itself with two long cords at the ends of the mast. In the middle of these cords are carabiners to hang on the kite line.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/Rund-um-den-Drachen-Walter-Diem-75_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/Rund-um-den-Drachen-Walter-Diem-76.jpg&quot; title=&quot;&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/Rund-um-den-Drachen-Walter-Diem-76_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/Best-kite-in-the-world-stormy-weathers-88.png&quot; title=&quot;Stormy Weathers recommends a long kite tail on page 88 of his book Best Kite in the World page 88.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/Best-kite-in-the-world-stormy-weathers-88_1.png&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2350016.jpg&quot; title=&quot;Following Walter Diem: unsuccessful HDPE banner with permanent Sharpie paint marker. This marker stuck better than anything else, but flaked off in flight. The long fluttering banner was unreadable.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2350016_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2350017.jpg&quot; title=&quot;Following Walter Diem: unsuccessful HDPE banner with permanent Sharpie paint marker. This marker stuck better than anything else, but flaked off in flight. The long fluttering banner was unreadable.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2350017_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2350058.jpg&quot; title=&quot;Following Stormy Weathers: unsuccessful HDPE banner with permanent Sharpie paint marker as a kite tail. This marker stuck better than anything else, but flaked off in flight. The long fluttering banner was unreadable.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2350058_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-    
-      &lt;a href=&quot;https://headfullofair.com/assets/images/banner/P2360620.jpg&quot; title=&quot;Loosely following Stormy Weathers: Chalk on a black tyvek Stormy Sled, my modification of Weathers Horned Allison. This isn't visible from too far away. Letters aren't big enough.&quot;&gt;
-        &lt;img src=&quot;https://headfullofair.com/assets/images/banner/P2360620_1.jpg&quot; alt=&quot;&quot; /&gt;
-      &lt;/a&gt;
-    
-  
-  
-&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="banners" /><category term="rigs" /><summary type="html">Over the past year I’ve been making kite banners for slogans.</summary></entry></feed>
+&lt;p&gt;&lt;em&gt;Airpup in-flight photos by Colleen Donaldson&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><summary type="html">I want Airpup to be fun and social, and worked with Justin Nichol to create a character that not only represents Airpup, but could be drawn directly on the balloon.</summary></entry></feed>

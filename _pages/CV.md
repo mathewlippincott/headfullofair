@@ -144,7 +144,7 @@ Lay of the Land Newsletter. the Center for Land Use Interpretation, Winter 2013 
 Best of Kickstarter 2012: Google Maps integrates images from DIY mapping project. Kickstarter, December 2012. [URL](https://www.kickstarter.com/year/2012#diy_mapping)
 Hak5 1202.2 August 2012. [URL](https://www.youtube.com/watch?v=QF4NjbIEbW8)
 
-Henson, Martha. NOtes from #SXSWi: Public Lab: Mapping, DIY Activism, & Civic Science. Martha Henson Blog 21 May 2012. [URL](https://marthasadie.wordpress.com/2012/05/21/public-lab-mapping-diy-activism-civic-science/)
+Henson, Martha. Notes from #SXSWi: Public Lab: Mapping, DIY Activism, & Civic Science. Martha Henson Blog 21 May 2012. [URL](https://marthasadie.wordpress.com/2012/05/21/public-lab-mapping-diy-activism-civic-science/)
 
 Cangeloso, Sal. Geek projects: Adventures in balloon mapping. Geek.com, 17 May 2012. [URL](http://www.clubic.com/internet/univers-google/google-maps/actualite-487334-cartographie-google-earth-cerf-volants-ballons-helium.html)
 
