@@ -21,7 +21,7 @@ Archived 4th of March 2018 [from Publiclab.org](https://publiclab.org/notes/math
 
 
 I've been flying solar hot air balloons since 2008 and thought I'd summarize some of my experiences here, since most of my work on them were before the PLOTS site. [Here's my summary post to the grassroots mapping list back in October, 2010.](https://groups.google.com/group/grassrootsmapping/msg/5cc6ac0551953c6e)
-Also attached is an annotated version of [my solar balloon taping guide from 2009](assets/images/publiclab/thekissballoon2_2012_annotated.pdf), with some good illustrations.
+Also attached is an annotated version of [my solar balloon taping guide from 2009](/assets/images/publiclab/thekissballoon2_2012_annotated.pdf), with some good illustrations.
 
 Here's a map I made with one back in January, at the [CLUI Desert Research Station](http://www.clui.org/section/desert-research-station-0):
 

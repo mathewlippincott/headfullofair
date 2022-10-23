@@ -1,6 +1,339 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2022-06-19T13:21:07-05:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">sailing the sky: endless gliding takes shape</title><link href="https://headfullofair.com/post/sailing-the-sky/" rel="alternate" type="text/html" title="sailing the sky: endless gliding takes shape" /><published>2022-06-19T00:00:00-05:00</published><updated>2022-06-19T00:00:00-05:00</updated><id>https://headfullofair.com/post/sailing-the-sky</id><content type="html" xml:base="https://headfullofair.com/post/sailing-the-sky/">&lt;p&gt;While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-22T20:27:49-05:00</updated><id>http://localhost:4000/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Milwaukee Harbor, Komatsu North America</title><link href="http://localhost:4000/post/Milwaukee-Harbor-Komatsu/" rel="alternate" type="text/html" title="Milwaukee Harbor, Komatsu North America" /><published>2022-10-21T00:00:00-05:00</published><updated>2022-10-21T00:00:00-05:00</updated><id>http://localhost:4000/post/Milwaukee%20Harbor%20Komatsu</id><content type="html" xml:base="http://localhost:4000/post/Milwaukee-Harbor-Komatsu/">&lt;p&gt;My current &lt;a href=&quot;/tags/rigs&quot;&gt;kite aerial photography rigs&lt;/a&gt; and a &lt;a href=&quot;/tags/flat-winder&quot;&gt;flat winder&lt;/a&gt; of string, fits in a small shoulder bag and weighs a little over 2 pounds. My rig’s portability let me do a quick flight at the new Komatsu headquarters, across from the school of Freshwater Sciences on Milwaukee Harbor.&lt;/p&gt;
 
-&lt;h2 id=&quot;boats-get-new-wings&quot;&gt;boats get new wings&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/komatsu/DJI_0752.JPG&quot; alt=&quot;Komatsu headquarters&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/komatsu/DJI_0737.JPG&quot; alt=&quot;Komatsu headquarters&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;inside-my-bag&quot;&gt;Inside my bag:&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/tags/flat-winder&quot;&gt;flat winder&lt;/a&gt; with 500 feet of 110-pound test dacron line&lt;/li&gt;
+  &lt;li&gt;kevlar-lined goatskin gloves&lt;/li&gt;
+  &lt;li&gt;Into the Wind Levitation Light kite&lt;/li&gt;
+  &lt;li&gt;Phone holder for jogging (worn on wrist for camera control)&lt;/li&gt;
+  &lt;li&gt;DJI Pocket 2 with qifi adapter&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kaptery.com/&quot;&gt;KAPtery&lt;/a&gt; 3D Printed &lt;a href=&quot;https://www.thingiverse.com/thing:281677&quot;&gt;Picavet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Picavet rod replaced with a &lt;a href=&quot;https://www.mcmaster.com/98831A570/&quot;&gt;1/4-20 nylon threaded rod&lt;/a&gt;, wingnuts, and washers.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="KAPtery" /><category term="DJI" /><summary type="html">My current kite aerial photography rigs and a flat winder of string, fits in a small shoulder bag and weighs a little over 2 pounds. My rig’s portability let me do a quick flight at the new Komatsu headquarters, across from the school of Freshwater Sciences on Milwaukee Harbor.</summary></entry><entry><title type="html">Kite photos from the Frank Mots International Kite Festival, Milwaukee</title><link href="http://localhost:4000/post/frank-mots-intl-kite-fest-mke/" rel="alternate" type="text/html" title="Kite photos from the Frank Mots International Kite Festival, Milwaukee" /><published>2022-10-20T00:00:00-05:00</published><updated>2022-10-20T00:00:00-05:00</updated><id>http://localhost:4000/post/frank-mots-intl-kite-fest-mke</id><content type="html" xml:base="http://localhost:4000/post/frank-mots-intl-kite-fest-mke/">&lt;p&gt;At the 2022 &lt;a href=&quot;https://city.milwaukee.gov/County-Events/Frank-Mots-International-Kite-Festival-at-Veterans-Park&quot;&gt;Frank Mots International Kite Festival&lt;/a&gt; in Milwaukee, We flew kites and &lt;a href=&quot;/post/tulle-kite-banners/&quot;&gt;kite banners&lt;/a&gt;, and also captured aerial photos (this post) and &lt;a href=&quot;/post/frank-mots-intl-kite-fest-gallery/&quot;&gt;ground shots&lt;/a&gt;. I flew my DJI  Pocket 2, mounted to a &lt;a href=&quot;https://www.thingiverse.com/thing:281677&quot;&gt;3D printed picavet rig&lt;/a&gt; from the &lt;a href=&quot;http://kaptery.com/&quot;&gt;KAPtery&lt;/a&gt;, and lifted by my (now discontinued) Into the Wind &lt;a href=&quot;https://intothewind.com/Item--i-3610&quot;&gt;Levitation&lt;/a&gt; Light. Colleen Donaldson controlled the camera from an iPhone on the ground while I maneuvered the kite.&lt;/p&gt;
+
+&lt;p&gt;We were out at the point in veterans park, which became the major public flying field during the festival.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/fmikfmke/vetsparkosm.png&quot; alt=&quot;our location in veterans park, from Open Street Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We spotted a wide variety of excellent commercial and homemade kites. We also flew two text banners, and this was the first time they’ve been captured from kites. 
+The silver kite seen on the ground is by &lt;a href=&quot;https://www.haiwenlin.com/about&quot;&gt;Hai-Wen Lin&lt;/a&gt;. This kite’s hand-dyed tails look great in these photos.&lt;/p&gt;
+
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0500.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0500-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0516.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0516-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0529.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0529-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0582.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0582-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0605.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0605-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0619.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0619-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0649.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0649-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0684.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0684-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0690.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0690-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0706.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0706-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="KAPtery" /><category term="DJI" /><summary type="html">At the 2022 Frank Mots International Kite Festival in Milwaukee, We flew kites and kite banners, and also captured aerial photos (this post) and ground shots. I flew my DJI Pocket 2, mounted to a 3D printed picavet rig from the KAPtery, and lifted by my (now discontinued) Into the Wind Levitation Light. Colleen Donaldson controlled the camera from an iPhone on the ground while I maneuvered the kite.</summary></entry><entry><title type="html">Ground photos from the Frank Mots International Kite Festival, Milwaukee</title><link href="http://localhost:4000/post/frank-mots-intl-kite-fest-gallery/" rel="alternate" type="text/html" title="Ground photos from the Frank Mots International Kite Festival, Milwaukee" /><published>2022-10-20T00:00:00-05:00</published><updated>2022-10-20T00:00:00-05:00</updated><id>http://localhost:4000/post/frank-mots-intl-kite-fest-gallery</id><content type="html" xml:base="http://localhost:4000/post/frank-mots-intl-kite-fest-gallery/">&lt;p&gt;At the 2022 &lt;a href=&quot;https://city.milwaukee.gov/County-Events/Frank-Mots-International-Kite-Festival-at-Veterans-Park&quot;&gt;Frank Mots International Kite Festival&lt;/a&gt; in Milwaukee, we flew kites and &lt;a href=&quot;/post/tulle-kite-banners/&quot;&gt;kite banners&lt;/a&gt;, and Colleen Donaldson and I (mostly Colleen) took photos of the kites from the ground (this post) and also from the &lt;a href=&quot;/post/frank-mots-intl-kite-fest-mke/&quot;&gt;air&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We were out at the point in veterans park, which became the major public flying field during the festival.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/fmikfmke/vetsparkosm.png&quot; alt=&quot;our location in veterans park, from Open Street Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We spotted a wide variety of excellent commercial and homemade kites. The silver kite deconstructing itself while remaining flying is by &lt;a href=&quot;https://www.haiwenlin.com/about&quot;&gt;Hai-Wen Lin&lt;/a&gt;, and was a favorite.&lt;/p&gt;
+
+&lt;figure class=&quot;third &quot;&gt;
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460938.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460938_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460935.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460935_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460922.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460922_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460920.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460920_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460903.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460903_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460895.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460895_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460894.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460894_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460889.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460889_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460879.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460879_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460878.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460878_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460867-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460867-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460865-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460865-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460851-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460851-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460843.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460843_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460821.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460821_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460724.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460724_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460706-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460706-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460696-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460696-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460688-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460688-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460657-crjop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460657-crjop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460597.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460597_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460578.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460578_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460558.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460558_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460543-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460543-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460541-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460541-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460538.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460538_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460530-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460530-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460529-crop.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460529-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460524.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460524_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460519.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460519_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470266.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470266_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470202.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470202_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470189.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470189_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470145.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470145_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470108.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470108_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470064.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470064_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470064.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470064_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460960.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460960_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+    
+      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460955.jpg&quot;&gt;
+        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460955_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;/a&gt;
+    
+  
+  
+&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><summary type="html">At the 2022 Frank Mots International Kite Festival in Milwaukee, we flew kites and kite banners, and Colleen Donaldson and I (mostly Colleen) took photos of the kites from the ground (this post) and also from the air.</summary></entry><entry><title type="html">sailing the sky: endless gliding takes shape</title><link href="http://localhost:4000/post/sailing-the-sky/" rel="alternate" type="text/html" title="sailing the sky: endless gliding takes shape" /><published>2022-06-19T00:00:00-05:00</published><updated>2022-06-19T00:00:00-05:00</updated><id>http://localhost:4000/post/sailing-the-sky</id><content type="html" xml:base="http://localhost:4000/post/sailing-the-sky/">&lt;p&gt;While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post.&lt;/p&gt;
+
+&lt;h1 id=&quot;boats-get-new-wings&quot;&gt;boats get new wings&lt;/h1&gt;
 &lt;p&gt;Ocean sailing has experienced a recent infusion of soaring technology, as parawings developed for soaring have been adapted to kiteboats and kite foiling.  Experimental sailcraft and aircraft suggest that soaring may benefit from ocean sailing strategies.&lt;/p&gt;
 
 &lt;p&gt;A sailing vessel generates its motion through the difference in speed between two fluids — air and water.&lt;/p&gt;
@@ -22,9 +355,10 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/Blb2S6Ytngg&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;sailing-between-winds&quot;&gt;sailing between winds&lt;/h2&gt;
+&lt;h1 id=&quot;sailing-between-winds&quot;&gt;sailing between winds&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/engblom_sail_board.jpg&quot; alt=&quot;Engblom's DAP vehicle concept from NIAC&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/engblom_sail_board.jpg&quot; alt=&quot;Engblom's DAP vehicle concept from NIAC&quot; /&gt;
+&lt;em&gt;Engblom’s Dual Aircraft Platform concept from &lt;a href=&quot;https://www.nasa.gov/feature/virtual-flight-demonstration-of-stratospheric-dual-aircraft-platform/&quot;&gt;NIAC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;What if, instead of the airfoil and hydrofoil of the &lt;em&gt;l’aile d’eau&lt;/em&gt; concept, two airfoils were used? The idea of sailing the sky with two airfoils connected by a cable long enough to bridge two different wind currents precedes the &lt;em&gt;l’aile d’eau&lt;/em&gt; in concept, if not in execution. Richard Miller, editor of &lt;em&gt;Soaring&lt;/em&gt; Magazine in the 1960s and a popularizer of hangliding, spread the concept and claimed to have experimented with it.&lt;sup&gt;[2]&lt;/sup&gt;&lt;/p&gt;
 
@@ -33,18 +367,19 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/fidiDPaLWWw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;DAP can derive positive lift from any two winds with 10% or greater sheer, a condition that should be common enough to enable DAP to circle an area indefinitely (station-keeping).&lt;sup&gt;[4]&lt;/sup&gt; The DAP system, however, does not rely entirely on soaring — it uses wind sheer, when available, to spin its propellers and charge on-board batteries. When wind sheer is not available, the propellers are used to sustain flight.&lt;/p&gt;
+&lt;p&gt;DAP can derive positive lift from any two winds with 10% or greater shear, a condition that should be common enough to enable DAP to circle an area indefinitely (station-keeping).&lt;sup&gt;[4]&lt;/sup&gt; The DAP system, however, does not rely entirely on soaring — it uses wind shear, when available, to spin its propellers and charge on-board batteries. When wind shear is not available, the propellers are used to sustain flight.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/niac_engblom_phii.png&quot; alt=&quot;Engblom's DAP vehicle concept from NIAC, detail&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/niac_engblom_phii.png&quot; alt=&quot;Engblom's DAP vehicle concept from NIAC, detail&quot; /&gt;
+&lt;em&gt;detail of DAP concept from &lt;a href=&quot;https://www.nasa.gov/feature/virtual-flight-demonstration-of-stratospheric-dual-aircraft-platform/&quot;&gt;NIAC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The DAP system hinges on its ability to calculate a flight path based on sensor data about air currents. I can’t find any reference to a specific sensor system in the DAP literature, but the use case appears similar to the &lt;a href=&quot;https://www.ball.com/aerospace/programs/earth-science-weather/oawl-wind-lidar&quot;&gt;Ball Aerospace Optical Autocovariance Wind Lidar (OAWL)&lt;/a&gt;. OAWL uses green (532nm) and/or UV (355nm) lasers to track the movement of water vapor and particles to infer wind speed. These sensors &lt;a href=&quot;https://www.technologyreview.com/2018/11/14/139092/darpa-is-testing-stratospheric-balloons-that-ride-the-wind-so-they-never-have-to-come-down/&quot;&gt;appear to be deployed&lt;/a&gt; for navigation on a series of &lt;a href=&quot;https://www.thedrive.com/the-war-zone/40638/what-we-know-about-the-high-tech-balloons-lingering-off-the-coasts-of-the-u-s-recently&quot;&gt;experimental US military balloon flights&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;DAP captures wind energy using kiting on a tether, giving it more in common with tethered &lt;a href=&quot;https://airbornewindeurope.org/about-airborne-wind-energy/&quot;&gt;airborne wind energy&lt;/a&gt; concepts than other aircraft. Indeed, Engblom states that the traditional glider shape of DAP was chosen to jumpstart prototyping, and a different platform was initially intended for study.&lt;sup&gt;[5]&lt;/sup&gt; Given the vast array of airborne wind energy concepts, the ideal DAP-style craft appears as-yet unknown.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/sailing/DOE-AWE.jpg&quot; alt=&quot;Figure 2. DOE. 2021. Challenges and Opportunities for Airborne Wind Energy in the United States. Report to Congress. Washington (DC): US Department of Energy.&quot; /&gt;
-&lt;em&gt;different airborne wind energy concepts (DOE 2021)&lt;sup&gt;[6]&lt;/sup&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;different airborne wind energy concepts (DOE 2021)&lt;sup&gt;[6]&lt;/sup&gt; &lt;a href=&quot;https://airbornewindeurope.org/wp-content/uploads/2021/12/report-to-congress-challenges-opportunities-airborne-wind-energy-united-states.pdf&quot;&gt;PDF link&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;future-developments&quot;&gt;future developments&lt;/h2&gt;
+&lt;h1 id=&quot;future-developments&quot;&gt;future developments&lt;/h1&gt;
 
 &lt;p&gt;As I hinted in the header image of this post, I am most interested in whether this flight strategy can be applied to personal aircraft, especially foot-launched aircraft (hangliders and paragliders).&lt;/p&gt;
 
@@ -53,18 +388,18 @@
 &lt;p&gt;Could a robotic kite on a tether be deployed while paragliding for long-distance sailing/soaring? The possibility is tantilizing, and much of the hardware appears near term: robotic kites are established technology (at least at the research level of airborne wind energy), and the sensors and computing hardware necessary to calculate the flight path can’t be far off, given that my phone has lidar and high-powered 532nm and 355nm laser diodes are commercially available at fairly low cost. Still, several crucial questions remain:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Does the flight space of ultralight aircraft (below 19,000 feet) include enough sheer winds?&lt;/li&gt;
+  &lt;li&gt;Does the flight space of ultralight aircraft (below 19,000 feet) include enough shear winds?&lt;/li&gt;
   &lt;li&gt;What sort of tether markings are required (flags, strobes, etc.), and is their drag acceptable?&lt;/li&gt;
-  &lt;li&gt;Are the simple wings of paragliders and hangliders efficient enough to exploit wind sheer?
+  &lt;li&gt;Are the simple wings of paragliders and hangliders efficient enough to exploit wind shear?
     &lt;ul&gt;
-      &lt;li&gt;Akimov and Polivanov&lt;sup&gt;[4]&lt;/sup&gt; claimed sustained flight was possible with 10% sheer but assumed a glide ratio of 40. A paraglider has a glide ratio of about 10 and the best hangliders have glide ratios of about 20.&lt;/li&gt;
+      &lt;li&gt;Akimov and Polivanov&lt;sup&gt;[4]&lt;/sup&gt; claimed sustained flight was possible with 10% shear but assumed a glide ratio of 40. A paraglider has a glide ratio of about 10 and the best hangliders have glide ratios of about 20.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;What other issues do you see? &lt;a href=&quot;/contact&quot;&gt;Get in touch&lt;/a&gt;. I’ll add your comments to this post.&lt;/p&gt;
 
-&lt;h2 id=&quot;notes&quot;&gt;notes&lt;/h2&gt;
+&lt;h1 id=&quot;notes&quot;&gt;notes&lt;/h1&gt;
 
 &lt;p&gt;[1] Luc Armant &lt;a href=&quot;https://www.flyozone.com/paragliders/team/luc-armant&quot;&gt;is responsible for many refinements of modern parafoils&lt;/a&gt;. Armant has a &lt;a href=&quot;https://youtu.be/1tEw_mlUh7g&quot;&gt;charming video&lt;/a&gt; compiling his late 1990s &lt;em&gt;l’aile d’eau&lt;/em&gt; experments with small, unguided models that he chased across the water in a motorboat (it makes me wish I understood French).&lt;/p&gt;
 
@@ -77,7 +412,7 @@
 &lt;p&gt;[5] The initial proposal for the DAP platform involved a tandem-wing aircraft that looks like a canard glider with extremely exaggerated canards. It is the subject of a graduate thesis:
 &lt;a href=&quot;https://commons.erau.edu/edt/104/&quot;&gt;McKee, Michael E. 2012. &lt;em&gt;Novel Airframe Design for the Dual-Aircraft Atmospheric Platform Flight Concept.&lt;/em&gt; Masters Thesis. Daytona Beach: Embry Riddle Aeronautical University.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[6] DOE. 2021. &lt;em&gt;Challenges and Opportunities for Airborne Wind Energy in the United States.&lt;/em&gt; Report to Congress. Washington (DC): US Department of Energy. &lt;a href=&quot;https://airbornewindeurope.org/wp-content/uploads/2021/12/report-to-congress-challenges-opportunities-airborne-wind-energy-united-states.pdf&quot;&gt;&lt;em&gt;PDF link&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="aerocene" /><category term="kites" /><category term="gliding" /><summary type="html">While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post. boats get new wings Ocean sailing has experienced a recent infusion of soaring technology, as parawings developed for soaring have been adapted to kiteboats and kite foiling. Experimental sailcraft and aircraft suggest that soaring may benefit from ocean sailing strategies.</summary></entry><entry><title type="html">bigger kite banners</title><link href="https://headfullofair.com/post/tulle-kite-banners/" rel="alternate" type="text/html" title="bigger kite banners" /><published>2021-05-07T00:00:00-05:00</published><updated>2021-05-07T00:00:00-05:00</updated><id>https://headfullofair.com/post/tulle-kite-banners</id><content type="html" xml:base="https://headfullofair.com/post/tulle-kite-banners/">&lt;p&gt;This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.&lt;/p&gt;
+&lt;p&gt;[6] DOE. 2021. &lt;em&gt;Challenges and Opportunities for Airborne Wind Energy in the United States.&lt;/em&gt; Report to Congress. Washington (DC): US Department of Energy. &lt;a href=&quot;https://airbornewindeurope.org/wp-content/uploads/2021/12/report-to-congress-challenges-opportunities-airborne-wind-energy-united-states.pdf&quot;&gt;&lt;em&gt;PDF link&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="aerocene" /><category term="kites" /><category term="atmospheric-satellite" /><category term="gliding" /><category term="paragliding" /><category term="sailing" /><summary type="html">While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post. boats get new wings Ocean sailing has experienced a recent infusion of soaring technology, as parawings developed for soaring have been adapted to kiteboats and kite foiling. Experimental sailcraft and aircraft suggest that soaring may benefit from ocean sailing strategies.</summary></entry><entry><title type="html">bigger kite banners</title><link href="http://localhost:4000/post/tulle-kite-banners/" rel="alternate" type="text/html" title="bigger kite banners" /><published>2021-05-07T00:00:00-05:00</published><updated>2021-05-07T00:00:00-05:00</updated><id>http://localhost:4000/post/tulle-kite-banners</id><content type="html" xml:base="http://localhost:4000/post/tulle-kite-banners/">&lt;p&gt;This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Header photo by Mike Hastie&lt;/em&gt;&lt;/p&gt;
 
@@ -275,13 +610,13 @@
 
 &lt;h2 id=&quot;thanks&quot;&gt;thanks&lt;/h2&gt;
 
-&lt;p&gt;These instructions were refined with the help of Jayne Meacham, following them from a distance. Banner making required a lot of hands– special thanks to PEST and Colleen Donaldson. Most of the flight photos here are from photographer Mike Hastie, many thanks for his diligent work capturing these banner lifts.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="banners" /><category term="kites" /><category term="rigs" /><summary type="html">This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.</summary></entry><entry><title type="html">Airpup on Innovation Nation</title><link href="https://headfullofair.com/post/airpup-on-cbs/" rel="alternate" type="text/html" title="Airpup on Innovation Nation" /><published>2021-04-30T00:00:00-05:00</published><updated>2021-04-30T00:00:00-05:00</updated><id>https://headfullofair.com/post/airpup-on-cbs</id><content type="html" xml:base="https://headfullofair.com/post/airpup-on-cbs/">&lt;p&gt;Airpup was recently featured on CBS’s &lt;a href=&quot;https://www.thehenryford.org/explore/innovation-nation/episodes/creative-circuits/&quot;&gt;Innovation Nation with Mo Rocca&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;These instructions were refined with the help of Jayne Meacham, following them from a distance. Banner making required a lot of hands– special thanks to PEST and Colleen Donaldson. Most of the flight photos here are from photographer Mike Hastie, many thanks for his diligent work capturing these banner lifts.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="banners" /><category term="kites" /><category term="rigs" /><summary type="html">This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.</summary></entry><entry><title type="html">Airpup on Innovation Nation</title><link href="http://localhost:4000/post/airpup-on-cbs/" rel="alternate" type="text/html" title="Airpup on Innovation Nation" /><published>2021-04-30T00:00:00-05:00</published><updated>2021-04-30T00:00:00-05:00</updated><id>http://localhost:4000/post/airpup-on-cbs</id><content type="html" xml:base="http://localhost:4000/post/airpup-on-cbs/">&lt;p&gt;Airpup was recently featured on CBS’s &lt;a href=&quot;https://www.thehenryford.org/explore/innovation-nation/episodes/creative-circuits/&quot;&gt;Innovation Nation with Mo Rocca&lt;/a&gt;.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/CDJGiPt_ids&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Thanks to Karly Placek, John Murphy, and the &lt;a href=&quot;https://www.litton.tv/&quot;&gt;Litton Entertainment&lt;/a&gt; team for making a film shoot work in the midst of the pandemic and for flying me to California so we could have better weather. Also thanks to &lt;a href=&quot;https://www.imdb.com/name/nm4184546/&quot;&gt;Albert Lawrence&lt;/a&gt;, who picked out the perfect orange outfit to go with Aipup.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-innov-nation-2.jpg&quot; alt=&quot;John and Albert with Airpup&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Airpup was recently featured on CBS’s Innovation Nation with Mo Rocca.</summary></entry><entry><title type="html">DJI Pocket 2 for Kite Aerial Photography</title><link href="https://headfullofair.com/post/DJI-pocket-kap/" rel="alternate" type="text/html" title="DJI Pocket 2 for Kite Aerial Photography" /><published>2021-04-29T00:00:00-05:00</published><updated>2021-04-29T00:00:00-05:00</updated><id>https://headfullofair.com/post/DJI-pocket-kap</id><content type="html" xml:base="https://headfullofair.com/post/DJI-pocket-kap/">&lt;p&gt;I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-innov-nation-2.jpg&quot; alt=&quot;John and Albert with Airpup&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Airpup was recently featured on CBS’s Innovation Nation with Mo Rocca.</summary></entry><entry><title type="html">DJI Pocket 2 for Kite Aerial Photography</title><link href="http://localhost:4000/post/DJI-pocket-kap/" rel="alternate" type="text/html" title="DJI Pocket 2 for Kite Aerial Photography" /><published>2021-04-29T00:00:00-05:00</published><updated>2021-04-29T00:00:00-05:00</updated><id>http://localhost:4000/post/DJI-pocket-kap</id><content type="html" xml:base="http://localhost:4000/post/DJI-pocket-kap/">&lt;p&gt;I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.&lt;/p&gt;
 
 &lt;p&gt;With the WiFi dongle, the Pocket 2 is a small (~140g), 3-axis gimbal-stabilized camera capable of sending a remote video feed to DJI’s Mimo app and being remotely controled by the app. The original DJI Pocket didn’t offer a video feed, so when I saw they added this feature to the Pocket 2, I picked one up, just in time for &lt;a href=&quot;/post/airpup-on-cbs/&quot;&gt;Airpup’s debut on CBS&lt;/a&gt;.&lt;/p&gt;
 
@@ -314,7 +649,7 @@
 &lt;p&gt;&lt;img src=&quot;/assets/images/aerials/pocket/DJI_0009 194.jpg&quot; alt=&quot;The old Milwaukee water tower and view south, Milwaukee, WI. Video Still.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Prepping a picavet using my bicycle as the frame.
-&lt;img src=&quot;/assets/images/aerials/pocket/20210425_135300-sm.jpg&quot; alt=&quot;prepping a picavet using my bicycle as the frame.&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="rigs" /><category term="kites" /><category term="airpup" /><category term="kap" /><summary type="html">I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.</summary></entry><entry><title type="html">Airpup production patterns</title><link href="https://headfullofair.com/post/airpup-production-plans/" rel="alternate" type="text/html" title="Airpup production patterns" /><published>2021-04-07T00:00:00-05:00</published><updated>2021-04-07T00:00:00-05:00</updated><id>https://headfullofair.com/post/airpup-production-plans</id><content type="html" xml:base="https://headfullofair.com/post/airpup-production-plans/">&lt;p&gt;Final plans for the production Airpup design are now &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon/&quot;&gt;available on Github&lt;/a&gt;, released as open hardware under the &lt;a href=&quot;https://cern-ohl.web.cern.ch/home&quot;&gt;CERN Open Hardware Licence&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&quot;/assets/images/aerials/pocket/20210425_135300-sm.jpg&quot; alt=&quot;prepping a picavet using my bicycle as the frame.&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="rigs" /><category term="kites" /><category term="airpup" /><category term="kap" /><summary type="html">I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.</summary></entry><entry><title type="html">Airpup production patterns</title><link href="http://localhost:4000/post/airpup-production-plans/" rel="alternate" type="text/html" title="Airpup production patterns" /><published>2021-04-07T00:00:00-05:00</published><updated>2021-04-07T00:00:00-05:00</updated><id>http://localhost:4000/post/airpup-production-plans</id><content type="html" xml:base="http://localhost:4000/post/airpup-production-plans/">&lt;p&gt;Final plans for the production Airpup design are now &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon/&quot;&gt;available on Github&lt;/a&gt;, released as open hardware under the &lt;a href=&quot;https://cern-ohl.web.cern.ch/home&quot;&gt;CERN Open Hardware Licence&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;While assembly instructions are included in the Github repository, I’ve also repeated them here. The header image shows how to seal the envelope as a three-part flat pattern. Sewing instructions are below:&lt;/p&gt;
 
@@ -454,14 +789,14 @@
   &lt;li&gt;
     &lt;p&gt;Tape Gluing Patches in place, sew into location.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="github" /><category term="airpup" /><summary type="html">Final plans for the production Airpup design are now available on Github, released as open hardware under the CERN Open Hardware Licence.</summary></entry><entry><title type="html">Helium Supplier Map Built on uMap &amp;amp; OSM</title><link href="https://headfullofair.com/post/helium-supplier-map/" rel="alternate" type="text/html" title="Helium Supplier Map Built on uMap &amp; OSM" /><published>2021-03-05T00:00:00-06:00</published><updated>2021-03-05T00:00:00-06:00</updated><id>https://headfullofair.com/post/helium-supplier-map</id><content type="html" xml:base="https://headfullofair.com/post/helium-supplier-map/">&lt;p&gt;With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="github" /><category term="airpup" /><summary type="html">Final plans for the production Airpup design are now available on Github, released as open hardware under the CERN Open Hardware Licence.</summary></entry><entry><title type="html">Helium Supplier Map Built on uMap &amp;amp; OSM</title><link href="http://localhost:4000/post/helium-supplier-map/" rel="alternate" type="text/html" title="Helium Supplier Map Built on uMap &amp; OSM" /><published>2021-03-05T00:00:00-06:00</published><updated>2021-03-05T00:00:00-06:00</updated><id>http://localhost:4000/post/helium-supplier-map</id><content type="html" xml:base="http://localhost:4000/post/helium-supplier-map/">&lt;p&gt;With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.&lt;/p&gt;
 
 &lt;p&gt;If you find a helium supplier that is not on my &lt;a href=&quot;https://umap.openstreetmap.fr/en/map/helium-suppliers_259236#4/40.88/-81.62&quot;&gt;Helium Map&lt;/a&gt; (embedded below), please add one to &lt;a href=&quot;https://github.com/mathewlippincott/helium-map&quot;&gt;the Github repository&lt;/a&gt; or &lt;a href=&quot;/contact&quot;&gt;contact me&lt;/a&gt; with the info.&lt;/p&gt;
 
 &lt;p&gt;This map is built using &lt;a href=&quot;http://umap.openstreetmap.fr/en/&quot;&gt;uMap&lt;/a&gt;, a free and open source tool built on &lt;a href=&quot;https://www.openstreetmap.org/#map=4/38.01/-95.84&quot;&gt;OpenStreetMap&lt;/a&gt;. I’m rather fond of it. It allows you to pick a tile layer and even customize the look of the arrows, as I did on this &lt;a href=&quot;https://umap.openstreetmap.fr/en/map/futel-service-map_551231#4/42.46/-101.41&quot;&gt;service map&lt;/a&gt; for &lt;a href=&quot;https://futel.net/&quot;&gt;Futel&lt;/a&gt;. In addition to the web management interface, all the entries can be stored in and updated by from a CSV file, allowing version control.&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;300px&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; src=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236?scaleControl=false&amp;amp;miniMap=false&amp;amp;scrollWheelZoom=false&amp;amp;zoomControl=true&amp;amp;allowEdit=false&amp;amp;moreControl=true&amp;amp;searchControl=null&amp;amp;tilelayersControl=null&amp;amp;embedControl=null&amp;amp;datalayersControl=true&amp;amp;onLoadPanel=undefined&amp;amp;captionBar=false&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236&quot;&gt;See full screen&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="helium" /><category term="mapping" /><category term="airpup" /><summary type="html">With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.</summary></entry><entry><title type="html">Airpup production prototype: studio update</title><link href="https://headfullofair.com/post/Airpup-production-video/" rel="alternate" type="text/html" title="Airpup production prototype: studio update" /><published>2019-11-11T00:00:00-06:00</published><updated>2019-11-11T00:00:00-06:00</updated><id>https://headfullofair.com/post/Airpup-production-video</id><content type="html" xml:base="https://headfullofair.com/post/Airpup-production-video/">&lt;p&gt;After a variety of delays, detailed in my previous &lt;a href=&quot;/tags/studio-update/&quot;&gt;studio update videos&lt;/a&gt;, I’ve finally finished the production prototype of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt; and have done a solid test flight.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236&quot;&gt;See full screen&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="helium" /><category term="mapping" /><category term="airpup" /><summary type="html">With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.</summary></entry><entry><title type="html">Airpup production prototype: studio update</title><link href="http://localhost:4000/post/Airpup-production-video/" rel="alternate" type="text/html" title="Airpup production prototype: studio update" /><published>2019-11-11T00:00:00-06:00</published><updated>2019-11-11T00:00:00-06:00</updated><id>http://localhost:4000/post/Airpup-production-video</id><content type="html" xml:base="http://localhost:4000/post/Airpup-production-video/">&lt;p&gt;After a variety of delays, detailed in my previous &lt;a href=&quot;/tags/studio-update/&quot;&gt;studio update videos&lt;/a&gt;, I’ve finally finished the production prototype of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt; and have done a solid test flight.&lt;/p&gt;
 
 &lt;p&gt;My studio update:&lt;/p&gt;
 
@@ -471,60 +806,4 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/T3OeqqcOwRE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;The glistening threads are &lt;a href=&quot;https://en.wikipedia.org/wiki/Ballooning_(spider)&quot;&gt;ballooning spiders&lt;/a&gt; whose migration was cut short by my kite line. My sincerest apologies to these awesome arachnids.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="kite balloons" /><category term="airpup" /><category term="studio-update" /><summary type="html">After a variety of delays, detailed in my previous studio update videos, I’ve finally finished the production prototype of Airpup and have done a solid test flight.</summary></entry><entry><title type="html">run of flat winders &amp;amp; illustrated instructions</title><link href="https://headfullofair.com/post/flat-line-winder-run/" rel="alternate" type="text/html" title="run of flat winders &amp; illustrated instructions" /><published>2019-07-28T00:00:00-05:00</published><updated>2019-07-28T00:00:00-05:00</updated><id>https://headfullofair.com/post/flat-line-winder-run</id><content type="html" xml:base="https://headfullofair.com/post/flat-line-winder-run/">&lt;p&gt;I did a production run of 30 flat winders based on &lt;a href=&quot;http://www.headfullofair.com/tags/flat-winder/&quot;&gt;my design from last spring&lt;/a&gt;, and also illustrated some instructions.&lt;/p&gt;
-
-&lt;p&gt;The winders were cut on a CNC mill with a 1/8” bevel on both sides.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/flat-winder/no-string2.png&quot; alt=&quot;winders without string&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;instructions&quot;&gt;instructions&lt;/h2&gt;
-&lt;p&gt;I turned these instructions into a tag that can be tied to the winder (as shown in the header image, above).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/flat-winder/releasingstring.png&quot; alt=&quot;releasing string&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/flat-winder/windingstring.png&quot; alt=&quot;winding string&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;contribute&quot;&gt;contribute&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Replicate &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder&quot;&gt;the winder&lt;/a&gt; and document your use of it. Please &lt;a href=&quot;/contact&quot;&gt;reach out&lt;/a&gt; and share.&lt;/li&gt;
-  &lt;li&gt;Fork &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder&quot;&gt;the Github repository&lt;/a&gt; and improve the design or documentation.&lt;/li&gt;
-  &lt;li&gt;Add or comment on &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder/issues&quot;&gt;issues in the repository&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/contact&quot;&gt;show me&lt;/a&gt; kite and balloon stuff.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All contributors are asked to abide by the &lt;a href=&quot;https://github.com/mathewlippincott/flat-winder/codeofconduct.md&quot;&gt;code of conduct&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Licensed under the &lt;a href=&quot;LICENSE.md&quot;&gt;CERN OHL 1.2&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="rigs" /><category term="flat-winder" /><category term="winder" /><summary type="html">I did a production run of 30 flat winders based on my design from last spring, and also illustrated some instructions.</summary></entry><entry><title type="html">new video: studio updates on Airpup Construction</title><link href="https://headfullofair.com/post/studio-update-videos/" rel="alternate" type="text/html" title="new video: studio updates on Airpup Construction" /><published>2019-05-19T00:00:00-05:00</published><updated>2019-05-19T00:00:00-05:00</updated><id>https://headfullofair.com/post/studio-update-videos</id><content type="html" xml:base="https://headfullofair.com/post/studio-update-videos/">&lt;p&gt;I’ve begun creating a series of video-based &lt;a href=&quot;/tags/studio-update&quot;&gt;studio updates&lt;/a&gt; using my standard definition video mixer. They’re quick and easy to make, and let me document my production of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here are the first four:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/-O9QFKsfe_A&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/o3Jkl-qOxcI&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/7_j9oOl5f6k?rel=0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/gwQZwM9mO6w&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><category term="video" /><category term="studio-update" /><summary type="html">I’ve begun creating a series of video-based studio updates using my standard definition video mixer. They’re quick and easy to make, and let me document my production of Airpup.</summary></entry><entry><title type="html">Putting a face to a name: the Airpup mascot</title><link href="https://headfullofair.com/post/airpup-mascot/" rel="alternate" type="text/html" title="Putting a face to a name: the Airpup mascot" /><published>2018-11-15T00:00:00-06:00</published><updated>2018-11-15T00:00:00-06:00</updated><id>https://headfullofair.com/post/airpup-mascot</id><content type="html" xml:base="https://headfullofair.com/post/airpup-mascot/">&lt;p&gt;I want &lt;a href=&quot;tags/airpup&quot;&gt;Airpup&lt;/a&gt; to be fun and social, and worked with &lt;a href=&quot;https://www.patreon.com/justinnichol&quot;&gt;Justin Nichol&lt;/a&gt; to create a character that not only represents Airpup, but could be drawn directly on the balloon.&lt;/p&gt;
-
-&lt;h5 id=&quot;back-airpup-on-crowd-supply&quot;&gt;&lt;em&gt;Back Airpup on &lt;a href=&quot;https://www.crowdsupply.com/head-full-of-air/airpup&quot;&gt;Crowd Supply&lt;/a&gt;.&lt;/em&gt;&lt;/h5&gt;
-
-&lt;p&gt;Because there are no animals that fly by buoyancy, balloons’ closest animal analogs are sea creatures. As a small balloon Airpup needs a high volume shape. So does the Nerpa, a tiny seal with a thick layer of blubber living in frigid Lake Baikal.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/sergio-tittarini-nerpa-cc-by.jpg&quot; alt=&quot;Nerpas lounging on rocks, Sergio Tittarini, CC-BY 2016&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;photo by Sergio Tittarini, CC-BY 2016&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Starting from the Nerpa as inspiration for a friendly sky seal, Justin created Airpup in &lt;a href=&quot;https://krita.org/en/&quot;&gt;Krita&lt;/a&gt;, the open source digital painting tool.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup.png&quot; alt=&quot;Airpup mascot by Justin Nichol&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-camera.png&quot; alt=&quot;Airpup mascot by Justin Nichol&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Working from a &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon&quot;&gt;3D model of Airpup&lt;/a&gt; Justin created a simplified view of Airpup’s face that would be visible from a long distance. Using the vinyl cutter at &lt;a href=&quot;http://pdxhackerspace.org/&quot;&gt;Ctrl-H&lt;/a&gt; I cut out a stick-on face for Airpup:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-stjohns3.JPG&quot; alt=&quot;Airpup mascot by Justin Nichol in flight by the St. Johns Bridge in Portland, OR&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-stjohns2.jpg&quot; alt=&quot;Airpup mascot by Justin Nichol in flight by the St. Johns Bridge in Portland, OR&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Airpup in-flight photos by Colleen Donaldson&lt;/em&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="airpup" /><category term="kite balloons" /><category term="kites" /><category term="balloons" /><summary type="html">I want Airpup to be fun and social, and worked with Justin Nichol to create a character that not only represents Airpup, but could be drawn directly on the balloon.</summary></entry></feed>
+&lt;p&gt;The glistening threads are &lt;a href=&quot;https://en.wikipedia.org/wiki/Ballooning_(spider)&quot;&gt;ballooning spiders&lt;/a&gt; whose migration was cut short by my kite line. My sincerest apologies to these awesome arachnids.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="kite balloons" /><category term="airpup" /><category term="studio-update" /><summary type="html">After a variety of delays, detailed in my previous studio update videos, I’ve finally finished the production prototype of Airpup and have done a solid test flight.</summary></entry></feed>
