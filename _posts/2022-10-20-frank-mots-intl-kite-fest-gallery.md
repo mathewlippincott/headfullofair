@@ -8,8 +8,8 @@ tags:
  - kites
 
 header:
- image: /assets/images/kites/fmikfmke/P2470202.JPG
- teaser: assets/images/kites/fmikfmke/P2470202.jpg/assets/images/kites/fmikfmke/P2470202.jpg
+ image: /assets/images/kites/fmikfmke/P2470202.jpg
+ teaser: assets/images/kites/fmikfmke/P2470202.jpg
 
 gallery:
 - url: ../assets/images/kites/fmikfmke/P2460938.jpg

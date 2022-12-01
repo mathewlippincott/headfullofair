@@ -11,15 +11,15 @@ tags:
  - DJI
 
 header: 
- image: /assets/images/aerials/komatsu/DJI_0738.JPG
+ image: /assets/images/aerials/komatsu/DJI_0738.jpg
  teaser: /assets/images/aerials/komatsu/DJI_0738.jpg
 
 ---
 My current [kite aerial photography rigs](/tags/rigs) and a [flat winder](/tags/flat-winder) of string, fits in a small shoulder bag and weighs a little over 2 pounds. My rig's portability let me do a quick flight at the new Komatsu headquarters, across from the school of Freshwater Sciences on Milwaukee Harbor.
 
-![Komatsu headquarters](/assets/images/aerials/komatsu/DJI_0752.JPG)
+![Komatsu headquarters](/assets/images/aerials/komatsu/DJI_0752.jpg)
 
-![Komatsu headquarters](/assets/images/aerials/komatsu/DJI_0737.JPG)
+![Komatsu headquarters](/assets/images/aerials/komatsu/DJI_0737.jpg)
 
 
 # Inside my bag: 

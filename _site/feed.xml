@@ -1,8 +1,146 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-22T20:27:49-05:00</updated><id>http://localhost:4000/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Milwaukee Harbor, Komatsu North America</title><link href="http://localhost:4000/post/Milwaukee-Harbor-Komatsu/" rel="alternate" type="text/html" title="Milwaukee Harbor, Komatsu North America" /><published>2022-10-21T00:00:00-05:00</published><updated>2022-10-21T00:00:00-05:00</updated><id>http://localhost:4000/post/Milwaukee%20Harbor%20Komatsu</id><content type="html" xml:base="http://localhost:4000/post/Milwaukee-Harbor-Komatsu/">&lt;p&gt;My current &lt;a href=&quot;/tags/rigs&quot;&gt;kite aerial photography rigs&lt;/a&gt; and a &lt;a href=&quot;/tags/flat-winder&quot;&gt;flat winder&lt;/a&gt; of string, fits in a small shoulder bag and weighs a little over 2 pounds. My rig’s portability let me do a quick flight at the new Komatsu headquarters, across from the school of Freshwater Sciences on Milwaukee Harbor.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://headfullofair.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://headfullofair.com/" rel="alternate" type="text/html" /><updated>2022-11-27T16:32:40-06:00</updated><id>https://headfullofair.com/</id><title type="html">Head Full of Air</title><subtitle>headfullofair.com collects Mathew Lippincott's DIY aerospace projects and research on kites, balloons, and low power flight. Read about developments in tethered balloons, free flight balloons, and novel strategies for navigating the atmosphere. Favorite topics include: Aerostats, kite-balloons, solar hot air balloons, kite anemometers</subtitle><author><name>Mathew Lippincott</name><email>headfullofair@gmail.com</email></author><entry><title type="html">Solar Thermal Atmospheric Research Station (STARS) Proposals, 1978-1982</title><link href="https://headfullofair.com/post/stars/" rel="alternate" type="text/html" title="Solar Thermal Atmospheric Research Station (STARS) Proposals, 1978-1982" /><published>2022-11-27T00:00:00-06:00</published><updated>2022-11-27T00:00:00-06:00</updated><id>https://headfullofair.com/post/stars</id><content type="html" xml:base="https://headfullofair.com/post/stars/">&lt;p&gt;In the early 1960s, Buckminster Fuller did back-of-the-envelope calculations for a giant, solar-heated balloon that he called Cloud Nine. This 1-mile (1.6km) diameter rigid geodesic sphere could, he claimed, house thousands.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/komatsu/DJI_0752.JPG&quot; alt=&quot;Komatsu headquarters&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/buckminster-fuller-shoji-sadao-cloud-9.jpg&quot; alt=&quot;Project for Floating Cloud Structures (Cloud Nine). R. Buckminster Fuller and Soji Sadao&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/komatsu/DJI_0737.JPG&quot; alt=&quot;Komatsu headquarters&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Project for Floating Cloud Structures (Cloud Nine). R. Buckminster Fuller and Soji Sadao&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the late 1970s, electrical engineer and physicist Ernest C. Okress picked up on the Cloud Nine idea for a concept he called the Solar Thermal Atmospheric Research Station (STARS). Fuller loaned him a 36-inch-wide tensegrity sphere&lt;sup&gt;[2]&lt;/sup&gt;, and assistance came from Okress’s Franklin Research Institute colleagues Robert K. Soberman and C.C. Von Statten. They performed concept-level studies demonstrating the feasibility of a mile-wide, rigid platform floating in the stratosphere, as well as outlining possible construction methods. In May of 1982, Science Digest reported that Okress and Soberman were developing a 650-foot-diameter STARS prototype called the Solar Powered Stratospheric Platform (SPSP), but this is the last press report I can find on STARS, and no more papers were published.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/solar-thermal-atmospheric-research-station-2081-oneill-edit.jpg&quot; alt=&quot;Franklin Research Institute Concept Art for STARS. From Gerard K. O'Neill's 1981 book 2081&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Franklin Research Institute Concept Art for STARS. From Gerard K. O’Neill’s 1981 book 2081&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I discovered STARS while flipping through &lt;em&gt;2081&lt;/em&gt;, a tome of Gerard K. O’Neill’s predictions of the future, and this post collects the information and concept art  I’ve uncovered since then. STARS also inspired the 1983 Poul Anderson novel &lt;em&gt;Orion Shall Rise&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/orionshallrise.jpg&quot; alt=&quot;Peter Elson's Cover for the 1987 edition of Poul Anderson's Orion Shall Rise&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Peter Elson’s Cover for the 1987 edition of Poul Anderson’s Orion Shall Rise&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;the-stars-concept&quot;&gt;the STARS concept&lt;/h1&gt;
+&lt;p&gt;STARS is proposed as a double envelope balloon whose envelopes have an infrared reflective coating on their interior, similar to a double-layered greenhouse. Half of STARS is metallized and reflective to direct more sunlight to the solar energy absorption system. Various solar energy absorption systems are proposed, including photovoltaics, a solar-concentrating heat engine, suspended black carbon dust, and darkened water vapor.&lt;/p&gt;
+
+&lt;p&gt;In some scenarios, flipping the balloon upside down at night to minimize radiative heat loss is considered, although Okress and Soberman note that flipping the structure introduces substantial complexity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/alt-energy-spsp-geometry.png&quot; alt=&quot;Diagram of STARS and its day and night orientation, from Alternative Energy 3 Conference presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Diagram of STARS and its day and night orientation&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;A modular, rigid, tensegrity structure gives the balloon a stiff surface necessary to resist wind gusts, as STARS is large enough to cross atmospheric layers and experience substantial wind shear. Modularity also allows the balloon to be repaired in flight and remain aloft indefinitely.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/alt-energy-3-tensegrity.png&quot; alt=&quot;36-inch tensegrity geodesic loaned to the STARS team by Buckminster Fuller's company, Geometrics, Inc.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;36-inch tensegrity geodesic loaned to the STARS team by Buckminster Fuller’s company, Geometrics, Inc.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Hexagonal tensegrity modules are interchangeable and collapsable, allowing them to be serviced, replaced, and assembled piecemeal. The envelope film is held in place along the perimeter cables of each module, so that it can be replaced. 1 mil (25.4 µm) thick polyester film is assumed in most configurations, with polyvinyl fluoride (Tedlar) for smaller, higher-temperature prototypes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/alt-energy-3-support-structure.png&quot; alt=&quot;Proposed STARS modules and connection schema from Alternative Energy 3 Conference presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Proposed STARS modules and connection schema&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Each module’s rigid members are made from hollow double cones of thin (1 mil, 25.4 µm) steel or aluminum that are pressurized for rigidity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/sawe1376-pg39.png&quot; alt=&quot;Proposed STARS module detail from SAWE 1376&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Proposed STARS module detail&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In order to avoid jet-dominated airspace, STARS flies above approximately 20 kilometers (about 65,000 feet) in air that is assumed to be -55 degrees Celsius. The interior of STARS is assumed to be 26.7 degrees, for a super temperature of 81.7 degrees Celsius. Plenty of excess energy is available to maintain this temperature from day to night.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/sawe1376-pg35.png&quot; alt=&quot;Calculated excess energy from SAWE 1376&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Calculated excess energy&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;STARS’ rigid structure precludes changing size, and so STARS is a zero pressure design; interior pressure is the same as exterior pressure. Pumped air ballast is  used to adjust to small changes in temperature. However, maintaining a constant interior temperature from day to night requires removing excess energy from the balloon during the day and adding energy at night to make up for losses.&lt;/p&gt;
+
+&lt;p&gt;The most extensively explored system for balancing day to night energy needs is an onboard solar thermal power plant generating hydrogen. hydrogen is used for powered thrusters and to maintain interior temperature. Interestingly, hydrogen is not proposed as a lifting gas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/alt-energy-3-diagram.png&quot; alt=&quot;Diagram of solar-thermal power plant inside STARS from Alternative Energy 3 presentation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Diagram of solar-thermal power plant inside STARS&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As an electrical engineer, Okress is interested in STARS functioning similarly to a space-based solar power station, transmitting excess energy to the ground using a microwave array. He also proposes replacing power storage by sending power to STARS at night to maintain altitude, either from the ground or from a space-based solar power station. This power station design for STARS receives the most effort in illustration.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/sawe1376-pg41.png&quot; alt=&quot;Illustration of solar-thermal power plant inside STARS from SAWE 1376&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cutaway diagram of STARS as a solar-thermal power station. The dish in the middle is a parabolic reflector made from thin film, directing sunlight upwards towards another sphere representing the concentrator/heat engine. below the dish is a spherical balloon for pumped air ballast. structures around the balloon’s hemisphere represent thrusters to maintain position. The open bottom shows an airship shuttle leaving.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Although many components of this power station are speculative, STARS certainly has the excess lift to carry such a system.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/ieee-lift.png&quot; alt=&quot;STARS free lift calculated for various sizes and component designs, from IEEE 0018-935 1200-0041-00.75&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/sawe1376-pg40.png&quot; alt=&quot;Excess lift from SAWE 1376&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Three assembly methods are proposed: on the ground, over water, or in the upper atmosphere.  Ground assembly requires a deep valley protected from the wind, and is based on elevating a mast structure in the center.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/sawe1376-pg43.png&quot; alt=&quot;Ground assembly concept for STARS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Assembly on the water would result in a submerged STARS that would then be floated and inflated, requiring an extremely deep bay or lake.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/sawe1376-pg44.png&quot; alt=&quot;Ground assembly concept for STARS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Okress proposes that STARS is best assembled in the upper atmosphere, although he does not explain how all those tons of material will stay aloft before fully enclosing a large volume of air. Okress’s reasoning for atmospheric assembly is that a super temperature necessary for take off will subject the balloon’s envelope to absolute temperatures that are too high. The polyester film specified for the balloon cannot handle such heat, and the alternatives suggested (PTFE, Tedlar) are problematic for cost and environmental reasons. However, polypropylene film is commercially available as greenhouse plastic and is structurally sound past the 108 degrees Celsius Okress imagines necessary &lt;sup&gt;[2]&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;my-thoughts&quot;&gt;my thoughts&lt;/h1&gt;
+&lt;p&gt;Aircraft prototypes often fail catastrophically, and rigid lighter-than-air craft tend to have very large prototypes. Development is risky and high stakes. The smallest viable STARS prototype is an 80-ton, 200-meter-diameter structure made out of pressurized metal spikes&lt;sup&gt;[3]&lt;/sup&gt;. If airborne megastructures ever come into existence, they will have to start from smaller, lower-stakes prototypes.&lt;/p&gt;
+
+&lt;p&gt;Smaller prototypes require an envelope with an order of magnitude lower mass per unit area than the 2 ounces per square foot of STARS &lt;sup&gt;[3]&lt;/sup&gt;.  An order of magnitude improvement seems feasible with contemporary composites. I’ve made rigid kites from Dyneema fabric and carbon fiber that come out around 0.05oz per square foot.&lt;/p&gt;
+
+&lt;p&gt;Several other technologies required for STARS are far more mature than they were in the early 1980s. Photovoltaics can replace the bulky solar thermal system. Shifting a balloon’s altitude to navigate precisely over long distances has recently been demonstrated by Loon, StratOAWL, and others, and could replace most of the thruster-based maneuvering STARS proposes.&lt;/p&gt;
+
+&lt;p&gt;The fossil fuel intensity and unknown environmental impacts of large-scale rocket launches make a STARS-like platform a desirable replacement for satellite systems. New technology makes STARS more possible, and floating in the upper atmosphere rather than circling the earth should reduce costs per kilogram by at least three orders of magnitude&lt;sup&gt;[6]&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, there remain no high-altitude airships to reach, resupply, and maintain a giant upper-atmospheric structure. The last attempt at constructing such a craft, Lockheed-Martin’s HALE-D, was canceled. Like STARS, each of those airship prototypes will be big, high stakes, and risky.&lt;/p&gt;
+
+&lt;p&gt;Rockets and jets are mature, incumbent technologies supported by a large number of professionals, educational programs, established infrastructure, supply networks, and a huge installed base of equipment, creating path dependency. Until the aerospace industry is forced to reckon with the intense environmental impacts of burning massive amounts of fuel in the upper atmosphere, new lighter-than-air craft will remain on the industry’s fringes.&lt;/p&gt;
+
+&lt;h1 id=&quot;situating-stars-within-solar-ballooning&quot;&gt;situating STARS within solar ballooning&lt;/h1&gt;
+
+&lt;p&gt;Research into STARS began after the first solar hot air balloon flights of Tracey Barnes (1973) and Dominic Michaelis, who flew over the English Channel in 1984. STARS also ran concurrently with beginning of the CNES Montgolfière Infrarouge project that flew balloons heated by the infrared flux of earth. These balloons were half-silvered and made from mylar, like the STARS concept.&lt;/p&gt;
+
+&lt;p&gt;Since at least 2010, Aerocene artist and solar aeronaut Tomás Saraceno has been using half-reflective spherical balloons as representations of floating habitat concepts.&lt;/p&gt;
+
+&lt;h1 id=&quot;misguided-concept-art&quot;&gt;misguided concept art&lt;/h1&gt;
+&lt;p&gt;Someone at &lt;em&gt;Science Digest&lt;/em&gt; commissioned this realistic illustration of a STARS diagram. It’s kind of ridiculous:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerocene/stars/ian-worpole-science-digest-1982-solar-powered-stratospheric-platform-a.jpg&quot; alt=&quot;Ian Worpole's realistic illustration of a diagram&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;bibliography&quot;&gt;bibliography&lt;/h1&gt;
+
+&lt;h3 id=&quot;art&quot;&gt;art:&lt;/h3&gt;
+&lt;p&gt;I’m pretty sure there is more concept art out there. Unfortunately, the Franklin Research Institute was dissolved in the mid-1980s, and the Franklin Institute does not have records from the Franklin Research Institute. What records remain are at the University of Delaware and Swarthmore College. Librarians at both institutions were unable to identify further info on this project.&lt;/p&gt;
+
+&lt;p&gt;Fuller, R. Buckminster and Shoji Sadao. 1960. &lt;em&gt;Project for Floating Cloud Structures (Cloud Nine)&lt;/em&gt;. Stanford: Stanford University Libraries Department of Special Collections, Estate of R. Buckminster Fuller.&lt;/p&gt;
+
+&lt;p&gt;Elson, Peter. 1987 edition. &lt;em&gt;Orion Shall Rise&lt;/em&gt;. Cover for book of the same name by Poul Anderson, originally published 1983. New York: Simon &amp;amp; Schuster.&lt;/p&gt;
+
+&lt;p&gt;Worpole. Ian. 1982. &lt;em&gt;Dirigible at the Edge of Space&lt;/em&gt;. Science Digest, Volume 90, May 23, 1982. Des Moines: Hearst Corporation.&lt;/p&gt;
+
+&lt;p&gt;O’Neill, Gerard K. 1981. &lt;em&gt;2081: A Hopeful View of the Human Future&lt;/em&gt;. New York: Simon &amp;amp; Schuster.&lt;/p&gt;
+
+&lt;h3 id=&quot;papers-referenced&quot;&gt;papers referenced:&lt;/h3&gt;
+
+&lt;p&gt;The core information about STARS is contained in the 1980 presentation to the Society of Allied Weight Engineers.&lt;/p&gt;
+
+&lt;p&gt;[1] Okress, Ernest C. 1978. &lt;em&gt;The Franklin Institute has High Hopes for Its Big Balloon&lt;/em&gt;. IEEE Spectrum 0018-935/1200-0041$00.75, December, 1978. New York: Institute of Electrical &amp;amp; Electronics Engineers.&lt;/p&gt;
+
+&lt;p&gt;[2] Okress, Ernest C. and Robert K. Soberman. 1980. &lt;em&gt;Solar Thermal Research Station (STARS)&lt;/em&gt;. Presentation at the 39th Annual Conference of the Society of Allied Weight Engineers. SAWE Paper No. 1376. Los Angeles: Society of Allied Weight Engineers, Inc.&lt;/p&gt;
+
+&lt;p&gt;[3] Okress, Ernest C. and Robert K. Soberman. 1980. &lt;em&gt;Solar Powered Stratospheric Platform (SPSP).&lt;/em&gt; Proceedings of the Third Miami International Conference on Alternative Energy Sources, December 15-17, 1980. Volume 3, Solar Energy 3. ed. Veziroğlu, Nejat T. Washington (DC): Hemisphere Publishing Corporation.&lt;/p&gt;
+
+&lt;p&gt;[4] Okress, Ernest C. and Robert K. Soberman. 1981. &lt;em&gt;A Stratospheric Platform - Substantial Advances of the STARS Project&lt;/em&gt;. Presentation at the 40th Annual Conference of the Society of Allied Weight Engineers. SAWE Paper No. 1436. Los Angeles: Society of Allied Weight Engineers, Inc.&lt;/p&gt;
+
+&lt;p&gt;[5] Okress, Ernest C. and Robert K. Soberman. 1981. &lt;em&gt;Solar Powered Stratospheric Platform&lt;/em&gt; Space Manufacturing IV : Proceedings of the fifth Princeton/American Institute of Aeronautics and Astronautics Conference, May 18-21, 1981. Washington (DC): American Institute of Aeronautics &amp;amp; Astronautics.&lt;/p&gt;
+
+&lt;p&gt;[6] Yajima, Nobuyuki, Naoki Izutsu, Takeshi Imamura, and Toyoo Abe. 2004. &lt;em&gt;Scientific Ballooning: Technology and Applications of Exploration Balloons Floating in the Stratosphere and the Atmospheres of Other Planets&lt;/em&gt;. New York: Springer.&lt;/p&gt;
+
+&lt;h3 id=&quot;further-references-not-found&quot;&gt;further references not found:&lt;/h3&gt;
+
+&lt;p&gt;Okress, Ernest C. and Robert K. Soberman. 1980. Paper IAF 79-F-35, Proceedings of the XXXth International Astronautic Federation Congress, September 21, 1979. Munich: Pergamon Press.&lt;/p&gt;
+
+&lt;p&gt;Okress, Ernest C., Robert K. Soberman, and Von Stretten. 1980. The Construction Specifier, Vol. 3 No. 1. January, 1980. Alexandria (VA): Construction Specifications Institute.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="aerocene" /><summary type="html">In the early 1960s, Buckminster Fuller did back-of-the-envelope calculations for a giant, solar-heated balloon that he called Cloud Nine. This 1-mile (1.6km) diameter rigid geodesic sphere could, he claimed, house thousands.</summary></entry><entry><title type="html">Milwaukee Harbor, Komatsu North America</title><link href="https://headfullofair.com/post/Milwaukee-Harbor-Komatsu/" rel="alternate" type="text/html" title="Milwaukee Harbor, Komatsu North America" /><published>2022-10-21T00:00:00-05:00</published><updated>2022-10-21T00:00:00-05:00</updated><id>https://headfullofair.com/post/Milwaukee%20Harbor%20Komatsu</id><content type="html" xml:base="https://headfullofair.com/post/Milwaukee-Harbor-Komatsu/">&lt;p&gt;My current &lt;a href=&quot;/tags/rigs&quot;&gt;kite aerial photography rigs&lt;/a&gt; and a &lt;a href=&quot;/tags/flat-winder&quot;&gt;flat winder&lt;/a&gt; of string, fits in a small shoulder bag and weighs a little over 2 pounds. My rig’s portability let me do a quick flight at the new Komatsu headquarters, across from the school of Freshwater Sciences on Milwaukee Harbor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/komatsu/DJI_0752.jpg&quot; alt=&quot;Komatsu headquarters&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/aerials/komatsu/DJI_0737.jpg&quot; alt=&quot;Komatsu headquarters&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;inside-my-bag&quot;&gt;Inside my bag:&lt;/h1&gt;
 
@@ -14,7 +152,7 @@
   &lt;li&gt;DJI Pocket 2 with qifi adapter&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://kaptery.com/&quot;&gt;KAPtery&lt;/a&gt; 3D Printed &lt;a href=&quot;https://www.thingiverse.com/thing:281677&quot;&gt;Picavet&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Picavet rod replaced with a &lt;a href=&quot;https://www.mcmaster.com/98831A570/&quot;&gt;1/4-20 nylon threaded rod&lt;/a&gt;, wingnuts, and washers.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="KAPtery" /><category term="DJI" /><summary type="html">My current kite aerial photography rigs and a flat winder of string, fits in a small shoulder bag and weighs a little over 2 pounds. My rig’s portability let me do a quick flight at the new Komatsu headquarters, across from the school of Freshwater Sciences on Milwaukee Harbor.</summary></entry><entry><title type="html">Kite photos from the Frank Mots International Kite Festival, Milwaukee</title><link href="http://localhost:4000/post/frank-mots-intl-kite-fest-mke/" rel="alternate" type="text/html" title="Kite photos from the Frank Mots International Kite Festival, Milwaukee" /><published>2022-10-20T00:00:00-05:00</published><updated>2022-10-20T00:00:00-05:00</updated><id>http://localhost:4000/post/frank-mots-intl-kite-fest-mke</id><content type="html" xml:base="http://localhost:4000/post/frank-mots-intl-kite-fest-mke/">&lt;p&gt;At the 2022 &lt;a href=&quot;https://city.milwaukee.gov/County-Events/Frank-Mots-International-Kite-Festival-at-Veterans-Park&quot;&gt;Frank Mots International Kite Festival&lt;/a&gt; in Milwaukee, We flew kites and &lt;a href=&quot;/post/tulle-kite-banners/&quot;&gt;kite banners&lt;/a&gt;, and also captured aerial photos (this post) and &lt;a href=&quot;/post/frank-mots-intl-kite-fest-gallery/&quot;&gt;ground shots&lt;/a&gt;. I flew my DJI  Pocket 2, mounted to a &lt;a href=&quot;https://www.thingiverse.com/thing:281677&quot;&gt;3D printed picavet rig&lt;/a&gt; from the &lt;a href=&quot;http://kaptery.com/&quot;&gt;KAPtery&lt;/a&gt;, and lifted by my (now discontinued) Into the Wind &lt;a href=&quot;https://intothewind.com/Item--i-3610&quot;&gt;Levitation&lt;/a&gt; Light. Colleen Donaldson controlled the camera from an iPhone on the ground while I maneuvered the kite.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="KAPtery" /><category term="DJI" /><summary type="html">My current kite aerial photography rigs and a flat winder of string, fits in a small shoulder bag and weighs a little over 2 pounds. My rig’s portability let me do a quick flight at the new Komatsu headquarters, across from the school of Freshwater Sciences on Milwaukee Harbor.</summary></entry><entry><title type="html">Kite photos from the Frank Mots International Kite Festival, Milwaukee</title><link href="https://headfullofair.com/post/frank-mots-intl-kite-fest-mke/" rel="alternate" type="text/html" title="Kite photos from the Frank Mots International Kite Festival, Milwaukee" /><published>2022-10-20T00:00:00-05:00</published><updated>2022-10-20T00:00:00-05:00</updated><id>https://headfullofair.com/post/frank-mots-intl-kite-fest-mke</id><content type="html" xml:base="https://headfullofair.com/post/frank-mots-intl-kite-fest-mke/">&lt;p&gt;At the 2022 &lt;a href=&quot;https://city.milwaukee.gov/County-Events/Frank-Mots-International-Kite-Festival-at-Veterans-Park&quot;&gt;Frank Mots International Kite Festival&lt;/a&gt; in Milwaukee, We flew kites and &lt;a href=&quot;/post/tulle-kite-banners/&quot;&gt;kite banners&lt;/a&gt;, and also captured aerial photos (this post) and &lt;a href=&quot;/post/frank-mots-intl-kite-fest-gallery/&quot;&gt;ground shots&lt;/a&gt;. I flew my DJI  Pocket 2, mounted to a &lt;a href=&quot;https://www.thingiverse.com/thing:281677&quot;&gt;3D printed picavet rig&lt;/a&gt; from the &lt;a href=&quot;http://kaptery.com/&quot;&gt;KAPtery&lt;/a&gt;, and lifted by my (now discontinued) Into the Wind &lt;a href=&quot;https://intothewind.com/Item--i-3610&quot;&gt;Levitation&lt;/a&gt; Light. Colleen Donaldson controlled the camera from an iPhone on the ground while I maneuvered the kite.&lt;/p&gt;
 
 &lt;p&gt;We were out at the point in veterans park, which became the major public flying field during the festival.&lt;/p&gt;
 
@@ -26,67 +164,67 @@ The silver kite seen on the ground is by &lt;a href=&quot;https://www.haiwenlin.
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0500.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0500-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0500.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0500-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0516.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0516-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0516.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0516-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0529.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0529-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0529.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0529-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0582.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0582-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0582.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0582-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0605.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0605-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0605.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0605-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0619.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0619-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0619.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0619-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0649.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0649-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0649.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0649-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0684.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0684-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0684.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0684-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0690.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0690-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0690.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0690-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0706.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/aerials/fmikfmke/DJI_0706-c.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0706.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/aerials/fmikfmke/DJI_0706-c.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
   
-&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="KAPtery" /><category term="DJI" /><summary type="html">At the 2022 Frank Mots International Kite Festival in Milwaukee, We flew kites and kite banners, and also captured aerial photos (this post) and ground shots. I flew my DJI Pocket 2, mounted to a 3D printed picavet rig from the KAPtery, and lifted by my (now discontinued) Into the Wind Levitation Light. Colleen Donaldson controlled the camera from an iPhone on the ground while I maneuvered the kite.</summary></entry><entry><title type="html">Ground photos from the Frank Mots International Kite Festival, Milwaukee</title><link href="http://localhost:4000/post/frank-mots-intl-kite-fest-gallery/" rel="alternate" type="text/html" title="Ground photos from the Frank Mots International Kite Festival, Milwaukee" /><published>2022-10-20T00:00:00-05:00</published><updated>2022-10-20T00:00:00-05:00</updated><id>http://localhost:4000/post/frank-mots-intl-kite-fest-gallery</id><content type="html" xml:base="http://localhost:4000/post/frank-mots-intl-kite-fest-gallery/">&lt;p&gt;At the 2022 &lt;a href=&quot;https://city.milwaukee.gov/County-Events/Frank-Mots-International-Kite-Festival-at-Veterans-Park&quot;&gt;Frank Mots International Kite Festival&lt;/a&gt; in Milwaukee, we flew kites and &lt;a href=&quot;/post/tulle-kite-banners/&quot;&gt;kite banners&lt;/a&gt;, and Colleen Donaldson and I (mostly Colleen) took photos of the kites from the ground (this post) and also from the &lt;a href=&quot;/post/frank-mots-intl-kite-fest-mke/&quot;&gt;air&lt;/a&gt;.&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><category term="rigs" /><category term="KAPtery" /><category term="DJI" /><summary type="html">At the 2022 Frank Mots International Kite Festival in Milwaukee, We flew kites and kite banners, and also captured aerial photos (this post) and ground shots. I flew my DJI Pocket 2, mounted to a 3D printed picavet rig from the KAPtery, and lifted by my (now discontinued) Into the Wind Levitation Light. Colleen Donaldson controlled the camera from an iPhone on the ground while I maneuvered the kite.</summary></entry><entry><title type="html">Ground photos from the Frank Mots International Kite Festival, Milwaukee</title><link href="https://headfullofair.com/post/frank-mots-intl-kite-fest-gallery/" rel="alternate" type="text/html" title="Ground photos from the Frank Mots International Kite Festival, Milwaukee" /><published>2022-10-20T00:00:00-05:00</published><updated>2022-10-20T00:00:00-05:00</updated><id>https://headfullofair.com/post/frank-mots-intl-kite-fest-gallery</id><content type="html" xml:base="https://headfullofair.com/post/frank-mots-intl-kite-fest-gallery/">&lt;p&gt;At the 2022 &lt;a href=&quot;https://city.milwaukee.gov/County-Events/Frank-Mots-International-Kite-Festival-at-Veterans-Park&quot;&gt;Frank Mots International Kite Festival&lt;/a&gt; in Milwaukee, we flew kites and &lt;a href=&quot;/post/tulle-kite-banners/&quot;&gt;kite banners&lt;/a&gt;, and Colleen Donaldson and I (mostly Colleen) took photos of the kites from the ground (this post) and also from the &lt;a href=&quot;/post/frank-mots-intl-kite-fest-mke/&quot;&gt;air&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We were out at the point in veterans park, which became the major public flying field during the festival.&lt;/p&gt;
 
@@ -97,241 +235,241 @@ The silver kite seen on the ground is by &lt;a href=&quot;https://www.haiwenlin.
 &lt;figure class=&quot;third &quot;&gt;
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460938.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460938_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460938.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460938_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460935.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460935_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460935.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460935_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460922.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460922_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460922.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460922_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460920.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460920_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460920.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460920_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460903.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460903_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460903.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460903_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460895.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460895_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460895.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460895_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460894.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460894_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460894.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460894_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460889.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460889_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460889.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460889_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460879.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460879_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460879.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460879_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460878.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460878_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460878.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460878_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460867-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460867-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460867-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460867-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460865-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460865-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460865-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460865-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460851-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460851-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460851-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460851-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460843.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460843_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460843.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460843_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460821.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460821_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460821.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460821_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460724.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460724_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460724.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460724_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460706-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460706-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460706-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460706-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460696-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460696-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460696-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460696-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460688-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460688-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460688-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460688-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460657-crjop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460657-crjop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460657-crjop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460657-crjop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460597.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460597_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460597.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460597_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460578.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460578_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460578.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460578_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460558.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460558_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460558.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460558_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460543-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460543-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460543-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460543-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460541-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460541-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460541-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460541-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460538.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460538_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460538.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460538_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460530-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460530-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460530-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460530-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460529-crop.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460529-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460529-crop.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460529-crop_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460524.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460524_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460524.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460524_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460519.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460519_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460519.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460519_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470266.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470266_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470266.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470266_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470202.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470202_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470202.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470202_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470189.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470189_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470189.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470189_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470145.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470145_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470145.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470145_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470108.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470108_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470108.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470108_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470064.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470064_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470064.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470064_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470064.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2470064_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470064.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2470064_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460960.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460960_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460960.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460960_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
     
-      &lt;a href=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460955.jpg&quot;&gt;
-        &lt;img src=&quot;http://localhost:4000/assets/images/kites/fmikfmke/P2460955_1.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;a href=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460955.jpg&quot;&gt;
+        &lt;img src=&quot;https://headfullofair.com/assets/images/kites/fmikfmke/P2460955_1.jpg&quot; alt=&quot;&quot; /&gt;
       &lt;/a&gt;
     
   
   
-&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><summary type="html">At the 2022 Frank Mots International Kite Festival in Milwaukee, we flew kites and kite banners, and Colleen Donaldson and I (mostly Colleen) took photos of the kites from the ground (this post) and also from the air.</summary></entry><entry><title type="html">sailing the sky: endless gliding takes shape</title><link href="http://localhost:4000/post/sailing-the-sky/" rel="alternate" type="text/html" title="sailing the sky: endless gliding takes shape" /><published>2022-06-19T00:00:00-05:00</published><updated>2022-06-19T00:00:00-05:00</updated><id>http://localhost:4000/post/sailing-the-sky</id><content type="html" xml:base="http://localhost:4000/post/sailing-the-sky/">&lt;p&gt;While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post.&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Mathew</name></author><category term="kites" /><summary type="html">At the 2022 Frank Mots International Kite Festival in Milwaukee, we flew kites and kite banners, and Colleen Donaldson and I (mostly Colleen) took photos of the kites from the ground (this post) and also from the air.</summary></entry><entry><title type="html">sailing the sky: endless gliding takes shape</title><link href="https://headfullofair.com/post/sailing-the-sky/" rel="alternate" type="text/html" title="sailing the sky: endless gliding takes shape" /><published>2022-06-19T00:00:00-05:00</published><updated>2022-06-19T00:00:00-05:00</updated><id>https://headfullofair.com/post/sailing-the-sky</id><content type="html" xml:base="https://headfullofair.com/post/sailing-the-sky/">&lt;p&gt;While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post.&lt;/p&gt;
 
 &lt;h1 id=&quot;boats-get-new-wings&quot;&gt;boats get new wings&lt;/h1&gt;
 &lt;p&gt;Ocean sailing has experienced a recent infusion of soaring technology, as parawings developed for soaring have been adapted to kiteboats and kite foiling.  Experimental sailcraft and aircraft suggest that soaring may benefit from ocean sailing strategies.&lt;/p&gt;
@@ -412,7 +550,7 @@ The silver kite seen on the ground is by &lt;a href=&quot;https://www.haiwenlin.
 &lt;p&gt;[5] The initial proposal for the DAP platform involved a tandem-wing aircraft that looks like a canard glider with extremely exaggerated canards. It is the subject of a graduate thesis:
 &lt;a href=&quot;https://commons.erau.edu/edt/104/&quot;&gt;McKee, Michael E. 2012. &lt;em&gt;Novel Airframe Design for the Dual-Aircraft Atmospheric Platform Flight Concept.&lt;/em&gt; Masters Thesis. Daytona Beach: Embry Riddle Aeronautical University.&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;[6] DOE. 2021. &lt;em&gt;Challenges and Opportunities for Airborne Wind Energy in the United States.&lt;/em&gt; Report to Congress. Washington (DC): US Department of Energy. &lt;a href=&quot;https://airbornewindeurope.org/wp-content/uploads/2021/12/report-to-congress-challenges-opportunities-airborne-wind-energy-united-states.pdf&quot;&gt;&lt;em&gt;PDF link&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="aerocene" /><category term="kites" /><category term="atmospheric-satellite" /><category term="gliding" /><category term="paragliding" /><category term="sailing" /><summary type="html">While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post. boats get new wings Ocean sailing has experienced a recent infusion of soaring technology, as parawings developed for soaring have been adapted to kiteboats and kite foiling. Experimental sailcraft and aircraft suggest that soaring may benefit from ocean sailing strategies.</summary></entry><entry><title type="html">bigger kite banners</title><link href="http://localhost:4000/post/tulle-kite-banners/" rel="alternate" type="text/html" title="bigger kite banners" /><published>2021-05-07T00:00:00-05:00</published><updated>2021-05-07T00:00:00-05:00</updated><id>http://localhost:4000/post/tulle-kite-banners</id><content type="html" xml:base="http://localhost:4000/post/tulle-kite-banners/">&lt;p&gt;This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.&lt;/p&gt;
+&lt;p&gt;[6] DOE. 2021. &lt;em&gt;Challenges and Opportunities for Airborne Wind Energy in the United States.&lt;/em&gt; Report to Congress. Washington (DC): US Department of Energy. &lt;a href=&quot;https://airbornewindeurope.org/wp-content/uploads/2021/12/report-to-congress-challenges-opportunities-airborne-wind-energy-united-states.pdf&quot;&gt;&lt;em&gt;PDF link&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="aerocene" /><category term="kites" /><category term="atmospheric-satellite" /><category term="gliding" /><category term="paragliding" /><category term="sailing" /><summary type="html">While sailing the sky is often used as a flight metaphor, sailing physics may be directly applicable to continuous flight. Can two wings, one functioning as a “keel” and the other as “sail,” generate continuous lift? The question is being actively researched, and I’ve collected the core technologies in this post. boats get new wings Ocean sailing has experienced a recent infusion of soaring technology, as parawings developed for soaring have been adapted to kiteboats and kite foiling. Experimental sailcraft and aircraft suggest that soaring may benefit from ocean sailing strategies.</summary></entry><entry><title type="html">bigger kite banners</title><link href="https://headfullofair.com/post/tulle-kite-banners/" rel="alternate" type="text/html" title="bigger kite banners" /><published>2021-05-07T00:00:00-05:00</published><updated>2021-05-07T00:00:00-05:00</updated><id>https://headfullofair.com/post/tulle-kite-banners</id><content type="html" xml:base="https://headfullofair.com/post/tulle-kite-banners/">&lt;p&gt;This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Header photo by Mike Hastie&lt;/em&gt;&lt;/p&gt;
 
@@ -610,13 +748,13 @@ The silver kite seen on the ground is by &lt;a href=&quot;https://www.haiwenlin.
 
 &lt;h2 id=&quot;thanks&quot;&gt;thanks&lt;/h2&gt;
 
-&lt;p&gt;These instructions were refined with the help of Jayne Meacham, following them from a distance. Banner making required a lot of hands– special thanks to PEST and Colleen Donaldson. Most of the flight photos here are from photographer Mike Hastie, many thanks for his diligent work capturing these banner lifts.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="banners" /><category term="kites" /><category term="rigs" /><summary type="html">This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.</summary></entry><entry><title type="html">Airpup on Innovation Nation</title><link href="http://localhost:4000/post/airpup-on-cbs/" rel="alternate" type="text/html" title="Airpup on Innovation Nation" /><published>2021-04-30T00:00:00-05:00</published><updated>2021-04-30T00:00:00-05:00</updated><id>http://localhost:4000/post/airpup-on-cbs</id><content type="html" xml:base="http://localhost:4000/post/airpup-on-cbs/">&lt;p&gt;Airpup was recently featured on CBS’s &lt;a href=&quot;https://www.thehenryford.org/explore/innovation-nation/episodes/creative-circuits/&quot;&gt;Innovation Nation with Mo Rocca&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;These instructions were refined with the help of Jayne Meacham, following them from a distance. Banner making required a lot of hands– special thanks to PEST and Colleen Donaldson. Most of the flight photos here are from photographer Mike Hastie, many thanks for his diligent work capturing these banner lifts.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="banners" /><category term="kites" /><category term="rigs" /><summary type="html">This tutorial details a fairly quick and inexpensive method for creating big banners to fly from a kite.</summary></entry><entry><title type="html">Airpup on Innovation Nation</title><link href="https://headfullofair.com/post/airpup-on-cbs/" rel="alternate" type="text/html" title="Airpup on Innovation Nation" /><published>2021-04-30T00:00:00-05:00</published><updated>2021-04-30T00:00:00-05:00</updated><id>https://headfullofair.com/post/airpup-on-cbs</id><content type="html" xml:base="https://headfullofair.com/post/airpup-on-cbs/">&lt;p&gt;Airpup was recently featured on CBS’s &lt;a href=&quot;https://www.thehenryford.org/explore/innovation-nation/episodes/creative-circuits/&quot;&gt;Innovation Nation with Mo Rocca&lt;/a&gt;.&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/CDJGiPt_ids&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Thanks to Karly Placek, John Murphy, and the &lt;a href=&quot;https://www.litton.tv/&quot;&gt;Litton Entertainment&lt;/a&gt; team for making a film shoot work in the midst of the pandemic and for flying me to California so we could have better weather. Also thanks to &lt;a href=&quot;https://www.imdb.com/name/nm4184546/&quot;&gt;Albert Lawrence&lt;/a&gt;, who picked out the perfect orange outfit to go with Aipup.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-innov-nation-2.jpg&quot; alt=&quot;John and Albert with Airpup&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Airpup was recently featured on CBS’s Innovation Nation with Mo Rocca.</summary></entry><entry><title type="html">DJI Pocket 2 for Kite Aerial Photography</title><link href="http://localhost:4000/post/DJI-pocket-kap/" rel="alternate" type="text/html" title="DJI Pocket 2 for Kite Aerial Photography" /><published>2021-04-29T00:00:00-05:00</published><updated>2021-04-29T00:00:00-05:00</updated><id>http://localhost:4000/post/DJI-pocket-kap</id><content type="html" xml:base="http://localhost:4000/post/DJI-pocket-kap/">&lt;p&gt;I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/airpup/airpup-innov-nation-2.jpg&quot; alt=&quot;John and Albert with Airpup&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="airpup" /><summary type="html">Airpup was recently featured on CBS’s Innovation Nation with Mo Rocca.</summary></entry><entry><title type="html">DJI Pocket 2 for Kite Aerial Photography</title><link href="https://headfullofair.com/post/DJI-pocket-kap/" rel="alternate" type="text/html" title="DJI Pocket 2 for Kite Aerial Photography" /><published>2021-04-29T00:00:00-05:00</published><updated>2021-04-29T00:00:00-05:00</updated><id>https://headfullofair.com/post/DJI-pocket-kap</id><content type="html" xml:base="https://headfullofair.com/post/DJI-pocket-kap/">&lt;p&gt;I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.&lt;/p&gt;
 
 &lt;p&gt;With the WiFi dongle, the Pocket 2 is a small (~140g), 3-axis gimbal-stabilized camera capable of sending a remote video feed to DJI’s Mimo app and being remotely controled by the app. The original DJI Pocket didn’t offer a video feed, so when I saw they added this feature to the Pocket 2, I picked one up, just in time for &lt;a href=&quot;/post/airpup-on-cbs/&quot;&gt;Airpup’s debut on CBS&lt;/a&gt;.&lt;/p&gt;
 
@@ -649,7 +787,7 @@ The silver kite seen on the ground is by &lt;a href=&quot;https://www.haiwenlin.
 &lt;p&gt;&lt;img src=&quot;/assets/images/aerials/pocket/DJI_0009 194.jpg&quot; alt=&quot;The old Milwaukee water tower and view south, Milwaukee, WI. Video Still.&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Prepping a picavet using my bicycle as the frame.
-&lt;img src=&quot;/assets/images/aerials/pocket/20210425_135300-sm.jpg&quot; alt=&quot;prepping a picavet using my bicycle as the frame.&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="rigs" /><category term="kites" /><category term="airpup" /><category term="kap" /><summary type="html">I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.</summary></entry><entry><title type="html">Airpup production patterns</title><link href="http://localhost:4000/post/airpup-production-plans/" rel="alternate" type="text/html" title="Airpup production patterns" /><published>2021-04-07T00:00:00-05:00</published><updated>2021-04-07T00:00:00-05:00</updated><id>http://localhost:4000/post/airpup-production-plans</id><content type="html" xml:base="http://localhost:4000/post/airpup-production-plans/">&lt;p&gt;Final plans for the production Airpup design are now &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon/&quot;&gt;available on Github&lt;/a&gt;, released as open hardware under the &lt;a href=&quot;https://cern-ohl.web.cern.ch/home&quot;&gt;CERN Open Hardware Licence&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&quot;/assets/images/aerials/pocket/20210425_135300-sm.jpg&quot; alt=&quot;prepping a picavet using my bicycle as the frame.&quot; /&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="rigs" /><category term="kites" /><category term="airpup" /><category term="kap" /><summary type="html">I’ve recently taken three flights using the DJI Pocket 2 with WiFi dongle for aerial photography, conducting two short flights on Airpup and another brief flight as a kite aerial photography (KAP) rig.</summary></entry><entry><title type="html">Airpup production patterns</title><link href="https://headfullofair.com/post/airpup-production-plans/" rel="alternate" type="text/html" title="Airpup production patterns" /><published>2021-04-07T00:00:00-05:00</published><updated>2021-04-07T00:00:00-05:00</updated><id>https://headfullofair.com/post/airpup-production-plans</id><content type="html" xml:base="https://headfullofair.com/post/airpup-production-plans/">&lt;p&gt;Final plans for the production Airpup design are now &lt;a href=&quot;https://github.com/mathewlippincott/airpup-balloon/&quot;&gt;available on Github&lt;/a&gt;, released as open hardware under the &lt;a href=&quot;https://cern-ohl.web.cern.ch/home&quot;&gt;CERN Open Hardware Licence&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;While assembly instructions are included in the Github repository, I’ve also repeated them here. The header image shows how to seal the envelope as a three-part flat pattern. Sewing instructions are below:&lt;/p&gt;
 
@@ -789,21 +927,11 @@ The silver kite seen on the ground is by &lt;a href=&quot;https://www.haiwenlin.
   &lt;li&gt;
     &lt;p&gt;Tape Gluing Patches in place, sew into location.&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="github" /><category term="airpup" /><summary type="html">Final plans for the production Airpup design are now available on Github, released as open hardware under the CERN Open Hardware Licence.</summary></entry><entry><title type="html">Helium Supplier Map Built on uMap &amp;amp; OSM</title><link href="http://localhost:4000/post/helium-supplier-map/" rel="alternate" type="text/html" title="Helium Supplier Map Built on uMap &amp; OSM" /><published>2021-03-05T00:00:00-06:00</published><updated>2021-03-05T00:00:00-06:00</updated><id>http://localhost:4000/post/helium-supplier-map</id><content type="html" xml:base="http://localhost:4000/post/helium-supplier-map/">&lt;p&gt;With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kite balloons" /><category term="kites" /><category term="github" /><category term="airpup" /><summary type="html">Final plans for the production Airpup design are now available on Github, released as open hardware under the CERN Open Hardware Licence.</summary></entry><entry><title type="html">Helium Supplier Map Built on uMap &amp;amp; OSM</title><link href="https://headfullofair.com/post/helium-supplier-map/" rel="alternate" type="text/html" title="Helium Supplier Map Built on uMap &amp; OSM" /><published>2021-03-05T00:00:00-06:00</published><updated>2021-03-05T00:00:00-06:00</updated><id>https://headfullofair.com/post/helium-supplier-map</id><content type="html" xml:base="https://headfullofair.com/post/helium-supplier-map/">&lt;p&gt;With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.&lt;/p&gt;
 
 &lt;p&gt;If you find a helium supplier that is not on my &lt;a href=&quot;https://umap.openstreetmap.fr/en/map/helium-suppliers_259236#4/40.88/-81.62&quot;&gt;Helium Map&lt;/a&gt; (embedded below), please add one to &lt;a href=&quot;https://github.com/mathewlippincott/helium-map&quot;&gt;the Github repository&lt;/a&gt; or &lt;a href=&quot;/contact&quot;&gt;contact me&lt;/a&gt; with the info.&lt;/p&gt;
 
 &lt;p&gt;This map is built using &lt;a href=&quot;http://umap.openstreetmap.fr/en/&quot;&gt;uMap&lt;/a&gt;, a free and open source tool built on &lt;a href=&quot;https://www.openstreetmap.org/#map=4/38.01/-95.84&quot;&gt;OpenStreetMap&lt;/a&gt;. I’m rather fond of it. It allows you to pick a tile layer and even customize the look of the arrows, as I did on this &lt;a href=&quot;https://umap.openstreetmap.fr/en/map/futel-service-map_551231#4/42.46/-101.41&quot;&gt;service map&lt;/a&gt; for &lt;a href=&quot;https://futel.net/&quot;&gt;Futel&lt;/a&gt;. In addition to the web management interface, all the entries can be stored in and updated by from a CSV file, allowing version control.&lt;/p&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;300px&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; src=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236?scaleControl=false&amp;amp;miniMap=false&amp;amp;scrollWheelZoom=false&amp;amp;zoomControl=true&amp;amp;allowEdit=false&amp;amp;moreControl=true&amp;amp;searchControl=null&amp;amp;tilelayersControl=null&amp;amp;embedControl=null&amp;amp;datalayersControl=true&amp;amp;onLoadPanel=undefined&amp;amp;captionBar=false&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236&quot;&gt;See full screen&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="helium" /><category term="mapping" /><category term="airpup" /><summary type="html">With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.</summary></entry><entry><title type="html">Airpup production prototype: studio update</title><link href="http://localhost:4000/post/Airpup-production-video/" rel="alternate" type="text/html" title="Airpup production prototype: studio update" /><published>2019-11-11T00:00:00-06:00</published><updated>2019-11-11T00:00:00-06:00</updated><id>http://localhost:4000/post/Airpup-production-video</id><content type="html" xml:base="http://localhost:4000/post/Airpup-production-video/">&lt;p&gt;After a variety of delays, detailed in my previous &lt;a href=&quot;/tags/studio-update/&quot;&gt;studio update videos&lt;/a&gt;, I’ve finally finished the production prototype of &lt;a href=&quot;/tags/airpup&quot;&gt;Airpup&lt;/a&gt; and have done a solid test flight.&lt;/p&gt;
-
-&lt;p&gt;My studio update:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/Rtmg91_pyE8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;My flight was rather gusty and it was hard to keep Airpup in the frame, so this video is a bit fragmented. I explain a bit more about the conditions in my studio update, but overall I was very pleased with Airpup’s performance.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube-nocookie.com/embed/T3OeqqcOwRE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The glistening threads are &lt;a href=&quot;https://en.wikipedia.org/wiki/Ballooning_(spider)&quot;&gt;ballooning spiders&lt;/a&gt; whose migration was cut short by my kite line. My sincerest apologies to these awesome arachnids.&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="kites" /><category term="kite balloons" /><category term="airpup" /><category term="studio-update" /><summary type="html">After a variety of delays, detailed in my previous studio update videos, I’ve finally finished the production prototype of Airpup and have done a solid test flight.</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;//umap.openstreetmap.fr/en/map/helium-suppliers_259236&quot;&gt;See full screen&lt;/a&gt;&lt;/p&gt;</content><author><name>Mathew</name></author><category term="balloons" /><category term="helium" /><category term="mapping" /><category term="airpup" /><summary type="html">With the pandemic in full swing, helium is rather expensive and has been difficult to get. I’ve therefore been keeping track of suppliers and their offerings on a map.</summary></entry></feed>
